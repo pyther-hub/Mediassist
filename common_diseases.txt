@@ -1,0 +1,82 @@
+Common cold
+Influenza (Flu)
+Diarrhoeal diseases
+Depression
+Anxiety disorders
+Arthritis
+Back pain
+Headache
+Tooth decay
+Urinary tract infections (UTIs)
+Skin cancer
+Breast cancer
+Prostate cancer
+Lung cancer
+Colon cancer
+Cervical cancer
+Melanoma
+Leukemia
+Lymphoma
+Stroke
+Heart disease
+High blood pressure
+Chronic obstructive pulmonary disease (COPD)
+Asthma
+Diabetes
+Obesity
+Sleep apnea
+Kidney disease
+Autoimmune diseases
+Alzheimer's disease
+Parkinson's disease
+Multiple sclerosis
+Hearing loss
+Vision loss
+Food allergies
+Seasonal allergies
+Acne
+Eczema
+Psoriasis
+Shingles
+Human papillomavirus (HPV)
+HIV AIDS
+Hepatitis
+Ear infections
+Sinusitis
+Tonsillitis
+Bronchitis
+Pneumonia
+Strep throat
+Mononucleosis
+Meningitis
+Appendicitis
+Gallstones
+Peptic ulcers
+Irritable bowel syndrome (IBS)
+Gastroesophageal reflux disease (GERD)
+Constipation
+Hemorrhoids
+Anemia
+Thyroid disorders
+Autoimmune thyroiditis
+Grave's disease
+Hashimoto's thyroiditis
+Fibromyalgia
+Osteoporosis
+Glaucoma
+Cataracts
+Macular degeneration
+Athlete's foot
+Jock itch
+Ringworm
+Yeast infections
+Urinary incontinence
+Erectile dysfunction
+Fibroids
+Endometriosis
+Pelvic inflammatory disease (PID)
+Sexually transmitted infections (STIs)
+Chlamydia
+Gonorrhea
+Syphilis
+Bacterial vaginosis

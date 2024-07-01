@@ -1,0 +1,66 @@
+Stargardt disease  is the most common inherited single-gene retinal disease. In terms of the first description of the disease, it follows an autosomal recessive inheritance pattern, which has been later linked to bi-allelic ABCA4 gene variants (STGD1). 
+However, there are Stargardt-like diseases with mimicking phenotypes that are referred to as STGD3 and STGD4, and have a autosomal dominant inheritance due to defects with ELOVL4 or PROM1 genes, respectively. It is characterized by macular degeneration that begins in childhood, adolescence or adulthood, resulting in progressive loss of vision.
+
+
+## Signs and symptoms
+The presentation usually occurs in childhood or adolescence, though there is no upper age limit for presentation and late-onset is possible. The main symptom is loss of visual acuity, uncorrectable with glasses. This manifests as the lack of the ability to see fine details when reading or viewing distant objects. Symptoms typically develop before age 20 (median age of onset: ~17 years old), and include: wavy vision, blind spots, blurriness, loss of depth perception, sensitivity to glare, impaired colour vision, and difficulty adapting to dim lighting (delayed dark adaptation). There is a wide variation between individuals in the symptoms experienced as well as the rate of deterioration in vision. Vision loss can be attributed to buildup of byproducts of vitamin A in photoreceptor cells and Peripheral vision is usually less affected than fine, central (foveal) vision.
+
+
+## Genetics
+Historically from Stargardt's first description of his eponymous disease until recently, the diagnosis was based on looking at the phenotype using examination and investigation of the eye. Since the advent of genetic testing, the picture has become more complex. What was thought to be one disease is, in fact, probably at least three different diseases, each related to a different genetic change. Therefore it is currently a little confusing to define what Stargardt's disease is. Stargardt disease (STGD1) is caused by bi-allelic ABCA4 gene variants (i.e., autosomal recessive). Importantly, the exact genotype (i.e., combinations of both ABCA4 variants) is highly prognostic for the age of onset and disease progression.
+Autosomal-dominant Stargardt-like diseases were linked to genes such as PROM1 (STGD3) or ELOVL4 (STGD4) missense mutations play a role remains to be seen.
+The carrier frequency in the general population of ABCA4 alleles is 5 to 10%. Different combinations of ABCA4 genes will result in widely different age of onset and retinal pathology. The severity of the disease is inversely proportional to ABCA4 function and it is thought that ABCA4 related disease has a role to play in other diseases such as retinitis pigmentosa, cone-rod dystrophies and age-related macular degeneration (AMD).
+
+STGD1: By far the most common form of Stargardt disease is the recessive form caused by mutations in the ABCA4 gene.
+STGD4:  A rare dominant defect in the PROM1 gene.
+STGD3:  A rare dominant form of Stargardt disease caused by mutations in the ELOVL4 gene.
+Late-onset Stargardt disease is associated with missense mutations outside known functional domains of ABCA4.
+
+
+## Pathophysiology
+In STGD1, the genetic defect causes malfunction of the ATP-binding cassette transporter (ABCA4) protein of the visual phototransduction cycle. Defective ABCA4 leads to improper shuttling of vitamin A throughout the retina, and accelerated formation of toxic vitamin A dimers (also known as bisretinoids), and associated degradation byproducts. Vitamin A dimers and other byproducts are widely accepted as the cause of STGD1. As such, slowing the formation of vitamin A dimers might lead to a treatment for Stargardt. When vitamin A dimers and byproducts damage the retinal cells, fluorescent granules called lipofuscin in the retinal pigmented epithelium of the retina appear, reflecting such damage.
+In STGD4, a butterfly pattern of dystrophy is caused by mutations in a gene that encodes a membrane bound protein that is involved in the elongation of very long chain fatty acids (ELOVL4)
+
+
+## Diagnosis
+Diagnosis is firstly clinical through history and examination usually with a Slit-lamp. If characteristic features are found the investigations undertaken will depend on locally available equipment and may include Scanning laser ophthalmoscopy which highlights areas of autofluorescence which are associated with retinal pathology. Spectral-domain optical coherence tomography, electroretinography and microperimetry are also useful for diagnostic and prognostic purposes. Fluorescein angiography is used less often than in the past. These investigations may be followed by genetic testing in order to avoid misdiagnosis. Other diseases may have overlapping phenotypic features with Stargardt Disease and the disease itself has multiple variants. In one study, 35% of patients diagnosed with Stargardt Disease through physical ophthalmic examination were found to be misdiagnosed when subsequent genetic testing was done. Genetic testing can be utilized to ensure a proper diagnosis for which the correct treatment can be applied.
+
+
+## Treatment
+At present there is no gene therapy for Stargardt Disease. However, ophthalmologists recommend measures that could slow the rate of progression. There are no prospective clinical trials to support these recommendations, but they are based on scientific understanding of the mechanisms underlying the disease pathology. There are three strategies doctors recommend for potential harm reduction: reducing retinal exposure to damaging ultraviolet light,  avoiding excess Vitamin A with the hope of lowering lipofuscin accumulation and maintaining good general health and diet.
+MD Stem Cells' approach using Bone Marrow Derived Stem Cells has shown benefit in various retinal diseases. In Stargardt, 94.1% of patients had improved vision or remained stable with results showing high statistical significance (p=0.0004).  Reasons for improvement may include transfer of organelles (mitochondria, lysosomes), enhanced clearing of toxic Vitamin A byproducts, and neuroprotection of photoreceptors.
+Ultra-violet light has more energy and is a more damaging wavelength spectra than visible light. In an effort to mitigate this, some ophthalmologists may recommend that the patient wears a broad-brimmed hat or sunglasses when they are outdoors. Sometimes, doctors also instruct their patients to wear yellow-tinted glasses (which filter out blue light) when indoors and in artificial light or in front of a digital screen.
+Certain foods, especially carrots, are rich in vitamin A, but the amount from food is not harmful. Foods with a high vitamin A content are often yellow or orange in color, such as squash, pumpkin, and sweet potato, but some, such as liver, are not. There are supplements on the market with more than a daily allowance of vitamin A that should be avoided, but each individual should discuss this with their doctor.
+Smoking, overweight or obesity, and poor diet quality may also contribute to more rapid degeneration. On the other hand, the consumption of oily fish, in a diet similar to that which doctors recommend for age related macular degeneration, can be used to slow the progression of the disease.
+Advances in technology have brought devices that help Stargardt patients who are losing their vision maintain their independence. Low-vision aids can range from hand lenses to electronic devices and can allow those losing their vision to be able to carry out daily activities. Some patients may even opt for in-person services.
+
+
+## Prognosis
+The long-term prognosis for patients with Stargardt disease is widely variable and depends on the age of onset and genetic alleles.
+The majority of patients will progress to legal blindness, which means that central reading vision will be lost. However, perimetry and microperimetry studies indicate that the peripheral light sensitivity is preserved over a long time in a significant fraction of all patients (i.e., >50%). Stargardt disease has no impact on general health and life expectancy is normal.  Some patients, usually those with the late-onset form, can maintain excellent visual acuities for extended periods and are therefore able to perform tasks such as reading or driving.
+
+
+## Epidemiology
+A 2017 prospective epidemiologic study that recruited 81 patients with STGD over 12 months reported an incidence of between 1 and 1.28 per 10 000 individuals. The median age of presentation was 27 years (range 5–64 years), most (90%) were symptomatic, with a median visual acuity of Snellen equivalent 20/66.
+
+
+## History
+Karl Stargardt (1875–1927) was a German ophthalmologist born in Berlin. He studied medicine at the University of Kiel, qualifying in 1899. He later became head of the Bonn University's ophthalmology clinic, followed by a post as chair of ophthalmology at the University of Marburg.  In 1909 he described 7 patients with a recessively inherited macular dystrophy, now known as Stargardt's disease, being described as a progressive and severe reduction of central vision, which develops in the first and second decade of life.
+
+
+## Research
+There are several clinical trials in various stages involving several potential therapeutic areas, gene therapy, stem cell therapy, drug therapy and artificial retinas. In general all are testing the safety and benefits of their respective therapies in phase I or II trials. These studies are designed to evaluate the safety, dose and effectiveness in small number of people in Phase I with Phase II evaluating similar criteria in a larger population but including a greater insight into potential side effects.
+Gene therapy is designed to insert a copy of a corrected gene into retinal cells.  The hope is to return cell function back to normal and the treatment has the potential to stop disease progression. This therapy will not restore impaired vision back to normal.  The research is being undertaken by a partnership between Sanofi and Oxford BioMedica. A Lentiviral vector is used to deliver a normal gene to the target tissue via a subretinal injection. The therapy is known as SAR422459 and it has been terminated prematurely due to halt in developing the drug product.
+Kubota Vision is in Phase III clinical trials of a visual cycle modulator that modulates RPE65 activity to treat Stargardt's. Kubota Vision published the results of a dose range study of a drug known as Emixustat, with findings that will effect dose selection for their phase III trial set to complete in June 2022.
+Stem-cell therapy involves injecting cells with the potential to mature into differentiated and functioning retinal cells. This therapy has the potential stop disease progression and in the long term improve vision.  To improve vision this technique will need to replicate the complex multi-layered and neurally  anatomy of the retina. There are a number of research groups working with stem cells one of which is Ocata Therapeutics.
+Alkeus Pharma is evaluating the potential of deuterated vitamin A as the drug ALK-001. The hope is that the deuterated vitamin A will reduce the build-up of toxic vitamin A metabolites in the retina and therefore slow rate of visual deterioration.  To create deuterated vitamin A some of the hydrogen atoms are replaced with the isotope  deuterium  which has an extra neutron and is therefore twice the standard atomic weight of hydrogen. A Phase II clinical trial is taking place using ALK-001 with an estimated completion date of December 2024.
+MD Stem Cells, a research-physician clinical development company using autologous bone marrow derived stem cells (BMSC), has released results of the Stargardt Disease cohort within their ongoing Stem Cell Ophthalmology Study II (SCOTS2) clinical trial (NCT 03011541). Average visual improvement was 17.96% (95% CI, 16.39 to 19.53%) with 61.8% of eyes improving and 23.5% remaining stable with no adverse events occurring.
+Retinal implants are in the early stages of development and their use could be of benefit to many people with visual impairment though implanting and maintaining an electrical device within the eye that interfaces with the optic nerve presents many challenges.  An example of a device is made by Argus retinal prosthesis, the camera is an external device held on spectacles, the camera signal is processed and then fed via wires into the retina to terminate in some electrodes that interface with the optic nerve.
+
+
+## References
+
+
+## External links
+
+NCBI Genetic Testing Registry

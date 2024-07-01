@@ -1,0 +1,92 @@
+Pulmonary heart disease, also known as cor pulmonale, is the enlargement and failure of the right ventricle of the heart as a response to increased vascular resistance (such as from pulmonic stenosis) or high blood pressure in the lungs.
+Chronic pulmonary heart disease usually results in right ventricular hypertrophy (RVH), whereas acute pulmonary heart disease usually results in dilatation. Hypertrophy is an adaptive response to a long-term increase in pressure. Individual muscle cells grow larger (in thickness) and change to drive the increased contractile force required to move the blood against greater resistance. Dilatation is a stretching (in length) of the ventricle in response to acute increased pressure.
+To be classified as pulmonary heart disease, the cause must originate in the pulmonary circulation system; RVH due to a systemic defect is not classified as pulmonary heart disease. Two causes are vascular changes as a result of tissue damage (e.g. disease, hypoxic injury), and chronic hypoxic pulmonary vasoconstriction. If left untreated, then death may result. The heart and lungs are intricately related; whenever the heart is affected by a disease, the lungs risk following and vice versa. 
+
+
+## Signs and symptoms
+
+The symptoms/signs of pulmonary heart disease (cor pulmonale) can be non-specific and depend on the stage of the disorder, and can include blood backing up into the systemic venous system, including the hepatic vein. As pulmonary heart disease progresses, most individuals will develop symptoms like:
+
+Shortness of breath
+Wheezing
+Cyanosis
+Ascites
+Jaundice
+Enlargement of the liver
+Raised jugular venous pressure (JVP)
+Third heart sound
+Intercostal recession
+Presence of abnormal heart sounds
+
+
+## Causes
+
+The causes of pulmonary heart disease (cor pulmonale) are the following:
+
+Acute respiratory distress syndrome (ARDS)
+COPD
+Primary pulmonary hypertension
+Blood clots in lungs
+Kyphoscoliosis
+Interstitial lung disease
+Cystic fibrosis
+Sarcoidosis
+Obstructive sleep apnea (untreated)
+Sickle cell anemia
+Bronchopulmonary dysplasia (in infants)
+
+
+## Pathophysiology
+The pathophysiology of pulmonary heart disease (cor pulmonale) has always indicated that an increase in right ventricular afterload causes RV failure (pulmonary vasoconstriction, anatomic disruption/pulmonary vascular bed and increased blood viscosity are usually involved), however most of the time, the right ventricle adjusts to an overload in chronic pressure. According to Voelkel, et al., pressure overload is the initial step for changes in RV, other factors include:
+
+Ischemia
+Inflammation
+Oxidative damage
+Epigenetics
+Abnormal cardiac energetics
+
+
+## Diagnosis
+
+Investigations available to determine the cause of cor pulmonale include the following:
+
+Chest x-ray – right ventricular hypertrophy, right atrial dilatation, prominent pulmonary artery
+ECG – right ventricular hypertrophy, dysrhythmia, P pulmonale (characteristic peaked P wave)
+Thrombophilia screen- to detect chronic venous thromboembolism (proteins C and S, antithrombin III, homocysteine levels)
+
+
+### Differential diagnosis
+The diagnosis of pulmonary heart disease is not easy as both lung and heart disease can produce similar symptoms. Therefore, the differential diagnosis (DDx) should assess:
+
+Atrial myxoma
+Congestive heart failure
+Constrictive pericarditis
+Infiltrative cardiomyopathies
+Right heart failure (right ventricular infarction)
+Ventricular septal defect
+
+
+## Treatment
+The treatment for cor pulmonale can include the following: antibiotics, expectorants, oxygen therapy, diuretics, digitalis, vasodilators, and anticoagulants. Some studies have indicated that Shenmai injection with conventional treatment is safe and effective for cor pulmonale (chronic).
+Treatment requires diuretics (to decrease strain on the heart). Oxygen is often required to resolve the shortness of breath. Additionally, oxygen to the lungs also helps relax the blood vessels and eases right heart failure. When wheezing is present, the majority of individuals require a bronchodilator. A variety of medications have been developed to relax the blood vessels in the lung, calcium channel blockers are used but only work in few cases and according to NICE are not recommended for use at all.
+Anticoagulants are used when venous thromboembolism is present. Venesection is used in severe secondary polycythemia (because of hypoxia), which improves symptoms though survival rate has not been proven to increase. Finally, transplantation of single/double lung in extreme cases of cor pulmonale is also an option.
+
+
+## Epidemiology
+The epidemiology of pulmonary heart disease (cor pulmonale) accounts for 7% of all heart disease in the U.S. According to Weitzenblum, et al., the mortality that is related to cor pulmonale is not easy to ascertain, as it is a complication of COPD.
+
+
+## See also
+Bilharzial cor pulmonale.
+
+
+## References
+
+
+## Further reading
+Forfia, Paul R.; Vaidya, Anjali; Wiegers, Susan E. (2013-01-01). "Pulmonary heart disease: The heart-lung interaction and its impact on patient phenotypes". Pulmonary Circulation. 3 (1): 5–19. doi:10.4103/2045-8932.109910. ISSN 2045-8932. PMC 3641739. PMID 23662171.
+Taussig, Lynn M.; Landau, Louis I. (2008-04-09). Pediatric Respiratory Medicine. Elsevier Health Sciences. ISBN 978-0323070720.
+Jamal, K.; Fleetham, J. A.; Thurlbeck, W. M. (1990-05-01). "Cor Pulmonale: Correlation with Central Airway Lesions, Peripheral Airway Lesions, Emphysema, and Control of Breathing". American Review of Respiratory Disease. 141 (5_pt_1): 1172–1177. doi:10.1164/ajrccm/141.5_Pt_1.1172. ISSN 0003-0805. PMID 2339840.
+
+
+## External links

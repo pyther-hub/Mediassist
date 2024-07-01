@@ -1,0 +1,180 @@
+Graves disease, also known as toxic diffuse goiter or Basedow’s disease, is an autoimmune disease that affects the thyroid. It frequently results in and is the most common cause of hyperthyroidism. It also often results in an enlarged thyroid. Signs and symptoms of hyperthyroidism may include irritability, muscle weakness, sleeping problems, a fast heartbeat, poor tolerance of heat, diarrhea and unintentional weight loss. Other symptoms may include thickening of the skin on the shins, known as pretibial myxedema, and eye bulging, a condition caused by Graves' ophthalmopathy. About 25 to 30% of people with the condition develop eye problems.
+The exact cause of the disease is unclear, but symptoms are a result of antibodies binding to receptors on the thyroid causing over-expression of thyroid hormone. Persons are more likely to be affected if they have a family member with the disease. If one twin is affected, a 30% chance exists that the other twin will also have the disease. The onset of disease may be triggered by physical or emotional stress, infection, or giving birth. Those with other autoimmune diseases, such as type 1 diabetes and rheumatoid arthritis, are more likely to be affected. Smoking increases the risk of disease and may worsen eye problems. The disorder results from an antibody, called thyroid-stimulating immunoglobulin (TSI), that has a similar effect to thyroid stimulating hormone (TSH). These TSI antibodies cause the thyroid gland to produce excess thyroid hormones. The diagnosis may be suspected based on symptoms and confirmed with blood tests and radioiodine uptake. Typically, blood tests show a raised T3 and T4, low TSH, increased radioiodine uptake in all areas of the thyroid, and TSI antibodies.
+The three treatment options are radioiodine therapy, medications, and thyroid surgery. Radioiodine therapy involves taking iodine-131 by mouth, which is then concentrated in the thyroid and destroys it over weeks to months. The resulting hypothyroidism is treated with synthetic thyroid hormones. Medications such as beta blockers may control some of the symptoms, and antithyroid medications such as methimazole may temporarily help people, while other treatments are having effect. Surgery to remove the thyroid is another option. Eye problems may require additional treatments.
+Graves disease develops in about 0.5% of males and 3.0% of females. It occurs about 7.5 times more often in women than in men. Often, it starts between the ages of 40 and 60, but can begin at any age. It is the most common cause of hyperthyroidism in the United States (about 50 to 80% of cases). The condition is named after Irish surgeon Robert Graves, who described it in 1835. A number of prior descriptions also exist.
+
+
+## Signs and symptoms
+
+The signs and symptoms of Graves disease virtually all result from the direct and indirect effects of hyperthyroidism, with main exceptions being Graves ophthalmopathy, goiter, and pretibial myxedema (which are caused by the autoimmune processes of the disease). Symptoms of the resultant hyperthyroidism are mainly insomnia, hand tremor, hyperactivity, hair loss, excessive sweating, oligomenorrhea, itching, heat intolerance, weight loss despite increased appetite, diarrhea, frequent defecation, palpitations, periodic partial muscle weakness or paralysis in those especially of Asian descent, and skin warmth and moistness. Further signs that may be seen on physical examination are most commonly a diffusely enlarged (usually symmetric), nontender thyroid, lid lag, excessive lacrimation due to Graves' ophthalmopathy, arrhythmias of the heart, such as sinus tachycardia, atrial fibrillation, and premature ventricular contractions, and hypertension.
+
+
+## Cause
+The exact cause is unclear, but it is believed to involve a combination of genetic and environmental factors. While a theoretical mechanism occurs by which exposure to severe stressors and high levels of subsequent distress such as post-traumatic stress disorder  could increase the risk of immune disease and cause an aggravation of the autoimmune response that leads to Graves disease, more robust clinical data are needed for a firm conclusion.
+
+
+### Genetics
+A genetic predisposition for Graves' disease is seen, with some people more prone to develop TSH receptor-activating antibodies due to a genetic cause. Human leukocyte antigen DR (especially DR3) appears to play a role. To date, no clear genetic defect has been found to point to a single-gene cause.
+Genes believed to be involved include those for thyroglobulin, thyrotropin receptor, protein tyrosine phosphatase nonreceptor type 22 (PTPN22), and cytotoxic T-lymphocyte–associated antigen 4, among others.
+
+
+### Infectious trigger
+Since Graves disease is an autoimmune disease that appears suddenly, often later in life, a viral or bacterial infection may trigger antibodies, which cross-react with the human TSH receptor, a phenomenon known as antigenic mimicry.
+The bacterium Yersinia enterocolitica bears structural similarity with the human thyrotropin receptor and was hypothesized to contribute to the development of thyroid autoimmunity arising for other reasons in genetically susceptible individuals.
+In the 1990s,  Y. enterocolitica was suggested to be possibly associated with Graves' disease.
+More recently, the role for Y. enterocolitica has been disputed.
+Epstein–Barr virus  is another potential trigger.
+
+
+## Mechanism
+Thyroid-stimulating immunoglobulins recognize and bind to the TSH receptor, which stimulates the secretion of thyroxine (T4) and triiodothyronine (T3).  Thyroxine receptors in the pituitary gland are activated by the surplus hormone, suppressing additional release of TSH in a negative feedback loop.  The result is very high levels of circulating thyroid hormones and a low TSH level.
+
+
+### Pathophysiology
+
+Graves' disease is an autoimmune disorder, in which the body produces antibodies that are specific to a self-protein - the receptor for thyroid-stimulating hormone. (Antibodies to thyroglobulin and to the thyroid hormones T3 and T4 may also be produced.)
+These antibodies cause hyperthyroidism because they bind to the TSHr and chronically stimulate it. The TSHr is expressed on the thyroid follicular cells of the thyroid gland (the cells that produce thyroid hormone), and the result of chronic stimulation is an abnormally high production of T3 and T4. This, in turn, causes the clinical symptoms of hyperthyroidism, and the enlargement of the thyroid gland visible as goiter.
+The infiltrative exophthalmos frequently encountered has been explained by postulating that the thyroid gland and the extraocular muscles share a common antigen, which is recognized by the antibodies. Antibodies binding to the extraocular muscles would cause swelling behind the eyeball.
+The "orange peel" skin has been explained by the infiltration of antibodies under the skin, causing an inflammatory reaction and subsequent fibrous plaques.
+The three types of autoantibodies to the TSH receptor are:
+
+Thyroid stimulating immunoglobulins: these antibodies (mainly IgG) act as long-acting thyroid stimulants, activating the cells through a slower and more drawn out process compared to TSH, leading to an elevated production of thyroid hormone.
+Thyroid growth immunoglobulins: these antibodies bind directly to the TSH receptor and have been implicated in the growth of thyroid follicles.
+Thyrotrophin binding-inhibiting immunoglobulins: these antibodies inhibit the normal union of TSH with its receptor.
+Some actually act as if TSH itself is binding to its receptor, thus inducing thyroid function.
+Other types may not stimulate the thyroid gland, but prevent TSI and TSH from binding to and stimulating the receptor.
+Another effect of hyperthyroidism is bone loss from osteoporosis, caused by an increased excretion of calcium and phosphorus in the urine and stool. The effects can be minimized if the hyperthyroidism is treated early. Thyrotoxicosis can also augment calcium levels in the blood by as much as 25%. This can cause stomach upset, excessive urination, and impaired kidney function.
+
+
+## Diagnosis
+Graves disease may present clinically with one or more of these characteristic signs:
+
+Rapid heartbeat (80%)
+Diffuse palpable goiter with audible bruit (70%)
+Tremor (40%)
+Exophthalmos (protuberance of one or both eyes), periorbital edema (25%)
+Fatigue (70%), weight loss (60%) with increased appetite in young people and poor appetite in the elderly, and other symptoms of hyperthyroidism/thyrotoxicosis
+Heat intolerance (55%)
+Tremulousness (55%)
+Palpitations (50%)
+Two signs are truly diagnostic of Graves' disease (i.e., not seen in other hyperthyroid conditions): exophthalmos and non-pitting edema (pretibial myxedema). Goiter is an enlarged thyroid gland and is of the diffuse type (i.e., spread throughout the gland). Diffuse goiter may be seen with other causes of hyperthyroidism, although Graves' disease is the most common cause of diffuse goiter. A large goiter will be visible to the naked eye, but a small one (mild enlargement of the gland) may be detectable only by physical examination. Occasionally, goiter is not clinically detectable, but may be seen only with computed tomography or ultrasound examination of the thyroid. Another sign of Graves' disease is hyperthyroidism, that is, overproduction of the thyroid hormones T3 and T4. Normal thyroid levels are also seen, and occasionally also hypothyroidism, which may assist in causing goiter (though it is not the cause of the Graves' disease). Hyperthyroidism in Graves' disease is confirmed, as with any other cause of hyperthyroidism, by measuring elevated blood levels of free (unbound) T3 and T4.
+Other useful laboratory measurements in Graves disease include thyroid-stimulating hormone (TSH, usually undetectable in Graves disease due to negative feedback from the elevated T3 and T4), and protein-bound iodine (elevated). Serologically detected thyroid-stimulating antibodies, radioactive iodine  uptake, or thyroid ultrasound with Doppler all can independently confirm a diagnosis of Graves disease.
+Biopsy to obtain histiological testing is not normally required, but may be obtained if thyroidectomy is performed.
+The goiter in Graves disease is often not nodular, but thyroid nodules are also common. Differentiating common forms of hyperthyroidism such as Graves' disease, single thyroid adenoma, and toxic multinodular goiter is important to determine proper treatment. The differentiation among these entities has advanced, as imaging and biochemical tests have improved. Measuring TSH-receptor antibodies with the h-TBII assay has been proven efficient and was the most practical approach found in one study.
+
+
+### Eye disease
+
+Thyroid-associated ophthalmopathy (TAO), or thyroid eye disease (TED), is the most common extrathyroidal manifestation of Graves' disease. It is a form of idiopathic lymphocytic orbital inflammation, and although its pathogenesis is not completely understood, autoimmune activation of orbital fibroblasts, which in TAO express the TSH receptor, is thought to play a central role.
+Hypertrophy of the extraocular muscles, adipogenesis, and deposition of nonsulfated glycosaminoglycans and hyaluronate, causes expansion of the orbital fat and muscle compartments, which within the confines of the bony orbit may lead to dysthyroid optic neuropathy, increased intraocular pressures, proptosis, venous congestion leading to chemosis and periorbital edema, and progressive remodeling of the orbital walls. Other distinctive features of TAO include lid retraction, restrictive myopathy, superior limbic keratoconjunctivitis, and exposure keratopathy.
+Severity of eye disease may be classified by the mnemonic: "NO SPECS":
+
+Class 0: No signs or symptoms
+Class 1: Only signs (limited to upper lid retraction and stare, with or without lid lag)
+Class 2: Soft tissue involvement (oedema of conjunctivae and lids, conjunctival injection, etc.)
+Class 3: Proptosis
+Class 4: Extraocular muscle involvement (usually with diplopia)
+Class 5: Corneal involvement (primarily due to lagophthalmos)
+Class 6: Sight loss (due to optic nerve involvement)
+Typically, the natural history of TAO follows Rundle's curve, which describes a rapid worsening during an initial phase, up to a peak of maximum severity, and then improvement to a static plateau without, however, resolving back to a normal condition.
+
+
+## Management
+Treatment of Graves disease includes antithyroid drugs that reduce the production of thyroid hormone, radioiodine (radioactive iodine I-131) and thyroidectomy (surgical excision of the gland). As operating on a hyperthyroid patient is dangerous, prior to thyroidectomy, preoperative treatment with antithyroid drugs is given to render the patient euthyroid. Each of these treatments has advantages and disadvantages, and no single treatment approach is considered the best for everyone.
+Treatment with antithyroid medications must be administered for six months to two years to be effective. Even then, upon cessation of the drugs, the hyperthyroid state may recur. The risk of recurrence is about 40–50%, and lifelong treatment with antithyroid drugs carries some side effects such as agranulocytosis and liver disease. Side effects of the antithyroid medications include a potentially fatal reduction in the level of white blood cells. Therapy with radioiodine is the most common treatment in the United States, while antithyroid drugs and/or thyroidectomy are used more often in Europe, Japan, and most of the rest of the world.
+β-Blockers (such as propranolol) may be used to inhibit the sympathetic nervous system symptoms of tachycardia and nausea until antithyroid treatments start to take effect. Pure β-blockers do not inhibit lid retraction in the eyes, which is mediated by alpha adrenergic receptors.
+
+
+### Antithyroid drugs
+The main antithyroid drugs are carbimazole (in the UK), methimazole (in the US), and propylthiouracil/PTU. These drugs block the binding of iodine and coupling of iodotyrosines. The most dangerous side effect is agranulocytosis (1/250, more in PTU). Others include granulocytopenia (dose-dependent, which improves on cessation of the drug) and aplastic anemia. Patients on these medications should see a doctor if they develop sore throat or fever. The most common side effects are rash and peripheral neuritis. These drugs also cross the placenta and are secreted in breast milk. Lugol's iodine may be used to block hormone synthesis before surgery.
+A randomized control trial testing single-dose treatment for Graves found methimazole achieved euthyroid state more effectively after 12 weeks than did propylthyouracil (77.1% on methimazole 15 mg vs 19.4% in the propylthiouracil 150 mg groups).
+No difference in outcome was shown for adding thyroxine to antithyroid medication and continuing thyroxine versus placebo after antithyroid medication withdrawal. However, two markers were found that can help predict the risk of recurrence. These two markers are a positive TSHr antibody (TSHR-Ab) and smoking. A positive TSHR-Ab at the end of antithyroid drug treatment increases the risk of recurrence to 90% (sensitivity 39%, specificity 98%), and a negative TSHR-Ab at the end of antithyroid drug treatment is associated with a 78% chance of remaining in remission. Smoking was shown to have an impact independent to a positive TSHR-Ab.
+
+
+### Radioiodine
+
+Radioiodine (radioactive iodine-131) was developed in the early 1940s at the Mallinckrodt General Clinical Research Center. This modality is suitable for most patients, although some prefer to use it mainly for older patients. Indications for radioiodine are failed medical therapy or surgery and where medical or surgical therapy are contraindicated. Hypothyroidism may be a complication of this therapy, but may be treated with thyroid hormones if it appears. The rationale for radioactive iodine is that it accumulates in the thyroid and irradiates the gland with its beta and gamma radiations, about 90% of the total radiation being emitted by the beta (electron) particles. The most common method of iodine-131 treatment is to administer a specified amount in microcuries per gram of thyroid gland based on palpation or radiodiagnostic imaging of the gland over 24 hours. Patients who receive the therapy must be monitored regularly with thyroid blood tests to ensure they are treated with thyroid hormone before they become symptomatically hypothyroid.
+Contraindications to RAI are pregnancy (absolute), ophthalmopathy (relative; it can aggravate thyroid eye disease), or solitary nodules.
+Disadvantages of this treatment are a high incidence of hypothyroidism (up to 80%) requiring eventual thyroid hormone supplementation in the form of a daily pill(s). The radioiodine treatment acts slowly (over months to years) to destroy the thyroid gland, and Graves' disease–associated hyperthyroidism is not cured in all persons by radioiodine, but has a relapse rate that depends on the dose of radioiodine which is administered. In rare cases, radiation induced thyroiditis has been linked to this treatment.
+
+
+### Surgery
+
+This modality is suitable for young people and pregnant females. Indications for thyroidectomy can be separated into absolute indications or relative indications. These indications aid in deciding which people would benefit most from surgery. The absolute indications are a large goiter (especially when compressing the trachea), suspicious nodules or suspected cancer (to pathologically examine the thyroid), and people with ophthalmopathy and additionally if it is the person's preferred method of treatment or if refusing to undergo radioactive iodine treatment. Pregnancy is advised to be delayed for six months after radioactive iodine treatment.
+Both bilateral subtotal thyroidectomy and the Hartley-Dunhill procedure (hemithyroidectomy on one side and partial lobectomy on other side) are possible.
+Advantages are immediate cure and potential removal of carcinoma. Its risks are injury of the recurrent laryngeal nerve, hypoparathyroidism (due to removal of the parathyroid glands), hematoma (which can be life-threatening if it compresses the trachea), relapse following medical treatment, infections (less common), and scarring. The increase in the risk of nerve injury can be due to the increased vascularity of the thyroid parenchyma and the development of links between the thyroid capsule and the surrounding tissues. Reportedly, a 1% incidence exists of permanent recurrent laryngeal nerve paralysis after complete thyroidectomy. Risks related to anesthesia are many, thus coordination with the anesthesiologist and patient optimization for surgery preoperatively are essential.  Removal of the gland enables complete biopsy to be performed to have definite evidence of cancer anywhere in the thyroid. (Needle biopsies are not so accurate at predicting a benign state of the thyroid).  No further treatment of the thyroid is required, unless cancer is detected.  Radioiodine uptake study may be done after surgery, to ensure  all remaining (potentially cancerous) thyroid cells (i.e., near the nerves to the vocal cords) are destroyed. Besides this, the only remaining treatment will be levothyroxine, or thyroid replacement pills to be taken for the rest of the patient's life.
+A 2013 review article concludes that surgery appears to be the most successful in the management of Graves' disease, with total thyroidectomy being the preferred surgical option.
+
+
+### Eyes
+Mild cases are treated with lubricant eye drops or nonsteroidal anti-inflammatory drops. Severe cases threatening vision (corneal exposure or optic nerve compression) are treated with steroids or orbital decompression. In all cases, cessation of smoking is essential. Double vision can be corrected with prism glasses and surgery (the latter only when the process has been stable for a while).
+Difficulty closing eyes can be treated with lubricant gel at night, or with tape on the eyes to enable full, deep sleep.
+Orbital decompression can be performed to enable bulging eyes to retreat back into the head. Bone is removed from the skull behind the eyes, and space is made for the muscles and fatty tissue to fall back into the skull. 
+For management of clinically active Graves disease, orbitopathy (clinical activity score >2) with at least mild to moderate severity, intravenous glucocorticoids are the treatment of choice, usually administered in the form of pulse intravenous methylprednisolone. Studies have consistently shown that pulse intravenous methylprednisolone is superior to oral glucocorticoids both in terms of efficacy and decreased side effects for managing Graves' orbitopathy.
+
+
+## Prognosis
+If left untreated, more serious complications could result, including birth defects in pregnancy, increased risk of a miscarriage, bone mineral loss and, in extreme cases, death (e.g. indirectly through complications, or through a thyroid storm event). Graves' disease is often accompanied by an increase in heart rate, which may lead to further heart complications, including loss of the normal heart rhythm (atrial fibrillation), which may lead to stroke. If the eyes are proptotic (bulging) enough that the lids do not close completely at night, dryness will occur – with the risk of a secondary corneal infection, which could lead to blindness. Pressure on the optic nerve behind the globe can lead to visual field defects and vision loss, as well. Prolonged untreated hyperthyroidism can lead to bone loss, which may resolve when treated.
+
+
+## Epidemiology
+
+Graves' disease occurs in about 0.5% of people. Graves' disease data has shown that the lifetime risk for women is around 3% and 0.5% for men. It occurs about 7.5 times more often in women than in men and often starts between the ages of 40 and 60. It is the most common cause of hyperthyroidism in the United States (about 50 to 80% of cases).
+
+
+## History
+Graves disease owes its name to the Irish doctor Robert James Graves, who described a case of goiter with exophthalmos in 1835. (Medical eponyms are often styled nonpossessively; thus Graves' disease and Graves disease are variant stylings of the same term.)
+The German Karl Adolph von Basedow independently reported the same constellation of symptoms in 1840. As a result, on the European continent, the terms "Basedow syndrome", "Basedow disease", or "Morbus Basedow" are more common than "Graves' disease".
+Graves disease has also been called exophthalmic goiter.
+Less commonly, it has been known as Parry disease, Begbie disease, Flajan disease, Flajani–Basedow syndrome, and Marsh disease. These names for the disease were derived from Caleb Hillier Parry, James Begbie, Giuseppe Flajani, and  Henry Marsh. Early reports, not widely circulated, of cases of goiter with exophthalmos were published by the Italians Giuseppe Flajani and Antonio Giuseppe Testa, in 1802 and 1810, respectively. Prior to these, Caleb Hillier Parry, a notable provincial physician in England of the late 18th century (and a friend of Edward Miller-Gallus), described a case in 1786. This case was not published until 1825 - ten years ahead of Graves.
+However, fair credit for the first description of Graves disease goes to the 12th-century Persian physician Sayyid Ismail al-Jurjani, who noted the association of goiter and exophthalmos in his Thesaurus of the Shah of Khwarazm, the major medical dictionary of its time.
+
+
+## Society and culture
+
+
+### Notable cases
+
+Ayaka, Japanese singer, was diagnosed with Graves disease in 2007. After going public with her diagnosis in 2009, she took a two-year hiatus from music to focus on treatment.
+Susan Elizabeth Blow, American educator and founder of the first publicly funded kindergarten in the United States, was forced to retire and seek treatment for Graves disease in 1884.
+George H. W. Bush, former U.S. president, developed new atrial fibrillation and was diagnosed in 1991 with hyperthyroidism due to the disease and treated with radioactive iodine. The president's wife, Barbara Bush, also developed the disease around the same time, which, in her case, produced severe infiltrative exophthalmos.
+Rodney Dangerfield, American comedian and actor
+Gail Devers, American sprinter: A doctor considered amputating her feet after she developed blistering and swelling following radiation treatment for Graves' disease, but she went on to recover and win Olympic medals.
+Missy Elliott, American hip-hop artist
+Marty Feldman, British comedy writer, comedian and actor
+Sia, Australian singer and songwriter
+Sammy Gravano, Italian-American former underboss of the Gambino crime family
+Jim Hamilton, Scottish rugby player, discovered he had Graves' disease shortly after retiring from the sport in 2017.
+Heino, German folk singer, whose dark sunglasses (worn to hide his symptoms) became part of his trademark look
+Herbert Howells, British composer; the first person to be treated with radium injections
+Yayoi Kusama, Japanese artist
+Nadezhda Krupskaya, Russian Communist and wife of Vladimir Lenin
+Umm Kulthum was an Egyptian singer, songwriter, and film actress active from the 1920s to the 1970s.
+Barbara Leigh, an American former actress and fashion model, now spokeswoman for the National Graves' Disease Foundation
+Keiko Masuda, Japanese singer and one-half of the duo Pink Lady.
+Yūko Miyamura, Japanese voice actress
+Lord Monckton, former UKIP and Conservative politician
+Sophia Parnok, Russian poet
+Sir Cecil Spring Rice, British ambassador to the United States during World War I, died suddenly of the disease in 1918.
+Christina Rossetti, English Victorian-era poet
+Dame Maggie Smith, British actress
+Mary Webb, British novelist and poet
+Wendy Williams, American TV show host
+Act Yasukawa, Japanese professional wrestler
+
+
+### Literature
+In Italo Svevo's novel Zeno's Conscience, character Ada develops the disease.
+Ern Malley was an acclaimed Australian poet whose work was not published until after his death from Graves' disease in 1943.  However, Malley's existence and entire biography was actually later revealed to be a literary hoax.
+
+
+## Research
+Agents that act as antagonists at thyroid stimulating hormone receptors are under investigation as a possible treatment for Graves' disease.
+
+
+## References
+
+
+## External links
+"Graves' disease". Genetics Home Reference. U.S. National Library of Medicine.
+https://www.ncbi.nlm.nih.gov/gene/?term=graves about graves on ncbi

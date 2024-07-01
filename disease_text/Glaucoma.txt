@@ -1,0 +1,303 @@
+Glaucoma is a group of eye diseases that lead to damage of the optic nerve, which transmits visual information from the eye to the brain. Glaucoma may cause vision loss if left untreated. It has been called the "silent thief of sight" because the loss of vision usually occurs slowly over a long period of time. A major risk factor for glaucoma is increased pressure within the eye, known as intraocular pressure (IOP). It is associated with old age, a family history of glaucoma, and certain medical conditions or medications. The word glaucoma comes from the Ancient Greek word γλαυκός (glaukós), meaning 'gleaming, blue-green, gray'.
+There are different types of glaucoma, but the most common are called open-angle glaucoma and closed-angle glaucoma. Inside the eye, a liquid called aqueous humor helps to maintain shape and provides nutrients. The aqueous humor normally drains through the trabecular meshwork. In open-angle glaucoma, the draining is impeded, causing the liquid to accumulate and pressure inside the eye to increase. This elevated pressure can damage the optic nerve. In closed-angle glaucoma, the drainage of the eye becomes suddenly blocked, leading to a rapid increase in intraocular pressure. This may lead to intense eye pain, blurred vision, and nausea. Closed-angle glaucoma is an emergency requiring immediate attention.
+If treated early, it is possible to slow or stop the progression of glaucoma. Regular eye examinations, especially if the person is over 40 or has a family history of glaucoma, are essential for early detection. Treatment typically includes prescription of eye drops, medication, laser treatment or surgery. The goal of these treatments is to decrease eye pressure.
+About 80 million people worldwide have glaucoma, with 50% unaware that they are affected. It is the leading cause of blindness in African Americans, Hispanic Americans, and Asians. It occurs more commonly among older people, and closed-angle glaucoma is more common in women. Worldwide, glaucoma is the second-leading cause of blindness after cataracts, and is the leading cause of irreversible blindness worldwide. 
+
+
+## Signs and symptoms
+
+Open angle glaucoma usually presents with no symptoms early in the course of the disease. However, it may gradually progress to involve difficulties with vision. It usually involves deficits in the peripheral vision followed by central vision loss as the disease progresses, but less commonly it may present as central vision loss or patchy areas of vision loss. On an eye examination, optic nerve changes are seen indicating damage to the optic nerve head (increased cup-to-disc ratio on fundoscopic examination).
+Acute angle closure glaucoma, a medical emergency due to the risk of impending permanent vision loss, is characterized by sudden ocular pain, seeing halos around lights, red eye, very high intraocular pressure, nausea and vomiting, and suddenly decreased vision. Acute angle closure glaucoma may further present with corneal edema, engorged conjunctival vessels and a fixed and dilated pupil on examination.
+Opaque specks may occur in the lens in glaucoma, known as glaukomflecken. The word is German, meaning "glaucoma-specks".
+
+
+## Risk factors
+Glaucoma can affect anyone; there are some people, however, with a higher susceptibility to develop glaucoma due to some risk factors which include:
+
+
+### Ocular hypertension
+Ocular hypertension (increased pressure within the eye) is the most important risk factor for glaucoma, but only about 50% of people with primary open-angle glaucoma actually have elevated ocular pressure. Ocular hypertension—an intraocular pressure above the traditional threshold of 21 mmHg (28 hPa) or even above 24 mmHg (32 hPa)—is not necessarily a pathological condition, but it increases the risk of developing glaucoma. One study found a conversion rate of 18% within five years, meaning fewer than one in five people with elevated intraocular pressure will develop glaucomatous visual field loss over that period of time. It is a matter of debate whether every person with an elevated intraocular pressure should receive glaucoma therapy; as of 2018, most ophthalmologists favored treatment of those with additional risk factors.
+Risk factors for glaucoma include increasing age, high intraocular pressure, a family history of glaucoma, and use of steroid medication. For eye pressures, a value of 28 hPa (21 mmHg) above atmospheric pressure 1,010 hPa (760 mmHg) is often used, with higher pressures leading to a greater risk. However, some may have high eye pressure for years and never develop damage. Conversely, optic nerve damage may occur with normal pressure, known as normal-tension glaucoma. The mechanism of open-angle glaucoma is believed to be the slow exit of aqueous humor through the trabecular meshwork, while in closed-angle glaucoma the iris blocks the trabecular meshwork. Diagnosis is achieved by performing a dilated eye examination. Often, the optic nerve shows an abnormal amount of cupping.
+
+
+### Family history and genetics
+Positive family history is a risk factor for glaucoma. The relative risk of having primary open-angle glaucoma is increased about two- to four-fold for people who have a sibling with glaucoma. Glaucoma, particularly primary open-angle glaucoma, is associated with mutations in several genes, including MYOC, ASB10, WDR36, NTF4, TBK1, and RPGRIP1. Many of these genes are involved in critical cellular processes that are implicated in the development and progression of glaucoma, including regulation of intraocular pressure, retinal ganglion cell health, and optic nerve function. Normal-tension glaucoma, which comprises one-third of primary open-angle glaucoma, is also associated with genetic mutations (including OPA1 and OPTN genes).
+Additionally, there are some rare genetic conditions that increase the risk of glaucoma, such as Axenfeld-Rieger syndrome and primary congenital glaucoma, which is  associated with mutations in CYP1B1 or LTBP2. They are inherited in an autosomal recessive fashion. Axenfeld-Rieger syndrome is inherited in an autosomal dominant fashion and is associated with PITX2 or FOXC1.
+
+
+### Ethnicity
+Many people of East Asian descent are prone to developing angle closure glaucoma because of shallower anterior chamber depths, with the majority of cases of glaucoma in this population consisting of some form of angle closure. Higher rates of glaucoma have also been reported for Inuit populations, compared to White populations, in Canada and Greenland.
+In the United States, glaucoma is more common in African Americans, Latinos and Asian-Americans.
+
+
+### Diet
+No clear evidence indicates that vitamin deficiencies cause glaucoma in humans. As such, oral vitamin supplementation is not a recommended treatment. Caffeine increases intraocular pressure in those with glaucoma, but does not appear to affect normal individuals.
+
+
+### Other
+
+Other factors can cause glaucoma, known as "secondary glaucoma", including prolonged use of steroids (steroid-induced glaucoma); conditions that severely restrict blood flow to the eye, such as severe diabetic retinopathy and central retinal vein occlusion (neovascular glaucoma); ocular trauma (angle-recession glaucoma); plateau iris; and inflammation of the middle layer of the pigmented vascular eye structure (uveitis), known as uveitic glaucoma.
+
+
+## Pathophysiology
+
+The main effect of glaucoma is damage to the optic nerve. Eventually, this damage leads to vision loss, which can deteriorate with time. The underlying cause of open-angle glaucoma remains unclear. Several theories exist on its exact etiology. However, the major risk factor for most glaucomas and the focus of treatment is increased intraocular pressure. Intraocular pressure is a function of production of liquid aqueous humor by the ciliary processes of the eye, and its drainage through the trabecular meshwork. Aqueous humor flows from the ciliary processes into the posterior chamber, bounded posteriorly by the lens and the zonules of Zinn, and anteriorly by the iris. It then flows through the pupil of the iris into the anterior chamber, bounded posteriorly by the iris and anteriorly by the cornea.
+From here, the trabecular meshwork drains aqueous humor via the scleral venous sinus (Schlemm's canal) into scleral plexuses and general blood circulation.
+In open/wide-angle glaucoma, flow is reduced through the trabecular meshwork, due to the degeneration and obstruction of the trabecular meshwork, whose original function is to absorb the aqueous humor. Loss of aqueous humor absorption leads to increased resistance and thus a chronic, painless buildup of pressure in the eye.
+In primary angle closure glaucoma, the iridocorneal angle is narrowed or completely closed obstructing the flow of aqueous humor to the trabecular meshwork for drainage. This is usually due to the forward displacement of the iris against the cornea, resulting in angle closure. This accumulation of aqueous humor causes an acute increase in pressure and damage to the optic nerve.
+The pathophysiology of glaucoma is not well understood. There are several theories regarding the mechanism of the damage to the optic nerve in glaucoma. The biomechanical theory hypothesizes that the retinal ganglion cell axons (which form the optic nerve head and the retinal nerve fiber layer) are particularly susceptible to mechanical damage from increases in the intraocular pressure as they pass through pores at the lamina cribrosa. Thus increases in intraocular pressure would cause nerve damage as seen in glaucoma. The vascular theory hypothesizes that a decreased blood supply to the retinal ganglions cells leads to nerve damage. This decrease in blood supply may be due to increasing intraocular pressures, and may also be due to systemic hypotension, vasospasm or atherosclerosis. This is supported by evidence that those with low blood pressure, particularly low diastolic blood pressure, are at an increased risk of glaucoma. 
+The primary neurodegeneration theory hypothesizes that a primary neurodegenerative process may be responsible for degeneration at the optic nerve head in glaucoma. This would be consistent with a possible mechanism of normal tension glaucoma (those with open-angle glaucoma with normal eye pressures) and is supported by evidence showing a correlation of glaucoma with Alzheimer's dementia and other causes of cognitive decline.
+Both experimental and clinical studies implicate that oxidative stress plays a role in the pathogenesis of open-angle glaucoma as well as in Alzheimer's disease.
+Degeneration of axons of the retinal ganglion cells (the optic nerve) is a hallmark of glaucoma. The inconsistent relationship of glaucomatous optic neuropathy with increased intraocular pressure has provoked hypotheses and studies on anatomic structure, eye development, nerve compression trauma, optic nerve blood flow, excitatory neurotransmitter, trophic factor, retinal ganglion cell or axon degeneration, glial support cell, immune system, aging mechanisms of neuron loss, and severing of the nerve fibers at the scleral edge.
+
+
+## Diagnosis
+
+Screening for glaucoma is an integral part of a standard eye examination performed by optometrists and ophthalmologists. The workup for glaucoma involves taking a thorough case history, with the emphasis on assessment of risk factors. 
+The baseline glaucoma evaluation tests include intraocular pressure measurement by using tonometry, anterior chamber angle assessment by optical coherence tomography, inspecting the drainage angle (gonioscopy), and retinal nerve fiber layer assessment with a dilated fundus examination, measuring corneal thickness (pachymetry), and visual field testing.
+
+
+### Types
+
+Glaucoma has been classified into specific types:
+
+
+### Primary glaucoma and its variants
+Primary glaucoma (H40.1-H40.2)
+
+Primary open-angle glaucoma, also known as chronic open-angle glaucoma, chronic simple glaucoma, glaucoma simplex
+High-tension glaucoma
+Low-tension glaucoma
+Primary angle closure glaucoma, also known as primary closed-angle glaucoma, narrow-angle glaucoma, pupil-block glaucoma, acute congestive glaucoma
+Acute angle closure glaucoma (aka AACG)
+Chronic angle closure glaucoma
+Intermittent angle closure glaucoma
+Superimposed on chronic open-angle closure glaucoma ("combined mechanism" – uncommon)
+Variants of primary glaucoma
+
+Pigmentary glaucoma
+Exfoliation glaucoma, also known as pseudoexfoliative glaucoma or glaucoma capsulare
+Primary juvenile glaucoma
+Primary angle closure glaucoma is caused by contact between the iris and trabecular meshwork, which in turn obstructs outflow of the aqueous humor from the eye. This contact between iris and trabecular meshwork (TM) may gradually damage the function of the meshwork until it fails to keep pace with aqueous production, and the pressure rises. In over half of all cases, prolonged contact between iris and TM causes the formation of synechiae (effectively "scars").
+These cause permanent obstruction of aqueous outflow. In some cases, pressure may rapidly build up in the eye, causing pain and redness (symptomatic, or so-called "acute" angle closure). In this situation, the vision may become blurred, and halos may be seen around bright lights. Accompanying symptoms may include a headache and vomiting.
+Diagnosis is made from physical signs and symptoms: pupils mid-dilated and unresponsive to light, cornea edematous (cloudy), reduced vision, redness, and pain. However, the majority of cases are asymptomatic. Prior to the very severe loss of vision, these cases can only be identified by examination, generally by an eye care professional.
+Primary open-angle glaucoma is when optic nerve damage results in a progressive loss of the visual field. This is associated with increased pressure in the eye. Not all people with primary open-angle glaucoma have eye pressure that is elevated beyond normal, but decreasing the eye pressure further has been shown to stop progression even in these cases.
+The increased pressure is caused by trabecular meshwork blockage. Because the microscopic passageways are blocked, the pressure builds up in the eye and causes imperceptible very gradual vision loss. Peripheral vision is affected first, but eventually the entire vision will be lost if not treated.
+Diagnosis is made by looking for cupping of the optic nerve.
+
+
+### Developmental glaucoma
+Developmental glaucoma (Q15.0)
+
+Primary congenital glaucoma
+Infantile glaucoma
+Glaucoma associated with hereditary or familial diseases
+
+
+### Secondary glaucoma
+Secondary glaucoma (H40.3-H40.6)
+
+Inflammatory glaucoma
+Uveitis of all types
+Fuchs heterochromic iridocyclitis
+Phacogenic glaucoma
+Angle-closure glaucoma with mature cataract
+Phacoanaphylactic glaucoma secondary to rupture of lens capsule
+Phacolytic glaucoma due to phacotoxic meshwork blockage
+Subluxation of lens
+Glaucoma secondary to intraocular hemorrhage
+Hyphema
+Hemolytic glaucoma, also known as erythroclastic glaucoma
+Traumatic glaucoma
+Angle recession glaucoma: Traumatic recession on anterior chamber angle
+Postsurgical glaucoma
+Aphakic pupillary block
+Ciliary block glaucoma
+Neovascular glaucoma (see below for more details)
+Drug-induced glaucoma
+Corticosteroid induced glaucoma
+Alpha-chymotrypsin glaucoma. Postoperative ocular hypertension from use of alpha chymotrypsin.
+Glaucoma of miscellaneous origin
+Associated with intraocular tumors
+Associated with retinal detachments
+Secondary to severe chemical burns of the eye
+Associated with essential iris atrophy
+Toxic glaucoma
+Neovascular glaucoma, an uncommon type of glaucoma, is difficult or nearly impossible to treat, and is often caused by proliferative diabetic retinopathy (PDR) or central retinal vein occlusion (CRVO). It may also be triggered by other conditions that result in ischemia of the retina or ciliary body. Individuals with poor blood flow to the eye are highly at risk for this condition.
+Neovascular glaucoma results when new, abnormal vessels begin developing in the angle of the eye that begin blocking the drainage. People with such condition begin to rapidly lose their eyesight. Sometimes, the disease appears very rapidly, especially after cataract surgery procedures.
+Toxic glaucoma is open-angle glaucoma with an unexplained significant rise of intraocular pressure following unknown pathogenesis. Intraocular pressure can sometimes reach 80 mmHg (11 kPa). It characteristically manifests as ciliary body inflammation and massive trabecular edema that sometimes extends to Schlemm's canal. This condition is differentiated from malignant glaucoma by the presence of a deep and clear anterior chamber and a lack of aqueous misdirection. Also, the corneal appearance is not as hazy. A reduction in visual acuity can occur followed neuroretinal breakdown.
+Associated factors include inflammation, drugs, trauma and intraocular surgery, including cataract surgery and vitrectomy procedures. Gede Pardianto (2005) reported on four patients who had toxic glaucoma. One of them underwent phacoemulsification with small particle nucleus drops. Some cases can be resolved with some medication, vitrectomy procedures or trabeculectomy. Valving procedures can give some relief, but further research is required.
+
+
+### Absolute glaucoma
+Absolute glaucoma (H44.5) is the end stage of all types of glaucoma. The eye has no vision, absence of pupillary light reflex and pupillary response, and has a stony appearance. Severe pain is present in the eye. The treatment of absolute glaucoma is a destructive procedure like cyclocryoapplication, cyclophotocoagulation, or injection of 99% alcohol.
+Glaucoma is an umbrella term for eye conditions that damage the optic nerve and that can lead to a loss of vision. The main cause of damage to the optic nerve is intraocular pressure (IOP), excessive fluid pressure within the eye, which can be caused by factors such as blockage of drainage ducts and narrowing or closure of the angle between the iris and cornea.
+Glaucoma is primarily categorized as either open-angle or closed-angle (or angle-closure). In open-angle glaucoma, the iris meets the cornea normally, allowing the fluid from inside the eye to drain, thus relieving the internal pressure. When this angle is narrowed or closed, pressure increases over time, causing damage to the optic nerve and leading to blindness.
+Primary open-angle glaucoma (also called primary or chronic glaucoma) involves the slow clogging of drainage canals resulting in increased eye pressure, which causes progressive optic nerve damage. This manifests as a gradual loss of the visual field, starting with a loss of peripheral vision, but eventually all vision will be lost if the condition is not treated. This is the most common type of glaucoma, accounting for 90% of cases in the United States, but is less prevalent in Asian countries. Onset is slow and painless, and loss of vision is gradual and irreversible.
+With narrow-angle glaucoma (also called closed-angle glaucoma), the iris bows forward, narrowing the angle that drains the eye, increasing pressure within the eye. If untreated, it can lead to the medical emergency of angle-closure glaucoma.
+With angle-closure glaucoma (also called closed-angle, primary angle-closure or acute glaucoma), the iris bows forward and causes physical contact between the iris and trabecular meshwork, which blocks the outflow of aqueous humor from within the eye. This contact may gradually damage the draining function of the meshwork until it fails to keep pace with aqueous production, and the intraocular pressure rises. The onset of symptoms is sudden and causes pain and other noticeable symptoms, and the condition is treated as a medical emergency. Unlike open-angle glaucoma, angle-closure glaucoma is a result of the closing of the angle between the iris and cornea. This tends to occur in the farsighted, who have smaller anterior chambers, making physical contact between the iris and trabecular meshwork more likely. A variety of tests may be performed to detect those at risk of angle-closure glaucoma. Closed-angle glaucoma accounts for fewer than 10% of glaucoma cases in the United States, but as many as half of glaucoma cases in other nations (particularly East Asian countries).
+Normal-tension glaucoma (NTG, also called low-tension or normal-pressure glaucoma) is a condition in which the optic nerve is damaged although intraocular pressure (IOP) is in the normal range (12 to 22 mmHg (1.6 to 2.9 kPa)). Individuals with a family history of NTG, those of Japanese ancestry, those with a history of systemic heart disease and those with Flammer syndrome are at an elevated risk of developing NTG. The cause of NTG is unknown.
+Secondary glaucoma refers to any case in which another disease, trauma, drug or procedure causes increased eye pressure, resulting in optic nerve damage and vision loss, which may be mild or severe. This may be the result of an eye injury, inflammation, a tumor or advanced cases of cataracts or diabetes. It can also be caused by certain drugs such as steroids. Treatment depends on whether the condition is identified as open-angle or angle-closure glaucoma.
+With pseudoexfoliation glaucoma (also known as PEX or exfoliation glaucoma) the pressure results from the accumulation of microscopic granular protein fibers, which can block normal drainage of the aqueous humor. PEX is prevalent in Scandinavia, primarily in those over 70, and more commonly in women.
+Pigmentary glaucoma (also known as pigmentary dispersion syndrome) is caused by pigment cells sloughing off from the back of the iris and floating around in the aqueous humor. Over time, these pigment cells can accumulate in the anterior chamber and begin to clog the trabecular meshwork. It is a rare condition that occurs mostly among white males in their mid-20s to 40s, most of whom are nearsighted.
+Primary juvenile glaucoma is a neonate or juvenile abnormality in which ocular hypertension is evident at birth or shortly thereafter and is caused by abnormalities in the anterior chamber angle development that blocks the outflow of the aqueous humor.
+Uveitic glaucoma is caused by uveitis, the swelling and inflammation of the uvea, the middle layer of the eye. The uvea provides most of the blood supply to the retina. Increased eye pressure can result from the inflammation itself or from the steroids used to treat it.
+
+
+## Visual field defects in glaucoma
+
+In glaucoma visual field defects result from damage to the retinal nerve fiber layer. Field defects are seen mainly in primary open angle glaucoma. Because of the unique anatomy of the RNFL, many noticeable patterns are seen in the visual field. Most of the early glaucomatous changes are seen within the central visual field, mainly in Bjerrum's area, 10-20° from fixation.
+Following are the common glaucomatous field defects:
+
+Generalized depression: Generalized depression is seen in early stages of glaucoma and many other conditions. Mild constriction of central and peripheral visual field due to isopter contraction comes under generalized depression. If all the isopters show similar depression to the same point, it is then called a contraction of visual field. Relative paracentral scotomas are the areas where smaller and dimmer targets are not visualized by the patient. Larger and brighter targets can be seen. Small paracentral depressions, mainly superonasal are seen in normal tension glaucoma (NTG). The generalized depression of the entire field may be seen in cataract also.
+Baring of blind spot: "Baring of blind spot" means exclusion of blind spot from the central field due to inward curve of the outer boundary of 30° central field. It is only an early non-specific visual field change, without much diagnostic value in glaucoma.
+Small wing-shaped Paracentral scotoma: Small wing-shaped Paracentral scotoma within Bjerrum's area is the earliest clinically significant field defect seen in glaucoma. It may also be associated with nasal steps. Scotoma may be seen above or below the blind spot.
+Siedel's sickle-shaped scotoma: Paracentral scotoma joins with the blind spot to form the Seidel sign.
+Arcuate or Bjerrum's scotoma:  It is formed at later stages of glaucoma by extension of Seidel's scotoma in an area either above or below the fixation point to reach the horizontal line. Peripheral breakthrough may occur due to damage of nerve fibers.
+Ring or Double arcuate scotoma: Two arcuate scotomas join to form a Ring or Double arcuate scotoma. This defect is seen in advanced stages of glaucoma.
+Roenne's central nasal step: It is created when two arcuate scotomas run in different arcs to form a right angled defect. This is also seen in advanced stages of glaucoma.
+Peripheral field defects: Peripheral field defects may occur in early or late stages of glaucoma. Roenne's peripheral nasal steps occur due to contraction of peripheral isopter.
+Tubular vision:  Since macular fibers are the most resistant to glaucomatous damage, the central vision remains unaffected until end stages of glaucoma. Tubular vision or Tunnel vision is the loss of peripheral vision with retention of central vision, resulting in a constricted circular tunnel-like field of vision. It is seen in the end stages of glaucoma. Retinitis pigmentosa is another disease that causes tubular vision.
+Temporal island of vision: It is also seen in end stages of glaucoma. The temporal islands lie outside of the central 24 to 30° visual field, so it may not be visible with standard central field measurements done in glaucoma.
+
+
+## Screening
+The United States Preventive Services Task Force stated, as of 2013, that there was insufficient evidence to recommend for or against screening for glaucoma. Therefore, there is no national screening program in the US. Screening, however, is recommended starting at age 40 by the American Academy of Ophthalmology.
+There is a glaucoma screening program in the UK. Those at risk are advised to have a dilated eye examination at least once a year.
+ 
+
+
+## Treatment
+The modern goal of glaucoma management is to decrease the intraocular pressure (IOP), thus slowing the progression of glaucoma and preserving the quality of life for patients, with minimal side-effects. This requires appropriate diagnostic techniques and follow-up examinations, and judicious selection of treatments for the individual patient. Although IOP is only one of the major risk factors for glaucoma, lowering it via various pharmaceuticals and/or surgical techniques is currently the mainstay of glaucoma treatment. 
+The IOP should be reduced to a target level at which the disease progression is controlled protecting the visual field and improving life quality. The target level is set individually depending on multiple factors including the pretreatment IOP, the severity and rate of the disease progression, and the side effects of the medications. In general, the target IOP is equal or lower than 18mmHg in mild, 15mmHg in moderate and 12mmHg in severe stage glaucoma. After setting the target IOP, regular follow-up should be done assessing the IOP and the disease progression.  
+Vascular flow and neurodegenerative theories of glaucomatous optic neuropathy have prompted studies on various neuroprotective therapeutic strategies, including nutritional compounds, some of which may be regarded by clinicians as safe for use now, while others are on trial. Mental stress is also considered as consequence and cause of vision loss which means that stress management training, autogenic training and other techniques to cope with stress can be helpful.
+
+
+### Medication
+
+There are several pressure-lowering medication groups that could be used in lowering the IOP, usually eyedrops. The choice of medication usually depends on the dose, duration and the side effects of each medication. However, in general, prostaglandin analogues are the first-line treatment for glaucoma.
+Prostaglandin analogues, such as latanoprost, bimatoprost and travoprost, reduce the IOP by increasing the aqueous fluid outflow through the draining angle. It is usually prescribed once daily at night. The systemic side effects of this class are minimal. However, they can cause local side effects including redness of the conjunctiva, change in the iris color and eyelash elongation.
+There are several other classes of medications that could be used as a second-line in case of treatment failure or presence of contraindications to prostaglandin analogues. These include:
+
+Topical beta-adrenergic receptor antagonists, such as timolol, levobunolol, and betaxolol, decrease aqueous humor production by the epithelium of the ciliary body.
+Alpha2-adrenergic agonists, such as brimonidine and apraclonidine, work by a dual mechanism, decreasing aqueous humor production and increasing uveoscleral outflow.
+Less-selective alpha agonists, such as epinephrine, decrease aqueous humor production through vasoconstriction of ciliary body blood vessels, useful only in open-angle glaucoma. Epinephrine's mydriatic effect, however, renders it unsuitable for closed-angle glaucoma due to further narrowing of the uveoscleral outflow (i.e. further closure of trabecular meshwork, which is responsible for absorption of aqueous humor).
+Miotic agents (parasympathomimetics), such as pilocarpine, work by contraction of the ciliary muscle, opening the trabecular meshwork and allowing increased outflow of the aqueous humour. Echothiophate, an acetylcholinesterase inhibitor, is used in chronic glaucoma.
+Carbonic anhydrase inhibitors, such as dorzolamide, brinzolamide, and acetazolamide, lower secretion of aqueous humor by inhibiting carbonic anhydrase in the ciliary body.
+Each of these medicines may have local and systemic side effects. Wiping the eye with an absorbent pad after the administration of eye drops may result in fewer adverse effects. Initially, glaucoma drops may reasonably be started in either one or in both eyes.
+The possible neuroprotective effects of various topical and systemic medications are also being investigated.
+
+
+#### Adherence
+Poor compliance with medications and follow-up visits is a major reason for treatment failure and disease progression in glaucoma patients. Poor adherence could lead to increased complication rates, thus increasing the need of non-pharmacological interventions including surgery. Patient education and communication must be ongoing to sustain successful treatment plans for this lifelong disease with no early symptoms.
+
+
+### Laser
+Argon laser trabeculoplasty (ALT) may be used to treat open-angle glaucoma, but this is a temporary solution, not a cure. A 50-μm argon laser spot is aimed at the trabecular meshwork to stimulate the opening of the mesh to allow more outflow of aqueous fluid. Usually, half of the angle is treated at a time. Traditional laser trabeculoplasty uses a thermal argon laser in an argon laser trabeculoplasty procedure.
+Nd:YAG laser peripheral iridotomy (LPI) may be used in patients susceptible to or affected by angle closure glaucoma or pigment dispersion syndrome. During laser iridotomy, laser energy is used to make a small, full-thickness opening in the iris to equalize the pressure between the front and back of the iris, thus correcting any abnormal bulging of the iris. In people with narrow angles, this can uncover the trabecular meshwork. In some cases of intermittent or short-term angle closure, this may lower the eye pressure. Laser iridotomy reduces the risk of developing an attack of acute angle closure. In most cases, it also reduces the risk of developing chronic angle closure or of adhesions of the iris to the trabecular meshwork. Computational fluid dynamics (CFD) simulations have shown that an optimal iridotomy size to relieve the pressure differential between the anterior and posterior side of the iris is around 0.1 mm to 0.2 mm. This coincides with clinical practice of LPI where an iridotomy size of 150 to 200 microns is commonly used. However, larger iriditomy sizes are sometimes necessary.
+Diode laser cycloablation lowers IOP by reducing aqueous secretion by destroying secretory ciliary epithelium.
+
+
+### Surgery
+
+Both laser and conventional surgeries are performed to treat glaucoma. Surgery is the primary therapy for those with congenital glaucoma. Generally, these operations are a temporary solution, as there is not yet a cure for glaucoma.
+
+
+#### Canaloplasty
+Canaloplasty is a nonpenetrating procedure using microcatheter technology. To perform a canaloplasty, an incision is made into the eye to gain access to the Schlemm's canal in a similar fashion to a viscocanalostomy. A microcatheter will circumnavigate the canal around the iris, enlarging the main drainage channel and its smaller collector channels through the injection of a sterile, gel-like material called viscoelastic. The catheter is then removed and a suture is placed within the canal and tightened.
+By opening the canal, the pressure inside the eye may be relieved, although the reason is unclear, since the canal (of Schlemm) does not have any significant fluid resistance in glaucoma or healthy eyes. Long-term results are not available.
+
+
+#### Trabeculectomy
+The most common conventional surgery performed for glaucoma is the trabeculectomy. Here, a partial thickness flap is made in the scleral wall of the eye, and a window opening is made under the flap to remove a portion of the trabecular meshwork. The scleral flap is then sutured loosely back in place to allow fluid to flow out of the eye through this opening, resulting in lowered intraocular pressure and the formation of a bleb or fluid bubble on the surface of the eye.
+Scarring can occur around or over the flap opening, causing it to become less effective or lose effectiveness altogether. Traditionally, chemotherapeutic adjuvants, such as mitomycin C (MMC) or 5-fluorouracil (5-FU), are applied with soaked sponges on the wound bed to prevent filtering blebs from scarring by inhibiting fibroblast proliferation. Contemporary alternatives to prevent the scarring of the meshwork opening include the sole or combinative implementation of nonchemotherapeutic adjuvants such as the Ologen collagen matrix, which has been clinically shown to increase the success rates of surgical treatment.
+Collagen matrix prevents scarring by randomizing and modulating fibroblast proliferation in addition to mechanically preventing wound contraction and adhesion.
+
+
+#### Glaucoma drainage implants
+
+The first glaucoma drainage implant was developed in 1966. Since then, several types of implants have followed on from the original: the Baerveldt tube shunt, or the valved implants, such as the Ahmed glaucoma valve implant or the ExPress Mini Shunt and the later generation pressure ridge Molteno implants. These are indicated for glaucoma patients not responding to maximal medical therapy, with previous failed guarded filtering surgery (trabeculectomy). The flow tube is inserted into the anterior chamber of the eye, and the plate is implanted underneath the conjunctiva to allow a flow of aqueous fluid out of the eye into a chamber called a bleb.
+
+The first-generation Molteno and other nonvalved implants sometimes require the ligation of the tube until the bleb formed is mildly fibrosed and water-tight. This is done to reduce postoperative hypotony—sudden drops in postoperative intraocular pressure.
+Valved implants, such as the Ahmed glaucoma valve, attempt to control postoperative hypotony by using a mechanical valve.
+Ab interno implants, such as the Xen Gel Stent, are transscleral implants by an ab interno procedure to channel aqueous humor into the non-dissected Tenon's space, creating a subconjunctival drainage area similar to a bleb. The implants are transscleral and different from other ab interno implants that do not create a transscleral drainage, such as iStent, CyPass, or Hydrus.
+The ongoing scarring over the conjunctival dissipation segment of the shunt may become too thick for the aqueous humor to filter through. This may require preventive measures using antifibrotic medications, such as 5-fluorouracil or mitomycin-C (during the procedure), or other nonantifibrotic medication methods, such as collagen matrix implant, or biodegradable spacer, or later on create a necessity for revision surgery with the sole or combinative use of donor patch grafts or collagen matrix implant. And for glaucomatous painful blind eye and some cases of glaucoma, cyclocryotherapy for ciliary body ablation could be considered to be performed.
+
+
+#### Laser-assisted nonpenetrating deep sclerectomy
+The most common surgical approach currently used for the treatment of glaucoma is trabeculectomy, in which the sclera is punctured to alleviate intraocular pressure.
+Nonpenetrating deep sclerectomy (NPDS) surgery is a similar, but modified, procedure, in which instead of puncturing the scleral bed and trabecular meshwork under a scleral flap, a second deep scleral flap is created, excised, with further procedures of deroofing the Schlemm's canal, upon which, percolation of liquid from the inner eye is achieved and thus alleviating intraocular pressure, without penetrating the eye. NPDS is demonstrated to have significantly fewer side effects than trabeculectomy. However, NPDS is performed manually and requires higher level of skills that may be assisted with instruments.   In order to prevent wound adhesion after deep scleral excision and to maintain good filtering results, NPDS as with other non-penetrating procedures is sometimes performed with a variety of biocompatible spacers or devices, such as the Aquaflow collagen wick, ologen Collagen Matrix, or Xenoplast glaucoma implant.
+Laser-assisted NPDS is performed with the use of a CO2 laser system. The laser-based system is self-terminating once the required scleral thickness and adequate drainage of the intraocular fluid have been achieved. This self-regulation effect is achieved as the CO2 laser essentially stops ablating as soon as it comes in contact with the intraocular percolated liquid, which occurs as soon as the laser reaches the optimal residual intact layer thickness.
+
+
+#### Clear lens extraction
+
+For people with chronic closed-angle glaucoma, lens extraction can relieve the block created by the pupil and help regulate the intraocular pressure. A study found that CLE is even more effective than laser peripheral iridotomy in patients with angle closure glaucoma.
+
+
+### Treatment approaches for primary glaucoma
+Primary angle closure glaucoma: Once any symptoms have been controlled, the first line (and often definitive) treatment is laser iridotomy. This may be performed using either Nd:YAG or argon lasers, or in some cases by conventional incisional surgery. The goal of treatment is to reverse and prevent contact between the iris and trabecular meshwork. In early to moderately advanced cases, iridotomy is successful in opening the angle in around 75% of cases. In the other 25%, laser iridoplasty, medication (pilocarpine) or incisional surgery may be required.
+Primary open-angle glaucoma: Prostaglandin agonists work by opening uveoscleral passageways. Beta-blockers, such as timolol, work by decreasing aqueous formation. Carbonic anhydrase inhibitors decrease bicarbonate formation from ciliary processes in the eye, thus decreasing the formation of aqueous humor. Parasympathetic analogs are drugs that work on the trabecular outflow by opening up the passageway and constricting the pupil. Alpha 2 agonists (brimonidine, apraclonidine) both decrease fluid production (via inhibition of AC) and increase drainage. A review of people with primary open-angle glaucoma and ocular hypertension concluded that medical IOP-lowering treatment slowed down the progression of visual field loss.
+
+
+### Neovascular glaucoma
+Anti-VEGF agents as injectable medications, along with other standard of care treatment for decreasing intraocular pressure, may improve pressure in people with neovascular glaucoma for short periods of time. Evidence suggests that this improvement may last 4–6 weeks. There is no strong evidence to suggest that anti-VEGF medications are effective for longer-term treatment. The short, medium, and long-term safety of anti-VEGF treatment has not been well investigated.
+
+
+### Other
+Cannabis is not suggested for treatment of glaucoma by the American Glaucoma Society for adults or for children.
+
+
+## Prognosis
+In open-angle glaucoma, the typical progression from normal vision to complete blindness takes about 25 years to 70 years without treatment, depending on the method of estimation used. The intraocular pressure can also have an effect, with higher pressures reducing the time until blindness.
+
+
+## Epidemiology
+
+As of 2010, there were 44.7 million people in the world with open angle glaucoma. The same year, there were 2.8 million people in the United States with open angle glaucoma. By 2020, the prevalence is projected to increase to 58.6 million worldwide and 3.4 million in the United States.
+Both internationally and in the United States, glaucoma is the second-leading cause of blindness. Globally, cataracts are a more common cause. Glaucoma is also the leading cause of blindness in African Americans, who have higher rates of primary open-angle glaucoma. Bilateral vision loss can negatively affect mobility and interfere with driving.
+A meta-analysis published in 2009 found that people with primary open angle glaucoma do not have increased mortality rates, or increased risk of cardiovascular death.
+
+
+## History
+The association of elevated intraocular pressure (IOP) and glaucoma was first described by Englishman Richard Banister in 1622: "...that the Eye be grown more solid and hard, then naturally it should be...". Angle-closure glaucoma was treated with cataract extraction by John Collins Warren in Boston as early as 1806. The invention of the ophthalmoscope by Hermann Helmholtz in 1851 enabled ophthalmologists for the first time to identify the pathological hallmark of glaucoma, the excavation of the optic nerve head due to retinal ganglion cell loss. The first reliable instrument to measure intraocular pressure was invented by Norwegian ophthalmologist Hjalmar August Schiøtz in 1905. About half a century later, Hans Goldmann in Berne, Switzerland, developed his applanation tonometer which still today - despite numerous new innovations in diagnostics - is considered the gold standard of determining this crucial pathogenic factor. In the late 20th century, further pathomechanisms beyond elevated IOP were discovered and became the subject of research like insufficient blood supply – often associated with low or irregular blood pressure – to the retina and optic nerve head. The first drug to reduce IOP, pilocarpine, was introduced in the 1870s; other major innovations in pharmacological glaucoma therapy were the introduction of beta blocker eye drops in the 1970s and of prostaglandin analogues and topical (locally administered) carbonic anhydrase inhibitors in the mid-1990s.. Early surgical techniques like iridectomy and fistulating methods have recently been supplemented by less invasive procedures like small implants, a range of options now widely called MIGS (micro-invasive glaucoma surgery).
+
+
+### Etymology
+The word "glaucoma" comes from the Ancient Greek γλαύκωμα, a derivative of γλαυκός (glaukos), which commonly described the color of eyes which were not dark (i.e. blue, green, light gray). Eyes described as γλαυκός due to disease might have had a gray cataract in the Hippocratic era, or, in the early Common Era, the greenish pupillary hue sometimes seen in angle-closure glaucoma. This colour is reflected in the Chinese word for glaucoma, 青光眼 (qīngguāngyǎn), literally “cyan-light eye”. An alternative hypothesis connects the name to the Ancient Greek noun for 'owl', γλαύξ or γλαῦξ (both glaux).
+
+
+## Research
+
+
+### Eye drops vs. other treatments
+The TAGS randomised controlled trial investigated if eye drops or trabeculectomy is more effective in treating advanced primary open-angle glaucoma. After two years researchers found that vision and quality of life are similar in both treatments. At the same time eye pressure was lower in people who underwent surgery and in the long-run surgery is more cost-effective.
+The LiGHT trial compared the effectiveness of eye drops and selective laser trabeculoplasty for open angle glaucoma. Both contributed to a similar quality of life but most people undergoing laser treatment were able to stop using eye drops. Laser trabeculoplasty was also shown to be more cost-effective.
+
+
+### Neuroprotective agents
+A 2013 Cochrane systematic review compared the effect of brimonidine and timolol in slowing the progression of open angle glaucoma in adult participants. The results showed that participants assigned to brimonidine showed less visual field progression than those assigned to timolol, though the results were not significant, given the heavy loss-to-followup and limited evidence. The mean intraocular pressures for both groups were similar. Participants in the brimonidine group had a higher occurrence of side effects caused by medication than participants in the timolol group.
+
+
+## Health disparities in glaucoma
+
+
+### In diagnosis
+A study conducted in UK showed that people living in an area of high deprivation were likely to be diagnosed in the later stage of the disease. It also showed that there were lack of professional ophthalmic services in the area of high deprivation.
+
+
+### In treatment
+A study in 2017 shows that there is a huge difference in the volume of glaucoma testing depending on the type of insurance in the US. Researchers reviewed 21,766 persons age ≥ 40 years old with newly diagnosed open-angle glaucoma (OAG) and found that Medicaid recipients had substantially lower volume of glaucoma testing performed compared to patients with commercial health insurance.
+
+
+### In research and clinical trials
+Results from a meta-analysis of 33,428 primary open-angle glaucoma (POAG) participants published in 2021 suggest that there are substantial ethnic and racial disparities in clinical trials in the US. Although ethnic and racial minorities have a higher disease burden, the 70.7% of the study participants was White as opposed to 16.8% Black and 3.4% Hispanic/Latino.
+
+
+## References
+
+
+## External links
+
+Glaucoma at Curlie
+GeneReview/NCBI/NIH/UW entry on Primary Congenital Glaucoma

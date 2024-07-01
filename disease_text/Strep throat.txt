@@ -1,0 +1,90 @@
+Streptococcal pharyngitis, also known as streptococcal sore  throat (strep throat), is pharyngitis (an infection of the pharynx, the back of the throat) caused by Streptococcus pyogenes, a gram-positive, group A streptococcus. Common symptoms include fever, sore throat, red tonsils, and enlarged lymph nodes in the front of the neck. A headache and nausea or vomiting may also occur. Some develop a sandpaper-like rash which is known as scarlet fever. Symptoms typically begin one to three days after exposure and last seven to ten days.
+Strep throat is spread by respiratory droplets from an infected person, spread by talking, coughing or sneezing, or by touching something that has droplets on it and then touching the mouth, nose, or eyes. As with all respiratory pathogens once presumed to transmit via respiratory droplets, it is highly likely to be carried by the aerosols generated during routine breathing, talking, and even singing. It may be spread directly through touching infected sores.  It may also be spread by contact with skin infected with group A strep. The diagnosis is made based on the results of a rapid antigen detection test or throat culture. Some people may carry the bacteria without symptoms.
+Prevention is with airborne precautions, frequent hand washing, and not sharing eating utensils. There is no vaccine for the disease. Treatment with antibiotics is only recommended in those with a confirmed diagnosis. Those infected should stay away from other people until fever is gone and for at least 12 hours after starting treatment. Pain can be treated with paracetamol (acetaminophen) and nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen.
+Strep throat is a common bacterial infection in children. It is the cause of 15–40% of sore throats among children and 5–15% among adults. Cases are more common in late winter and early spring. Potential complications include rheumatic fever and peritonsillar abscess.
+
+
+## Signs and symptoms
+The typical signs and symptoms of streptococcal pharyngitis are a sore throat, fever of greater than 38 °C (100 °F), tonsillar exudates (pus on the tonsils), and large cervical lymph nodes.
+Other symptoms include: headache, nausea and vomiting, abdominal pain, muscle pain, or a scarlatiniform rash or palatal petechiae, the latter being an uncommon but highly specific finding.
+Symptoms typically begin one to three days after exposure and last seven to ten days.
+Strep throat is unlikely when any of the symptoms of red eyes, hoarseness, runny nose, or mouth ulcers are present. It is also unlikely when there is no fever.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+## Cause
+Strep throat is caused by group A β-hemolytic Streptococcus (GAS or S. pyogenes). Humans are the primary natural reservoir for group A streptococcus. Other bacteria such as non–group A β-hemolytic streptococci and fusobacterium may also cause pharyngitis.  It is spread by direct, close contact with an infected person; thus crowding, as may be found in the military and schools, increases the rate of transmission.  Dried bacteria in dust are not infectious, although moist bacteria on toothbrushes or similar items can persist for up to fifteen days.  Contaminated food can result in outbreaks, but this is rare.  Of children with no signs or symptoms, 12% carry GAS in their pharynx, and, after treatment, approximately 15% of those remain positive, and are true "carriers".
+
+
+## Diagnosis
+
+A number of scoring systems exist to help with diagnosis; however, their use is controversial due to insufficient accuracy. The modified Centor criteria are a set of five criteria; the total score indicates the probability of a streptococcal infection.
+One point is given for each of the criteria:
+
+Absence of a cough
+Swollen and tender cervical lymph nodes
+Temperature >38.0 °C (100.4 °F)
+Tonsillar exudate or swelling
+Age less than 15 (a point is subtracted if age >44)
+A score of one may indicate no treatment or culture is needed or it may indicate the need to perform further testing if other high risk factors exist, such as a family member having the disease.
+The Infectious Disease Society of America recommends against routine antibiotic treatment and considers antibiotics only appropriate when given after a positive test. Testing is not needed in children under three as both group A strep and rheumatic fever are rare, unless a child has a sibling with the disease.
+
+
+### Laboratory testing
+A throat culture is the gold standard for the diagnosis of streptococcal pharyngitis, with a sensitivity of 90–95%.  A rapid strep test (also called rapid antigen detection testing or RADT) may also be used. While the rapid strep test is quicker, it has a lower sensitivity (70%) and statistically equal specificity (98%) as a throat culture. In areas of the world where rheumatic fever is uncommon, a negative rapid strep test is sufficient to rule out the disease.
+A positive throat culture or RADT in association with symptoms establishes a positive diagnosis in those in which the diagnosis is in doubt. In adults, a negative RADT is sufficient to rule out the diagnosis. However, in children a throat culture is recommended to confirm the result. Asymptomatic individuals should not be routinely tested with a throat culture or RADT because a certain percentage of the population persistently "carries" the streptococcal bacteria in their throat without any harmful results.
+
+
+### Differential diagnosis
+
+As the symptoms of streptococcal pharyngitis overlap with other conditions, it can be difficult to make the diagnosis clinically. Coughing, nasal discharge, diarrhea, and red, irritated eyes in addition to fever and sore throat are more indicative of a viral sore throat than of strep throat. The presence of marked lymph node enlargement along with sore throat, fever, and tonsillar enlargement may also occur in infectious mononucleosis. Other conditions that may present similarly include epiglottitis, Kawasaki disease, acute retroviral syndrome, Lemierre's syndrome, Ludwig's angina, peritonsillar abscess, and retropharyngeal abscess.
+
+
+## Prevention
+Tonsillectomy may be a reasonable preventive measure in those with frequent throat infections (more than three a year). However, the benefits are small and episodes typically lessen in time regardless of measures taken. Recurrent episodes of pharyngitis which test positive for GAS may also represent a person who is a chronic carrier of GAS who is getting recurrent viral infections. Treating people who have been exposed but who are without symptoms is not recommended. Treating people who are carriers of GAS is not recommended as the risk of spread and complications is low.
+
+
+## Treatment
+Untreated streptococcal pharyngitis usually resolves within a few days. Treatment with antibiotics shortens the duration of the acute illness by about 16 hours. The primary reason for treatment with antibiotics is to reduce the risk of complications such as rheumatic fever and retropharyngeal abscesses. Antibiotics prevent acute rheumatic fever if given within 9 days of the onset of symptoms.
+
+
+### Pain medication
+Pain medication such as NSAIDs and paracetamol (acetaminophen) helps in the management of pain associated with strep throat. Viscous lidocaine may also be useful. While steroids may help with the pain, they are not routinely recommended. Aspirin may be used in adults but is not recommended in children due to the risk of Reye syndrome.
+
+
+### Antibiotics
+The antibiotic of choice in the United States for streptococcal pharyngitis is penicillin V, due to safety, cost, and effectiveness. Amoxicillin is preferred in Europe. In India, where the risk of rheumatic fever is higher, intramuscular benzathine penicillin G is the first choice for treatment.
+Appropriate antibiotics decrease the average 3–5 day duration of symptoms by about one day, and also reduce contagiousness. They are primarily prescribed to reduce rare complications such as rheumatic fever and peritonsillar abscess. The arguments in favor of antibiotic treatment should be balanced by the consideration of possible side effects, and it is reasonable to suggest that no antimicrobial treatment be given to healthy adults who have adverse reactions to medication or those at low risk of complications. Antibiotics are prescribed for strep throat at a higher rate than would be expected from how common it is.
+Erythromycin and other macrolides or clindamycin are recommended for people with severe penicillin allergies. First-generation cephalosporins may be used in those with less severe allergies and some low-certainty evidence suggest cephalosporins are superior to penicillin. These late-generation antibiotics show a similar effect when prescribed for 3–7 days in comparison to the standard ten days of penicillin when used in areas of low rheumatic heart disease. Streptococcal infections may also lead to acute glomerulonephritis; however, the incidence of this side effect is not reduced by the use of antibiotics.
+
+
+## Prognosis
+The symptoms of strep throat usually improve within three to five days, irrespective of treatment. Treatment with antibiotics reduces the risk of complications and transmission; children may return to school 24 hours after antibiotics are administered. The risk of complications in adults is low. In children, acute rheumatic fever is rare in most of the developed world. It is, however, the leading cause of acquired heart disease in India, sub-Saharan Africa, and some parts of Australia.
+
+
+## Complications
+Complications arising from streptococcal throat infections include:
+
+The economic cost of the disease in the United States in children is approximately $350 million annually.
+
+
+## Epidemiology
+Pharyngitis, the broader category into which Streptococcal pharyngitis falls, is diagnosed in 11 million people annually in the United States. It is the cause of 15–40% of sore throats among children and 5–15% in adults. Cases usually occur in late winter and early spring.
+
+
+## References
+
+
+## External links

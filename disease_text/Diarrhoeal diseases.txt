@@ -1,0 +1,82 @@
+Waterborne diseases are conditions (meaning adverse effects on human health, such as death, disability, illness or disorders): 47  caused by pathogenic micro-organisms that are transmitted by water. These diseases can be spread while bathing, washing, drinking water, or by eating food exposed to contaminated water. They are a pressing issue in rural areas amongst developing countries all over the world. While diarrhea and vomiting are the most commonly reported symptoms of waterborne illness, other symptoms can include skin, ear, respiratory, or eye problems. Lack of clean water supply, sanitation and hygiene (WASH) are major causes for the spread of waterborne diseases in a community. Therefore, reliable access to clean drinking water and sanitation is the main method to prevent waterborne diseases.
+Microorganisms causing diseases that characteristically are waterborne prominently include protozoa and bacteria, many of which are intestinal parasites, or invade the tissues or circulatory system through walls of the digestive tract. Various other waterborne diseases are caused by viruses.
+Yet other important classes of waterborne diseases are caused by metazoan parasites. Typical examples include certain Nematoda, that is to say "roundworms". As an example of waterborne Nematode infections, one important waterborne nematode disease is Dracunculiasis. It is acquired by swallowing water in which certain copepoda occur that act as vectors for the Nematoda. Anyone swallowing a copepod that happens to be infected with Nematode larvae in the genus Dracunculus, becomes liable to infection. The larvae cause guinea worm disease.
+Another class of waterborne metazoan pathogens are certain members of the Schistosomatidae, a family of blood flukes. They usually infect people that make skin contact with the water. Blood flukes are pathogens that cause Schistosomiasis of various forms, more or less seriously affecting hundreds of millions of people worldwide.
+
+
+## Terminology
+The term waterborne disease is reserved largely for infections that predominantly are transmitted through contact with or consumption of microbially polluted water. Many infections may be transmitted by microbes or parasites that accidentally, possibly as a result of exceptional circumstances, have entered the water. However, the fact that there might be an occasional infection need not mean that it is useful to categorize the resulting disease as "waterborne". Nor is it common practice to refer to diseases such as malaria as "waterborne" just because mosquitoes have aquatic phases in their life cycles, or because treating the water they inhabit happens to be an effective strategy in control of the mosquitoes that are the vectors.
+A related term is "water-related disease" which is defined as "any significant or widespread adverse effects on human health, such as death, disability, illness or disorders, caused directly or indirectly by the condition, or changes in the quantity or quality of any water".: 47  Water-related diseases are grouped according to their transmission mechanism: water borne, water hygiene, water based, water related.: 47  The main transmission mode for waterborne diseases is ingestion of contaminated water.
+
+
+## Causes
+
+Lack of clean water supply, sanitation and hygiene (WASH) are major causes for the spread of waterborne diseases in a community. The fecal–oral route is a disease transmission pathway for waterborne diseases. Poverty also increases the risk of communities to be affected by waterborne diseases. For example, the economic level of a community impacts their ability to have access to clean water. Less developed countries might be more at risk for potential outbreaks of waterborne diseases but more developed regions also are at risk to waterborne disease outbreaks.
+
+
+### Influence of climate change
+
+
+## Diseases by type of pathogen
+
+
+### Protozoa
+
+
+### Bacteria
+
+
+### Viruses
+
+
+### Algae
+
+
+### Parasitic worms
+
+
+## Prevention
+
+Reliable access to clean drinking water and sanitation is the main method to prevent waterborne diseases. The aim is to break the fecal–oral route of disease transmission.
+
+
+## Epidemiology
+
+According to the World Health Organization, waterborne diseases account for an estimated 3.6% of the total DALY (disability- adjusted life year) global burden of disease, and cause about 1.5 million human deaths annually. The World Health Organization estimates that 58% of that burden, or 842,000 deaths per year, is attributable to a lack of safe drinking water supply, sanitation and hygiene (summarized as WASH).
+
+
+### United States
+The Waterborne Disease and Outbreak Surveillance System (WBDOSS) is the principal database used to identify the causative agents, deficiencies, water systems, and sources associated with waterborne disease and outbreaks in the United States. Since 1971, the Centers for Disease Control and Prevention (CDC), the Council of State and Territorial Epidemiologists (CSTE), and the US Environmental Protection Agency (EPA) have maintained this surveillance system for collecting and reporting data on "waterborne disease and outbreaks associated with recreational water, drinking water, environmental, and undetermined exposures to water." "Data from WBDOSS have supported EPA efforts to develop drinking water regulations and have provided guidance for CDC's recreational water activities."
+WBDOSS relies on complete and accurate data from public health departments in individual states, territories, and other U.S. jurisdictions regarding waterborne disease and outbreak activity. In 2009, reporting to the WBDOSS transitioned from a paper form to the electronic National Outbreak Reporting System (NORS). Annual or biennial surveillance reports of the data collected by the WBDOSS have been published in CDC reports from 1971 to 1984; since 1985, surveillance data have been published in the Morbidity and Mortality Weekly Report (MMWR).
+WBDOSS and the public health community work together to look into the causes of contaminated water leading to waterborne disease outbreaks and maintaining those outbreaks. They do so by having the public health community investigating the outbreaks and WBDOSS receiving the reports.
+
+
+## Society and culture
+
+
+### Socioeconomic impact
+Waterborne diseases can have a significant impact on the economy. People who are infected by a waterborne disease are usually confronted with related healthcare costs. This is especially the case in developing countries. On average, a family spends about 10% of the monthly households income per person infected.
+
+
+## History
+Waterborne diseases were once wrongly explained by the miasma theory, the theory that bad air causes the spread of diseases. However, people started to find a correlation between water quality and waterborne diseases, which led to different water purification methods, such as sand filtering and chlorinating their drinking water. Founders of microscopy, Antonie van Leeuwenhoek and Robert Hooke, used the newly invented microscope to observe for the first time small material particles that were suspended in the water, laying the groundwork for the future understanding of waterborne pathogens and waterborne diseases.
+
+
+## See also
+Airborne disease
+Food microbiology
+List of diseases caused by water pollution
+Neglected tropical diseases
+Public health
+Vector (epidemiology)
+Water quality
+Zoonosis
+
+
+## References
+
+
+## External links
+
+Water-related Diseases, Contaminants, and Injuries Listing of water-related diseases, contaminants and injuries with alphabetical index, listing by type of disease (bacterial, parasitic, etc.) and listing by symptoms caused (diarrhea, skin rash, and many more ) including links to other resources (CDC's Healthy Water site)
+World Health Organization (WHO) "Water-Related Diseases"

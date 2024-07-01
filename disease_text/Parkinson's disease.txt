@@ -1,0 +1,312 @@
+Parkinson's disease (PD), or simply Parkinson's, is a long-term neurodegenerative disease of mainly the central nervous system that affects both the motor system and non-motor systems. The symptoms usually emerge slowly, and as the disease progresses, non-motor symptoms become more common. Usual symptoms are tremor, slowness of movement, rigidity, and difficulty with balance, collectively known as parkinsonism. Parkinson's disease dementia, falls and neuropsychiatric problems such as sleep abnormalities, psychosis, mood swings, or behavioral changes may arise in advanced stages.
+Most of the cases of Parkinson's disease are sporadic but a few contributing factors have been identified. Pathophysiology is characterized by nerve cell death in the locus coeruleus and substantia nigra, the latter being a midbrain region that supplies dopamine to the basal ganglia which are involved in voluntary motor control. The cause of this cell death is poorly understood but includes the alpha-synuclein aggregation into Lewy bodies within the neurons. Other possible factors involve genetic and environmental mechanisms as well as medications, lifestyle or previous conditions.
+Diagnosis is mainly based on signs and symptoms, usually motor-related, found via neurological examination, though medical imaging like neuromelanin MRI can support the diagnosis. Usual onset is in people over 60 years of age of whom about one percent are affected. In those younger than 50, it is termed early-onset PD.
+No cure is known, and treatment aims to mitigate symptoms. Initial treatment typically includes L-DOPA, MAO-B inhibitors, or dopamine agonists. As the disease progresses, these medications become less effective and produce a side effect marked by involuntary muscle movements. Diet and certain forms of rehabilitation have shown some effectiveness at improving symptoms. Deep brain stimulation has been used to reduce severe motor symptoms where drugs are ineffective. There is little evidence for treatment of the non-movement-related symptoms, such as sleep disturbances and mood instability. The average life expectancy is near-normal.
+
+
+## Classification
+Parkinsonism can be classified into different types, which include the following:
+
+Parkinson's disease: primary progressive neurodegeneration characterized by the defining symptoms of bradykinesia, tremor, rigidity and postural instability
+Atypical parkinsonism: degeneration that extends beyond the substantia nigra and causes more complex neurological complications such as apraxia or supranuclear ophthalmoplegia
+Secondary parkinsonism: caused by drugs, infections, or CNS lesions
+Functional parkinsonism: functional motor disorder caused by changes other than neurodegeneration or dysfunction of the dopaminergic system.
+As of 2024, the classification is based on symptoms, but research aims to establish a biological basis.
+PD can be classified in other ways as well. Parkinson-plus syndrome includes PD, along with other conditions. It is included among the Lewy body diseases and is considered a synucleinopathy, which also encompass dementia with Lewy bodies, multiple system atrophy, and other rarer conditions. Some rare genetic forms of Parkinson's do not exhibit alpha-synuclein aggregation.
+
+
+## Signs and symptoms
+
+The defining symptoms affect the motor system and include tremor, bradykinesia, rigidity, and postural instability. Other symptoms may affect the autonomic or sensory nervous system, mood, behavior, sleep pattern, or cognition.
+People with Parkinson's disease may have non-motor symptoms that precede the onset of motor symptoms, including constipation, anosmia (inability to smell), and REM behavior disorder. Generally, symptoms such as dementia, psychosis, orthostasis, and more severe falls occur later. The prevalence of oropharyngeal dysphagia in PD is estimated to be as high as 82%. Dysphagia (swallowing difficulties) has been reported across all stages of the disease. Complications result from dysphagia include dehydration, malnutrition, weight loss, and aspiration pneumonia. Pneumonia is the most common cause of hospitalization and a leading cause of death in people with PD. 
+
+
+### Motor
+
+Four motor symptoms are considered as cardinal signs in PD: tremor, bradykinesia, rigidity, and postural instability, collectively known as parkinsonism. However, other motor-associated symptoms are common.
+Tremor is the most common presenting sign and may appear at rest as well as during intentional movement with a frequency between 4–6 hertz (cycles per second). PD tremor tends to occur in the hands, but can affect other parts of the body, such as legs, arms, tongue, or lips, as well. It is often described as "pill-rolling", the tendency of the index finger and thumb to touch and perform a circular movement that reminds of the early pharmaceutical technique of manually making pills. Despite it being the most noticeable sign, tremor is present in only about 70–90 percent of cases.
+Bradykinesia is often considered the most important feature of Parkinson's disease and is also present in atypical parkinsonism. It describes difficulties in motor planning, beginning, and executing, resulting in overall slowed movement with reduced amplitude which affects sequential and simultaneous tasks. Hence, it interferes with daily activities such as dressing, feeding and bathing. Facial muscles involved in bradykinesia lead to the characteristic reduced facial expression known as "masked face" or hypomimia.
+Rigidity, also referred to as rigor or "stiffness", is the increased resistance during passive mobilization of a limb affecting up to 89 percent of cases. It usually occurs after onset of tremor and bradykinesia on one or both sides of the body and can lead to muscle or joint pain as the disease progresses. As of 2024, it remains unclear whether rigidity is caused by a distinct biomechanical process or if it is the manifestation of another cardinal sign of PD.
+Postural instability (PI) is typical in the later stages of the disease, leading to impaired balance and falls, and secondarily to bone fractures, thus, reduced mobility and quality of life. PI is absent in the initial stages and usually occurs 10–15 years after first diagnosis. Within the first three years after disease onset, PI may indicate atypical parkinsonism. While some sources may still refer to the cardinal signs as the classical triad out of tremor, bradykinesia and rigidity, PI is widely accepted as the fourth defining symptom, despite its unknown mechanism, thus forming a symptom tetrad. Together with bradykinesia and rigidity, it is responsible for the typical gait characterized by short shuffling steps and forward-flexed posture.
+Other common motor signs include a slurred and quiet voice, and handwriting that progressively becomes smaller. This latter may occur prior to other typical symptoms, but the exact neurobiological mechanism, and therefore possible connections with other symptoms, remains unknown.
+
+
+### Sensory
+Transformation of the sensory nervous system can lead to changes in sensation which include an impaired sense of smell, disturbed vision, pain, and paresthesia. Problems with visuospatial function may arise and lead to difficulties in facial recognition and perception of the orientation of drawn lines.
+Peripheral neuropathy is known to be present in up to 55 percent of PD patients. While it is responsible for most of paresthesia and pain in PD, its role in postural instability and motor impairment is poorly understood.
+
+
+### Autonomic
+Alterations in the autonomic nervous system, known as dysautonomia, are associated with a variety of symptoms such as gastrointestinal dysfunction, orthostatic hypotension, excessive sweating, or urinary incontinence.
+Gastrointestinal issues include constipation, impaired stomach emptying, swallowing difficulty, and immoderate production of saliva that can be severe enough to cause discomfort, endanger health, and complicate disease management. Despite being related to each other, the exact mechanism of these symptoms remains unknown.
+Orthostatic hypotension is the sustained drop of blood pressure by at least 20 mmHg systolic or 10 mmHg diastolic within the first three minutes after raising to an upright position that can be seen in 30–50 percent of cases. Low blood pressure can impair the perfusion of organs situated above the heart, particularly the brain, resulting in lightheadedness. This can eventually lead to fainting and is associated with higher morbidity and mortality.
+Other autonomic-related symptoms include excessive sweating, urinary incontinence, and sexual dysfunction.
+
+
+### Neuropsychiatric
+Neuropsychiatric symptoms (NPS) are common and range from mild disturbances to severe impairment, comprising abnormalities in cognition, mood, behavior, or thought which can interfere with daily activities, reduce quality of life, and increase the risk for admission to a nursing home. Some of them, such as depression and anxiety, are known to precede characteristic motor signs by up to several years and may herald the development of PD, while most of them worsen as the disease progresses. Research indicates, that patients with more severe motor symptoms are at higher risk for any NPS. Conversely, NPS can worsen PD.
+Depression is the most common NPS and occurs in nearly half of all patients. It features low mood and lack of pleasure and is more prevalent in females. The diagnosis can be challenging, since some symptoms of depression, such as psychomotor retardation, memory problems, or altered appetite, share similarities with psychiatric signs caused by PD. It may result in suicidal ideation which is more prevalent in PD. Nonetheless, suicidal attempts themselves are lower than in general population.
+Apathy is characterized by emotional indifference and arises in about 46 percent of cases. Diagnosis is difficult, as it may become indistinct from symptoms of depression.
+Anxiety disorders (AD) develop in around 43 percent of cases. The most common are panic disorder, generalized anxiety disorder, and social anxiety disorder. Anxiety is known to cause deterioration in the symptoms of PD.
+Parkinson's disease psychosis (PDP) is present in around 20 percent of cases and comprise hallucinations, illusions and delusions. It is associated with dopaminergic drugs used to treat the motor symptoms, higher morbidity, mortality a decrease in health-promoting behaviors and longer nursing home stays. Additionally, it correlates with depression and may herald onset of dementia in advanced stages. Unlike other psychotic forms, PDP typically presents with a clear sensorium. It might overlap with other psychiatric symptoms, making the diagnosis challenging.
+Impulse-control disorders (ICD) can be seen in approximately 19 percent of all patients and, in the context of PD, are grouped along with compulsive behavior and dopamine dysregulation syndrome (DDS) within the broader spectrum of impulsive and compulsive behaviors (ICB). They are characterized by impulsivity and difficulty to control impulsive urges and are positively correlated with the use of dopamine agonists.
+
+
+### Cognitive
+Cognitive disturbances can occur in early stages or before diagnosis, and increase in prevalence and severity with duration of the disease. Ranging from mild cognitive impairment to severe Parkinson's disease dementia, they feature executive dysfunction, slowed cognitive processing speed, and disrupted perception and estimation of time.
+
+
+### Sleep
+Sleep disorders are common in PD and affect about two thirds of all patients. They comprise insomnia, excessive daytime sleepiness (EDS), restless legs syndrome (RLS), REM sleep behavior disorder (RBD), and sleep-disordered breathing (SDB) and can be worsened by medication. RBD may begin years prior to the initial motor symptoms. Individual presentation of symptoms vary, although most of people affected by PD show an altered circadian rhythm at some point of disease progression. 
+
+
+### Other
+PD is associated with a variety of skin disorders that include melanoma, seborrheic dermatitis, bullous pemphigoid, and rosacea. Seborrheic dermatitis is recognized as a premotor feature that indicates dysautonomia and demonstrates that PD can be detected not only by changes of nervous tissue, but tissue abnormalities outside the nervous system as well.
+
+
+## Causes and risk factors
+
+As of 2024, the underlying cause of PD is unknown, yet is assumed to be influenced primarily by an interaction of genetic and environmental factors. Nonetheless, the most significant risk factor is age with a prevalence of 1 percent in those aged over 65 and approximately 4.3 percent in age over 85. Genetic components comprise SNCA, LRRK2, and PARK2 among others, while environmental risks include exposure to pesticides or heavy metals. Timing of exposure factor may influence the progression or severity of certain stages.: 46  However, caffeine and nicotine exhibit neuroprotective features, hence lowering the risk of PD. About 85 percent of cases occur sporadic, meaning that there is no family history.
+
+
+### Genetic
+PD, in a narrow sense, can be seen as a genetic disease; heritability is estimated to lie between 22 and 40 percent, across different ethnicities. Around 15 percent of diagnosed individuals have a family history, from which 5–10 percent can be attributed to a causative risk gene mutation, although harboring one of these mutations may not lead to the disease.
+As of 2024, around 90 genetic risk variants across 78 genomic loci have been identified. Notable risk genes include SNCA, LRRK2, and VPS35 for autosomal dominant inheritance, and PRKN, PINK1, and DJ1 for autosomal recessive inheritance. Additionally, mutations in the GBA1 gene, linked to Gaucher's disease, are found in 5–10 percent of PD cases.
+Alpha-synuclein (aSyn), a protein encoded by SNCA gene, is thought to be primarily responsible Lewy body aggregation. ASyn activates ATM serine/threonine kinase, a major DNA damage-repair signaling kinase, and non-homologous end joining DNA repair pathway.
+
+
+### Environmental
+
+Identifying environmental risk factors and causality is difficult due to the disease's often decade-long prodromal period.: 46  Most noteworthy environmental factors include pesticide exposure and contact with heavy metals.
+In particular, exposure to pesticides such as paraquat, rotenone, benomyl, and mancozeb causes one in five cases, implying an association with the onset of PD. Risk is increased by co-exposure to, for example, glyphosate and MPTP.
+Harmful heavy metals include mainly manganese, iron, lead, mercury, aluminium, and cadmium. On the other hand, magnesium shows neuroprotective features.
+Other chemical compounds include trichloroethylene and MPTP.
+
+
+### Other
+Traumatic brain injury is also strongly implicated as a risk factor. Additionally, although the underlying cause is unknown, melanoma is documented to be associated with PD. Low levels of urate in the blood are associated with an increased risk while Helicobacter pylori infection can prevent the absorption of some drugs, including L-DOPA.
+
+
+## Pathophysiology
+
+Main pathological feature is cell death of dopamine-releasing neurons within the basal ganglia, more precisely pars compacta of substantia nigra and partially putamen of striatum, thus impeding nigrostriatal pathway of the dopaminergic system which plays a central role in motor control.
+
+
+### Neuroanatomy
+Three major pathways connect the basal ganglia to other brain areas: direct, indirect, and hyperdirect pathway, all part of the cortico-basal ganglia-thalamo-cortical loop.
+
+
+### Mechanisms
+Alpha-synuclein (aSyn) is a protein involved in synaptic vesicle trafficking, intracellular transport, and neurotransmitter release. In PD, it can be overexpressed, misfolded and subsequently form clumps on axon terminals and other structures inside a neuron, for example the mitochondria and nucleus. This aggregation forms Lewy bodies which are involved in neuronal necrosis and dysfunction of neurotransmitters.
+A vicious cycle linked to neurodegeneration involves oxidative stress, mitochondria, and neuroimmune function, particularly inflammation. Normal metabolism of dopamine tends to fail, leading to elevated levels of reactive oxygen species (ROS) which is cytotoxic and causes cellular damage to lipids, proteins, DNA, and especially mitochondria. Mitochondrial damage triggers neuroinflammatory responses via damage-associated molecular patterns (DAMPs), resulting in aggregation of neuromelanin, and therefore, fueling further neuroinflammation by activating microglia.
+Ferroptosis is suggested as another significant mechanism in disease progression. It is characterized by cell death through high levels of lipid hydroperoxide.
+
+
+### Brain cell death
+One mechanism causing brain cell death results from abnormal accumulation of the protein alpha-synuclein bound to ubiquitin in damaged cells. This insoluble protein accumulates inside neurons forming inclusions, known as Lewy bodies. These bodies first appear in the olfactory bulb, medulla oblongata and pontine tegmentum; individuals at this stage may be asymptomatic or have early nonmotor symptoms (such as loss of sense of smell or some sleep or automatic dysfunction). As the disease progresses, Lewy bodies develop in the substantia nigra, areas of the midbrain and basal forebrain, and finally, the neocortex. These brain sites are the main places of neuronal degeneration in PD, but Lewy bodies may be protective from cell death (with the abnormal protein sequestered or walled off). Other forms of alpha-synuclein (e.g. oligomers) that are not aggregated into Lewy bodies and Lewy neurites, may in fact be the toxic forms of the protein. In people with dementia, a generalized presence of Lewy bodies is common in cortical areas. Neurofibrillary tangles and senile plaques, characteristic of Alzheimer's disease, are uncommon unless the person has dementia.
+Other mechanisms include proteasomal and lysosomal systems dysfunction and reduced mitochondrial activity. Iron accumulation in the substantia nigra is typically observed in conjunction with the protein inclusions. It may be related to oxidative stress, protein aggregation, and neuronal death, but the mechanisms are obscure.
+
+
+### Neuroimmune interaction
+
+The neuroimmune interaction is heavily implicated in PD pathology. PD and autoimmune disorders share genetic variations and molecular pathways. Some autoimmune diseases may even increase one's risk of developing PD, up to 33% in one study. Autoimmune diseases linked to protein expression profiles of monocytes and CD4+ T cells are linked to PD. Herpes virus infections can trigger autoimmune reactions to alpha-synuclein, perhaps through molecular mimicry of viral proteins. Alpha-synuclein, and its aggregate form, Lewy bodies, can bind to microglia. Microglia can proliferate and be over-activated by alpha-synuclein binding to MHC receptors on inflammasomes, bringing about a release of proinflammatory cytokines like IL-1β, IFNγ, and TNFα.
+Activated microglia influence the activation of astrocytes, converting their neuroprotective phenotype to a neurotoxic one. Astrocytes in healthy brains serve to protect neuronal connections. In Parkinson's disease, astrocytes cannot protect the dopaminergic connections in the striatum. Microglia present antigens via MHC-I and MHC-II to T cells. CD4+ T cells, activated by this process, are able to cross the blood brain barrier (BBB) and release more proinflammatory cytokines, like interferon-γ (IFNγ), TNFα, and IL-1β. Mast cell degranulation and subsequent proinflammatory cytokine release is implicated in BBB breakdown in PD. Another immune cell implicated in PD are peripheral monocytes and have been found in the substantia nigra of people with PD. These monocytes can lead to more dopaminergic connection breakdown. In addition, monocytes isolated from people with Parkinson's disease express higher levels of the PD-associated protein, LRRK2, compared with non-PD individuals via vasodilation. In addition, high levels of pro-inflammatory cytokines, such as IL-6, can lead to the production of C-reactive protein by the liver, another protein commonly found in people with PD, that can lead to an increase in peripheral inflammation.
+Peripheral inflammation can affect the gut-brain axis, an area of the body highly implicated in PD. People with PD have altered gut microbiota and colon problems years before motor issues arise. Alpha-synuclein is produced in the gut and may migrate via the vagus nerve to the brainstem, and then to the substantia nigra.
+
+
+## Diagnosis
+Physician's initial assessment is typically based on medical history and neurological examination. They assess motor symptoms (bradykinesia, rest tremors, etc.) using clinical diagnostic criteria. The finding of Lewy bodies in the midbrain on autopsy is usually considered final proof that the person had PD. The clinical course of the illness over time may diverge from PD, requiring that presentation is periodically reviewed to confirm the accuracy of the diagnosis.
+Multiple causes can occur for parkinsonism or diseases that look similar. Stroke, certain medications, and toxins can cause "secondary parkinsonism" and need to be assessed during visit. Parkinson-plus syndromes, such as progressive supranuclear palsy and multiple system atrophy, must be considered and ruled out appropriately to begin a different treatment and disease progression (anti-Parkinson's medications are typically less effective at controlling symptoms in Parkinson-plus syndromes). Faster progression rates, early cognitive dysfunction or postural instability, minimal tremor, or symmetry at onset may indicate a Parkinson-plus disease rather than PD itself.
+Medical organizations have created diagnostic criteria to ease and standardize the diagnostic process, especially in the early stages of the disease. The most widely known criteria come from the UK Queen Square Brain Bank for Neurological Disorders and the U.S. National Institute of Neurological Disorders and Stroke. The Queen Square Brain Bank criteria require slowness of movement (bradykinesia) plus either rigidity, resting tremor, or postural instability. Other possible causes of these symptoms need to be ruled out. Finally, three or more of the following supportive symptoms are required during onset or evolution: unilateral onset, tremor at rest, progression in time, asymmetry of motor symptoms, response to levodopa for at least five years, the clinical course of at least ten years and appearance of dyskinesias induced by the intake of excessive levodopa. Assessment of sudomotor function through electrochemical skin conductance can be helpful in diagnosing dysautonomia.
+When PD diagnoses are checked by autopsy, movement disorders experts are found on average to be 79.6% accurate at initial assessment and 83.9% accurate after refining diagnoses at follow-up examinations. When clinical diagnoses performed mainly by nonexperts are checked by autopsy, the average accuracy is 73.8%. Overall, 80.6% of PD diagnoses are accurate, and 82.7% of diagnoses using the Brain Bank criteria are accurate.
+
+
+### Imaging
+Computed tomography (CT) scans of people with PD usually appear normal. Magnetic resonance imaging has become more accurate in diagnosis of the disease over time, specifically through iron-sensitive T2* and susceptibility weighted imaging sequences at a magnetic field strength of at least 3T, both of which can demonstrate absence of the characteristic 'swallow tail' imaging pattern in the dorsolateral substantia nigra. In a meta-analysis, absence of this pattern was highly sensitive and specific for the disease. A meta-analysis found that neuromelanin-MRI can discriminate individuals with Parkinson's from healthy subjects. Diffusion MRI has shown potential in distinguishing between PD and Parkinson-plus syndromes, as well as between PD motor subtypes, though its diagnostic value is still under investigation. CT and MRI are used to rule out other diseases that can be secondary causes of parkinsonism, most commonly encephalitis and chronic ischemic insults, as well as less-frequent entities such as basal ganglia tumors and hydrocephalus.
+The metabolic activity of dopamine transporters in the basal ganglia can be directly measured with positron emission tomography and single-photon emission computed tomography scans. It has shown high agreement with clinical diagnoses of PD. Reduced dopamine-related activity in the basal ganglia can help exclude drug-induced Parkinsonism. This finding is nonspecific and can be seen with both PD and Parkinson-plus disorders. In the United States, DaTSCANs are only FDA approved to distinguish PD or Parkinsonian syndromes from essential tremor.
+Iodine-123-meta-iodobenzylguanidine myocardial scintigraphy can help locate denervation of the muscles of the heart which can support a PD diagnosis.
+
+
+### Differential diagnosis
+Secondary parkinsonism – The multiple causes of parkinsonism can be differentiated through careful history, physical examination, and appropriate imaging. Other Parkinson-plus syndromes can have similar movement symptoms but have a variety of associated symptoms. Some of these are also synucleinopathies. Lewy body dementia involves motor symptoms with early onset of cognitive dysfunction and hallucinations which precede motor symptoms. Alternatively, multiple systems atrophy or MSA usually has early onset of autonomic dysfunction (such as orthostasis), and may have autonomic predominance, cerebellar symptom predominance, or Parkinsonian predominance.
+Other Parkinson-plus syndromes involve tau, rather than alpha-synuclein. These include progressive supranuclear palsy (PSP) and corticobasal syndrome (CBS). PSP predominantly involves rigidity, early falls, bulbar symptoms, and vertical gaze restriction; it can be associated with frontotemporal dementia symptoms. CBS involves asymmetric parkinsonism, dystonia, alien limb, and myoclonic jerking. Presentation timelines and associated symptoms can help differentiate similar movement disorders from idiopathic Parkinson disease.
+Vascular parkinsonism is the phenomenon of the presence of Parkinson's disease symptoms combined with findings of vascular events (such as a cerebral stroke). The damaging of the dopaminergic pathways is similar in cause for both vascular parkinsonism and idiopathic PD, and so present with similar symptoms. Differentiation can be made with careful bedside examination, history evaluation, and imaging.
+
+Parkinson-plus syndrome – Multiple diseases can be considered part of the Parkinson's plus group, including corticobasal syndrome, multiple system atrophy, progressive supranuclear palsy, and dementia with Lewy bodies. Differential diagnosis can be narrowed down with careful history and physical exam (especially focused on the sequential onset of specific symptoms), progression of the disease, and response to treatment. Some key symptoms:
+
+Corticobasal syndrome – levodopa-resistance, myoclonus, dystonia, corticosensory loss, apraxia, and non-fluent aphasia
+Dementia with Lewy bodies – levodopa resistance, cognitive predominance before motor symptoms, and fluctuating cognitive symptoms, (visual hallucinations are common in this disease)
+Essential tremor – This can at first look like parkinsonism, but has key differentiators. In essential tremor, the tremor gets worse with action (improves in PD), a lack of other symptoms is common in PD, and normal DatSCAN is seen.
+Multiple system atrophy – levodopa resistance, rapidly progressive, autonomic failure, stridor, present Babinski sign, cerebellar ataxia, and specific MRI findings
+Progressive supranuclear palsy – levodopa resistance, restrictive vertical gaze, specific MRI findings, and early and different postural difficulties
+Other conditions that can have similar presentations to PD include:
+
+
+## Prevention
+Exercise in middle age may reduce the risk of PD later in life. A review of studies regarding how physical activity (exercise) prevents Parkinson's disease noted a 34% reduction in risk amongst individuals who perform moderate to vigorous physical activity. The potential benefits of exercise in individuals with Parkinson's disease are being researched.
+Caffeine appears protective with a greater decrease in risk occurring with a larger intake of caffeinated beverages such as coffee.
+Antioxidants, such as vitamins C and E, have been proposed to protect against the disease, but results of studies have been contradictory and no positive effect has been shown. The results regarding fat and fatty acids have been contradictory. Use of nonsteroidal anti-inflammatory drugs (NSAIDs) and calcium channel blockers may be protective. A 2010 meta-analysis found that NSAIDs (apart from aspirin), have been associated with at least a 15% (higher in long-term and regular users) reduction in the incidence of the development of PD. As of 2019 meta-analyses have failed to confirm this link. Multiple studies have demonstrated a link between the use of ibuprofen and a decreased risk of Parkinson's development.
+
+
+## Management
+
+Despite ongoing research efforts, Parkinson's disease has no known cure. Patients are typically managed by a holistic approach that combines lifestyle modifications with physical therapy. Certain medications may also be used to provide symptomatic relief and improve the patient's quality of life. The medications used in Parkinson's disease work by either increasing endogenous dopamine levels or by directly mimicking dopamine's effect on the patient's brain. Levodopa (L-dopa) is the most effective for motor symptoms and is often combined with a dopa decarboxylase inhibitor (such as carbidopa or benserazide). Other agents include COMT inhibitors, dopamine agonists, and MAO-B inhibitors. The patient's age at disease onset as well as the stage of the disease often help determine which of the aforementioned drug groups is most effective. 
+Braak staging classifies the degree of pathology in patients with Parkinson's disease into six stages that correlate with early, middle, and late presentations of the disease. Treatment in the first stage aims for an optimal trade-off between symptom control and medication side effects. For example, the administration of levodopa in this stage may be delayed in favor of other agents, such as MAO-B inhibitors and dopamine agonists, due to its notable risk of complications. However, levodopa-related dyskinesias still correlate more strongly with the duration and severity of the disease than the duration of levodopa treatment. A careful consideration of the risks and benefits of starting treatment is crucial to optimize patient outcomes. In the middle stages of Parkinson's disease, the primary aim is to reduce patient symptoms. Episodes of medication overuse or any sudden withdrawals from medication must be promptly managed. If medications prove ineffective, surgery (such as deep brain stimulation or high-intensity focused ultrasound), subcutaneous waking-day apomorphine infusion, and enteral dopa pumps may be useful. Late-stage Parkinson's disease presents challenges requiring a variety of treatments, including those for psychiatric symptoms particularly depression, orthostatic hypotension, bladder dysfunction, and erectile dysfunction. In the final stages of the disease, palliative care is provided to improve a person's quality of life.
+A 2020 Cochrane review found no certain evidence that cognitive training is beneficial for people with Parkinson's disease, dementia or mild cognitive impairment. The findings are based on low certainty evidence of seven studies.
+No standard treatment for PD-associated anxiety exists.
+
+
+### Medications
+
+
+#### Levodopa
+Levodopa is usually the first drug of choice when treating Parkinson's disease and has been the most widely used PD treatment since the 1980s. The motor symptoms of PD are the result of reduced dopamine production in the brain's basal ganglia. Dopamine fails to cross the blood–brain barrier so it cannot be taken as a medicine to boost the brain's depleted levels of dopamine. A precursor of dopamine, levodopa, can pass through to the brain where it is readily converted to dopamine. Administration of levodopa temporarily diminishes the motor symptoms of PD.
+Only 5–10% of levodopa crosses the blood–brain barrier. Much of the remainder is metabolized to dopamine elsewhere in the body, causing a variety of side-effects, including nausea, vomiting, and orthostatic hypotension. Carbidopa and benserazide are dopa decarboxylase inhibitors that fail to cross the blood–brain barrier and inhibit the conversion of levodopa to dopamine outside the brain, reducing side-effects and improving the availability of levodopa for passage into the brain. One of these drugs is usually taken along with levodopa and is available combined with levodopa in the same pill.
+Prolonged use of levodopa is associated with the development of complications, such as involuntary movements (dyskinesias) and fluctuations in the impact of the medication. When fluctuations occur, a person can cycle through phases with good response to medication and reduced PD symptoms ("on state"), and phases with poor response to medication and increased PD symptoms ("off state"). Using lower doses of levodopa may reduce the risk and severity of these levodopa-induced complications. A former strategy, called "drug holidays", to reduce levodopa-related dyskinesia and fluctuations was to withdraw levodopa medication for some time, which can bring on dangerous side-effects such as neuroleptic malignant syndrome and is discouraged. Most people with PD eventually need levodopa and later develop levodopa-induced fluctuations and dyskinesias. Adverse effects of levodopa, including dyskinesias, may mistakenly influence people affected by the disease and sometimes their healthcare professionals to delay treatment, which reduces potential for optimal results.
+Levodopa is available in oral, inhalation, and infusion form; inhaled levodopa can be used when oral levodopa therapy has reached a point where "off" periods have increased in length.
+
+
+#### COMT inhibitors
+
+During the course of PD, affected people can experience a wearing-off phenomenon, where a recurrence of symptoms occurs after a dose of levodopa, but right before their next dose. Catechol-O-methyltransferase (COMT) is a protein that degrades levodopa before it can cross the blood–brain barrier and COMT inhibitors allow for more levodopa to cross. They are normally used in the management of later symptoms, but can be used in conjunction with levodopa/carbidopa when a person is experiencing the wearing off-phenomenon with their motor symptoms.
+Three COMT inhibitors are used to treat adults with PD and end-of-dose motor fluctuations – opicapone, entacapone, and tolcapone. Tolcapone has been available for but its usefulness is limited by possible liver damage complications requiring liver-function monitoring. Entacapone and opicapone cause little alteration to liver function. Licensed preparations of entacapone contain entacapone alone or in combination with carbidopa and levodopa. Opicapone is a once-daily COMT inhibitor.
+
+
+#### Dopamine agonists
+Dopamine agonists that bind to dopamine receptors in the brain have similar effects to levodopa. These were initially used as a complementary therapy to levodopa for individuals experiencing levodopa complications (on-off fluctuations and dyskinesias); they are mainly used on their own as first therapy for the motor symptoms of PD with the aim of delaying the initiation of levodopa therapy, thus delaying the onset of levodopa's complications. Dopamine agonists include bromocriptine, pergolide, pramipexole, ropinirole, piribedil, cabergoline, apomorphine, and lisuride.
+Though dopamine agonists are less effective than levodopa at controlling PD motor symptoms, they are effective enough to manage these symptoms in the first years of treatment. Dyskinesias due to dopamine agonists are rare in younger people who have PD, but along with other complications, become more common with older age at onset. Thus, dopamine agonists are the preferred initial treatment for younger-onset PD, and levodopa is preferred for older-onset PD.
+Dopamine agonists produce side effects, including drowsiness, hallucinations, insomnia, nausea, and constipation. Side effects appear with minimal clinically effective doses giving the physician reason to search for a different drug. Agonists have been related to impulse-control disorders (such as increased sexual activity, eating, gambling, and shopping) more strongly than other antiparkinson medications.
+Apomorphine, a dopamine agonist, may be used to reduce off periods and dyskinesia in late PD. It is administered only by intermittent injections or continuous subcutaneous infusions. Secondary effects such as confusion and hallucinations are common, individuals receiving apomorphine treatment should be closely monitored. Two dopamine agonists administered through skin patches (lisuride and rotigotine) are useful for people in the initial stages and possibly to control off states in those in advanced states. Due to an increased risk of cardiac fibrosis with ergot-derived dopamine agonists (bromocriptine, cabergoline, dihydroergocryptine, lisuride, and pergolide), they should only be considered for adjunct therapy to levodopa.
+
+
+#### MAO-B inhibitors
+MAO-B inhibitors (safinamide, selegiline and rasagiline) increase the amount of dopamine in the basal ganglia by inhibiting the activity of monoamine oxidase B, an enzyme that breaks down dopamine. They have been found to help alleviate motor symptoms when used as monotherapy (on their own); when used in conjunction with levodopa, time spent in the off phase is reduced. Selegiline has been shown to delay the need for beginning levodopa, suggesting that it might be neuroprotective and slow the progression of the disease. An initial study indicated that selegiline in combination with levodopa increased the risk of death, but this has been refuted.
+Common side effects are nausea, dizziness, insomnia, sleepiness, and (in selegiline and rasagiline) orthostatic hypotension. MAO-Bs are known to increase serotonin and cause a potentially dangerous condition known as serotonin syndrome.
+
+
+#### Other drugs
+Other drugs such as amantadine may be useful as treatment of motor symptoms, but evidence for use is lacking. Anticholinergics should not be used for dyskinesia or motor fluctuations but may be considered topically for drooling. A diverse range of symptoms beyond those related to motor function can be treated pharmaceutically. Examples are the use of quetiapine or clozapine for psychosis, cholinesterase inhibitors or memantine for dementia, and modafinil for excessive daytime sleepiness. In 2016, pimavanserin was approved for the management of PD psychosis. Doxepin and rasagline may reduce physical fatigue in PD.
+
+
+### Surgery
+
+Treating motor symptoms with surgery was once a common practice but the discovery of levodopa has decreased the amount of procedures. Studies have led to great improvements in surgical techniques, so surgery can be used in people with advanced PD for whom drug therapy is no longer sufficient. Surgery for PD can be divided in two main groups – lesional and deep brain stimulation (DBS). Target areas for DBS or lesions include the thalamus, globus pallidus, or subthalamic nucleus. DBS involves the implantation of a medical device called a neurostimulator, which sends electrical impulses to specific parts of the brain. DBS is recommended for people who have PD with motor fluctuations and tremor inadequately controlled by medication, or to those who are intolerant to medication lacking severe neuropsychiatric problems. Other less common surgical therapies involve intentional formation of lesions to suppress overactivity of specific subcortical areas. For example, pallidotomy involves surgical destruction of the globus pallidus to control dyskinesia.
+Four areas of the brain have been treated with neural stimulators in PD. These are the globus pallidus interna, thalamus, subthalamic nucleus, and pedunculopontine nucleus. DBS of the globus pallidus interna improves motor function, while DBS of the thalamic DBS improves tremor, but has little impact on bradykinesia or rigidity. DBS of the subthalamic nucleus is usually avoided if a history of depression or neurocognitive impairment is present. DBS of the subthalamic nucleus is associated with a reduction in medication. Pedunculopontine nucleus DBS remains experimental at present. Generally, DBS is associated with 30–60% improvement in motor score evaluations.
+
+
+### Rehabilitation
+
+Exercise programs are recommended in people with PD and recent reviews (2023) have demonstrated their efficacy. Some evidence shows that speech or mobility problems can improve with rehabilitation, although studies are scarce and of low quality. Regular physical exercise with or without physical therapy can be beneficial to maintain and improve mobility, flexibility, strength, gait speed, and quality of life. When an exercise program is performed under the supervision of a physiotherapist, more improvements occur in motor symptoms, mental and emotional functions, daily living activities, and quality of life compared with a self-supervised exercise program at home. Clinical exercises may be an effective intervention targeting overall well-being of individuals with Parkinson's. Improvement in motor function and depression may happen.
+In improving flexibility and range of motion for people experiencing rigidity, generalized relaxation techniques such as gentle rocking have been found to decrease excessive muscle tension. Other effective techniques to promote relaxation include slow rotational movements of the extremities and trunk, rhythmic initiation, diaphragmatic breathing, and meditation techniques. As for gait and addressing the challenges associated with the disease such as hypokinesia, shuffling, and decreased arm swing, physiotherapists have a variety of strategies to improve functional mobility and safety. Areas of interest concerning gait during rehabilitation programs focus on improving gait speed, the base of support, stride length, and trunk and arm-swing movement. Strategies include using assistive equipment (pole walking and treadmill walking), verbal cueing (manual, visual, and auditory), exercises (marching and PNF patterns), and altering environments (surfaces, inputs, open vs. closed). Strengthening exercises have shown improvements in strength and motor function for people with primary muscular weakness and weakness related to inactivity with mild to moderate PD, but reports show an interaction between strength and the time the medications were taken. Therefore, people with PD should perform exercises 45 minutes to one hour after medications when they are capable. Deep diaphragmatic breathing exercises are beneficial in improving chest-wall mobility and vital capacity decreased by a forward flexed posture and respiratory dysfunctions in advanced PD. Exercise may improve constipation. Whether exercise reduces physical fatigue in PD remains unclear.
+Strength training exercise has been shown to increase manual dexterity in people with PD after exercising with manual putty. Improvements in both manual dexterity and strength can have a favorable impact on people with Parkinson's disease, fostering increased independence in daily activities that require grasping objects.
+The Lee Silverman voice treatment (LSVT) is one of the most widely practiced treatments for speech disorders associated with PD. Speech therapy and specifically LSVT may improve speech. Occupational therapy (OT) aims to promote health and quality of life by helping people with the disease to participate in a large percentage of their daily living activities. Few studies have been conducted on the effectiveness of OT, and their quality is poor, although with some indication that it may improve motor skills and quality of life for the duration of the therapy.
+
+
+### Palliative care
+The goal of palliative care is to improve quality of life for both the patient and family by providing relief from the symptoms and stress of illnesses. As Parkinson's is uncurable, treatments focus on slowing decline and improving quality of life and are therefore palliative.
+Palliative care should be involved earlier, rather than later, in the disease course. Palliative care specialists can help with physical symptoms, emotional factors such as loss of function and jobs, depression, fear, and existential concerns.
+Along with offering emotional support to both the affected person and family, palliative care addresses goals of care. People with PD may have difficult decisions to make as the disease progresses, such as wishes for feeding tube, noninvasive ventilator or tracheostomy, wishes for or against cardiopulmonary resuscitation, and when to use hospice care. Palliative-care team members can help answer questions and guide people with PD on these complex and emotional topics to help them make decisions based on values.
+Muscles and nerves that control the digestive process may be affected by PD, resulting in constipation and gastroparesis (prolonged emptying of stomach contents). A balanced diet, based on periodical nutritional assessments, is recommended, and should be designed to avoid weight loss or gain and minimize the consequences of gastrointestinal dysfunction. As the disease advances, swallowing difficulties (dysphagia) may appear. Using thickening agents for liquid intake and an upright posture when eating may be useful; both measures reduce the risk of choking. Gastrostomy can be used to deliver food directly into the stomach.
+Levodopa and proteins use the same transportation system in the intestine and the blood–brain barrier, thereby competing for access. Taking them together results in reduced effectiveness of the drug. Therefore, when levodopa is introduced, excessive protein consumption is discouraged in favour of a well-balanced Mediterranean diet. In advanced stages, additional intake of low-protein products such as bread or pasta is recommended for similar reasons. To minimize interaction with proteins, levodopa should be taken 30 minutes before meals. At the same time, regimens for PD restrict proteins during breakfast and lunch, allowing protein intake in the evening.
+
+
+## Prognosis
+
+PD invariably progresses with time. A severity rating method known as the Unified Parkinson's disease rating scale (UPDRS) is the most commonly used metric for a clinical study. A modified version known as the MDS-UPDRS is also used. An older scaling method known as the Hoehn and Yahr scale (originally published in 1967), and a similar scale known as the Modified Hoehn and Yahr scale, have been used. The Hoehn and Yahr scale defines five basic stages of progression.
+Motor symptoms may advance aggressively in the early stages of the disease and more slowly later. Untreated, individuals are expected to lose independent ambulation after an average of eight years and be bedridden after 10 years. Medication has improved the prognosis of motor symptoms. In people taking levodopa, the progression time of symptoms to a stage of high dependency from caregivers may be over 15 years. 
+Two distinct subtypes of PD progression have been described and were validated in several PD cohorts: First, a fast-progressing PD subtype characterized by a more rapid progression of cognitive, neuropsychiatric and autonomic symptoms, higher gait impairment, increased mortality, and a faster neurodegeneration in the substantia nigra. Second, a slow-progressing PD subtype with milder disease progression and lower mortality.
+Predicting what course the disease will take for a given individual is difficult. Higher age, earlier onset of RBD symptoms, lower education and less asymmetry of PD motor symptoms are associated with a faster disease progression. The rate of motor decline is greater in those with less impairment at the time of diagnosis, while cognitive impairment is more frequent in those who are over 70 years of age at symptom onset. 
+No hard correlation between PD progression and PD disability as a whole has been found as of 2023; however, initial PD disability often mainly concerns the motor symptoms, whereas in later stages it is often mainly related to the non-motor symptoms of the disease. Therapies exist that can improve or alleviate these latter symptoms to some extent. As the disease advances, disability is more related to motor symptoms that are uncontrollable by medication (such as dysphagia, dysarthria, and problems with gait or balance) and to levodopa-induced complications, which appear in up to 50% of individuals after five years of levodopa usage. Finally, after ten years most people with the disease have autonomic disturbances, sleep problems, mood alterations and cognitive decline; these symptoms, especially cognitive decline, greatly increase disability.
+The life expectancy of people with PD is reduced. Mortality ratios are around twice those of unaffected people. Cognitive decline and dementia, old age at onset, a more advanced disease state, and presence of swallowing problems are all mortality risk factors. A disease pattern mainly characterized by tremor as opposed to rigidity, though, predicts an improved survival. Aspiration pneumonia is the leading cause of death and  twice as common in individuals with PD as in the healthy population.
+In 2016, PD resulted in about 211,000 deaths globally, an increase of 161% since 1990. The overall death rate increased by 19% to 1.81 per 100,000 people during that time.
+A person with PD has two to six times the risk of dementia compared with the general population. Up to 78% of people with PD have Parkinson's disease dementia. Dementia is associated with a reduced quality of life in people with PD and their caregivers, increased mortality, and a higher probability of needing nursing home care.
+
+
+## Epidemiology
+
+PD is the second most common neurodegenerative disorder and affects approximately six million people globally. As of 2021, Parkinson's was the fastest-growing neurodegenerative disease globally in both death and prevalence. The proportion in a population at a given time is about 0.3% in industrialized countries. PD is more common in the elderly and rates rise from 1% in those over 60 years of age to 4% of the population over 80. The mean age of onset is around 60 years, although 5–10% begin between the ages of 20 and 50 is classified as young onset PD. Males are affected at a ratio of around 3:2 compared with females. PD may be less prevalent in those of African and Asian ancestry (including South Asians), although this finding is disputed. The number of new diagnoses per year of PD is between 8–18 per 100,000 person–years.
+China is predicted to have nearly half of the Parkinson's disease population in the world in 2030. By 2040 the number of patients is expected to grow to approximately 14 million people; this growth has been referred to as the Parkinson's pandemic.
+The prevalence of dementia increases with age, and to a lesser degree, duration of the disease.
+
+
+## History
+
+Early sources, including an Egyptian papyrus, an ayurvedic medical treatise, the Bible, and Galen's writings, describe symptoms resembling those of PD. After Galen, no references unambiguously related to PD appear until the 17th century. In the 17th and 18th centuries, Franciscus Sylvius, Hieronymus David Gaubius, John Hunter and Auguste François Chomel wrote about elements of the disease.
+Despite that the first systematic description of the disease is attributed to James Parkinson,  the disease itself with all four cardinal signs (tremor, bradykinesia, rigor and postural instability) was described in 1690 by Ferenc Pápai Páriz, in a Hungarian medical text over 120 years before the classical description of James Parkinson. However, as it was published in Hungarian language, his book was ignored in the western medical literature.   
+In 1817, James Parkinson published his essay reporting six people with paralysis agitans. An Essay on the Shaking Palsy described the characteristic resting tremor, abnormal posture and gait, paralysis and diminished muscle strength, and the way that the disease progresses over time. Early neurologists who made further additions to the knowledge of the disease include Trousseau, Gowers, Kinnier Wilson and Erb, and Jean-Martin Charcot, whose studies between 1868 and 1881 increased the understanding of the disease. Among other advances, Charcot made the distinction between rigidity, weakness and bradykinesia. He championed the renaming of the disease in honor of James Parkinson.
+In 1912, Frederic Lewy described microscopic particles in affected brains, later named Lewy bodies. In 1919, Konstantin Tretiakoff reported that the substantia nigra was the main cerebral structure affected, but this finding was rejected until it was confirmed by further studies published by Rolf Hassler in 1938. The underlying biochemical changes in the brain were identified in the 1950s, due largely to the work of Arvid Carlsson on the neurotransmitter dopamine and Oleh Hornykiewicz on its role on PD. In 1997, alpha-synuclein was found to be the main component of Lewy bodies by Spillantini, Trojanowski, Goedert, and others.
+Anticholinergics and surgery (lesioning of the corticospinal pathway or some of the basal ganglia structures) were the only treatments until the arrival of levodopa, which reduced their use dramatically. Levodopa was first synthesized in 1911 by Casimir Funk, but it received little attention until the mid 20th century. It entered clinical practice in 1967 and brought about a revolution in the management of PD. By the late 1980s deep brain stimulation introduced by Alim Louis Benabid and colleagues at Grenoble, France, emerged as a possible treatment.
+An illustration of advanced Parkinson's disease by William Richard Gowers was published in 1886 in A Manual of Diseases of the Nervous System, based on 1879 photographs attributed to Albert Londe. A new image was created in 2020 to represent diversity in levels of severity.
+
+
+## Society and culture
+
+
+### Social impact
+For some people with PD, masked facial expressions and difficulty moderating facial expressions of emotion or recognizing other people's facial expressions can impact social well-being. As the condition progresses, tremor, other motor symptoms, difficulty communicating, or issues with mobility may interfere with social engagement, causing individuals with PD to feel isolated. Public perception and awareness of PD symptoms such as shaking, hallucinating, slurring speech, and being off balance is lacking in some countries and can lead to stigma.
+
+
+### Cost
+
+The costs of PD to society are high; in 2007, the largest share of direct cost came from inpatient care and nursing homes, while the share coming from medication was substantially lower. Indirect costs are high, due to reduced productivity and the burden on caregivers. In addition to economic costs, PD reduces quality of life of those with the disease and their caregivers.
+A study based on 2017 data estimated the US economic PD burden at $51.9 billion, including direct medical costs of $25.4 billion and $26.5 billion in indirect and non-medical costs. The projected total economic burden surpasses $79 billion by 2037. These findings highlight the need for interventions to reduce PD incidence, delay disease progression, and alleviate symptom burden that may reduce the future economic burden of PD.
+
+
+### Advocacy
+
+The birthday of James Parkinson, 11 April, has been designated as World Parkinson's Day. A red tulip was chosen by international organizations as the symbol of the disease in 2005; it represents the 'James Parkinson' tulip cultivar, registered in 1981 by a Dutch horticulturalist.
+Advocacy organizations include the National Parkinson Foundation, which has provided more than $180 million in care, research, and support services since 1982, Parkinson's Disease Foundation, which has distributed more than $115 million for research and nearly $50 million for education and advocacy programs since its founding in 1957 by William Black; the American Parkinson Disease Association, founded in 1961; and the European Parkinson's Disease Association, founded in 1992.
+
+
+### Notable cases
+
+In the 21st century, the diagnosis of Parkinson's among notable figures has increased the public's understanding of the disorder.
+Actor Michael J. Fox was diagnosed with PD at 29 years old, and has used his diagnosis to increase awareness of the disease. To illustrate the effects of the disease, Fox has appeared without medication in television roles and before the United States Congress. The Michael J. Fox Foundation, which he founded in 2000, has raised over $2 billion for Parkinson's research. Boxer Muhammad Ali showed signs of PD when he was 38, but was undiagnosed until he was 42, and has been called the "world's most famous Parkinson's patient". Whether he had PD or parkinsonism related to boxing is unresolved. Cyclist and Olympic medalist Davis Phinney, diagnosed with Parkinson's at 40, started the Davis Phinney Foundation in 2004 to support PD research. Deng Xiaoping, former paramount leader of China, had advanced Parkinson's disease.
+At the time of his suicide in 2014, Robin Williams, the American actor and comedian, had been diagnosed with PD, but his autopsy revealed dementia with Lewy bodies, highlighting difficulties in accurate diagnosis.
+
+
+## Clinical research
+
+As of 2022, no disease-modifying drugs (drugs that target the causes or damage) are approved for Parkinson's, so this is a major focus of Parkinson's research. Active research directions include the search for new animal models of the disease and studies of the potential usefulness of gene therapy, stem cell transplants, and neuroprotective agents. To aid in earlier diagnosis, research criteria for identifying prodromal biomarkers of the disease have been established.
+
+
+### Gene therapy
+
+Gene therapy typically involves the use of a noninfectious virus to shuttle genetic material into a part of the brain. Approaches have involved the expression of growth factors to prevent damage (Neurturin – a GDNF-family growth factor), and enzymes such as glutamic acid decarboxylase (GAD – the enzyme that produces GABA), tyrosine hydroxylase (the enzyme that produces L-DOPA) and catechol-O-methyl transferase (COMT – the enzyme that converts L-DOPA to dopamine). No safety concerns have been reported but the approaches have largely failed in phase two clinical trials. The delivery of GAD showed promise in phase two trials in 2011, but while effective at improving motor function, was inferior to DBS. Follow-up studies in the same cohort have suggested persistent improvement.
+
+
+### Neuroprotective treatments
+A vaccine that primes the human immune system to destroy alpha-synuclein, PD01A, entered clinical trials and a phase one report in 2020 suggested safety and tolerability. In 2018, an antibody, PRX002/RG7935, showed preliminary safety evidence in stage I trials supporting continuation to stage II trials.
+
+
+### Cell-based therapies
+
+In contrast to other neurodegenerative disorders, many Parkinson's symptoms can be attributed to the loss of a single cell type: mesencephalic dopaminergic (DA) neurons. Consequently, DA neuron regeneration is a promising therapeutic approach. Although most initial research sought to generate DA neuron precursor cells from fetal brain tissue, pluripotent stem cells—particularly induced pluripotent stem cells (iPSCs)—have become an increasingly popular tissue source.
+Both fetal and iPSC-derived DA neurons have been transplanted into patients in clinical trials.: 1926  Although some patients see improvements, the results are highly variable. Adverse effects, such as dyskinesia arising from excess dopamine release by the transplanted tissues, have also been observed.
+
+
+### Pharmaceutical
+Antagonists of adenosine receptors (specifically A2A) have been explored for Parkinson's. Of these, istradefylline has emerged as the most successful medication and was approved for medical use in the United States in 2019. It is approved as an add-on treatment to the levodopa/carbidopa regime. LRRK2 kinase inhibitors are also of interest.
+
+
+### Pathophysiology
+Neurodegeneration is proposed to originate in the brainstem and olfactory bulb.
+
+
+## References
+
+
+### Citations
+
+
+### Works cited
+
+
+#### Books
+
+
+#### Journal articles
+
+
+## External links
+"The Lancet Neurology Video". The Lancet. Retrieved 27 December 2023. Neurology-related videos, including several showing people with Parkinson's disease.

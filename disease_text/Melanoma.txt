@@ -1,0 +1,422 @@
+Melanoma is the most dangerous type of skin cancer; it develops from the  melanin-producing cells known as melanocytes. It typically occurs in the skin, but may rarely occur in the mouth, intestines, or eye (uveal melanoma). In women, melanomas most commonly occur on the legs; while in men, on the back. Melanoma is frequently referred to as malignant melanoma. However, the medical community stresses that there is no such thing as a 'benign melanoma' and recommends that the term 'malignant melanoma' should be avoided as redundant. 
+About 25% of melanomas develop from moles. Changes in a mole that can indicate melanoma include increase—especially rapid increase—in size, irregular edges, change in color, itchiness, or skin breakdown.
+The primary cause of melanoma is ultraviolet light (UV) exposure in those with low levels of the skin pigment melanin. The UV light may be from the sun or other sources, such as tanning devices. Those with many moles, a history of affected family members, and poor immune function are at greater risk. A number of rare genetic conditions, such as xeroderma pigmentosum, also increase the risk. Diagnosis is by biopsy and analysis of any skin lesion that has signs of being potentially cancerous.
+Avoiding UV light and using sunscreen in UV-bright sun conditions may prevent melanoma. Treatment typically is removal by surgery of the melanoma and the potentially affected adjacent tissue bordering the melanoma. In those with slightly larger cancers, nearby lymph nodes may be tested for spread (metastasis). Most people are cured if metastasis has not occurred. For those in whom melanoma has spread, immunotherapy, biologic therapy, radiation therapy, or chemotherapy may improve survival. With treatment, the five-year survival rates in the United States are 99% among those with localized disease, 65% when the disease has spread to lymph nodes, and 25% among those with distant spread. The likelihood that melanoma will reoccur or spread depends on its thickness, how fast the cells are dividing, and whether or not the overlying skin has broken down.
+Melanoma is the most dangerous type of skin cancer. Globally, in 2012, it newly occurred in 232,000 people. In 2015, 3.1 million people had active disease, which resulted in 59,800 deaths. Australia and New Zealand have the highest rates of melanoma in the world. High rates also occur in Northern Europe and North America, while it is less common in Asia, Africa, and Latin America. In the United States, melanoma occurs about 1.6 times more often in men than women. Melanoma has become more common since the 1960s in areas mostly populated by people of European descent.
+
+
+## Signs and symptoms
+Early signs of melanoma are changes to the shape or color of existing moles or, in the case of nodular melanoma, the appearance of a new lump anywhere on the skin. At later stages, the mole may itch, ulcerate, or bleed. Early signs of melanoma are summarized by the mnemonic "ABCDEEFG":
+
+Asymmetry
+Borders (irregular with edges and corners)
+Colour (variegated)
+Diameter (greater than 6 mm (0.24 in), about the size of a pencil eraser)
+Evolving over time
+This classification does not apply to nodular melanoma, which has its own classifications:
+
+Elevated above the skin surface
+Firm to the touch
+Growing
+Metastatic melanoma may cause nonspecific paraneoplastic symptoms, including loss of appetite, nausea, vomiting, and fatigue. Metastasis (spread) of early melanoma is possible, but relatively rare; less than a fifth of melanomas diagnosed early become metastatic. Brain metastases are particularly common in patients with metastatic melanoma. It can also spread to the liver, bones, abdomen, or distant lymph nodes.
+
+
+## Cause
+Melanomas are usually caused by DNA damage resulting from exposure to UV light from the sun. Genetics also play a role. Melanoma can also occur in skin areas with little sun exposure (i.e. mouth, soles of feet, palms of hands, genital areas). People with dysplastic nevus syndrome, also known as familial atypical multiple mole melanoma, are at increased risk for the development of melanoma.
+Having more than 50 moles indicates an increased risk in melanoma might arise. A weakened immune system makes cancer development easier due to the body's weakened ability to fight cancer cells.
+
+
+### UV radiation
+UV radiation exposure from tanning beds increases the risk of melanoma. The International Agency for Research on Cancer finds that tanning beds are "carcinogenic to humans" and that people who begin using tanning devices before the age of thirty years are 75% more likely to develop melanoma.
+Those who work in airplanes also appear to have an increased risk, believed to be due to greater exposure to UV.
+UVB light, emanating from the sun at wavelengths between 315 and 280 nm, is absorbed directly by DNA in skin cells. which results in a type of direct DNA damage called cyclobutane pyrimidine dimers. Thymine, cytosine, or cytosine-thymine dimers are formed by the joining of two adjacent pyrimidine bases within a strand of DNA. UVA light presents at wavelengths longer than UVB (between 400 and 315 nm); and it can also be absorbed directly by DNA in skin cells, but at lower efficiencies—about 1/100 to 1/1000 of UVB.
+Exposure to radiation (UVA and UVB) is a major contributor to developing melanoma.  Occasional extreme sun exposure that results in "sunburn" on areas of the human body is causally related to melanoma; and such areas of only intermittent exposure apparently explains why melanoma is more common on the back in men and on the legs in women. The risk appears to be strongly influenced by socioeconomic conditions rather than indoor versus outdoor occupations; it is more common in professional and administrative workers than unskilled workers. Other factors are mutations in (or total loss of) tumor suppressor genes. Using sunbeds with their deeply penetrating UVA rays has been linked to the development of skin cancers, including melanoma.
+Possible significant elements in determining risk include the intensity and duration of sun exposure, the age at which sun exposure occurs, and the degree of skin pigmentation. Melanoma rates tend to be highest in countries settled by migrants from Northern Europe which have a large amount of direct, intense sunlight to which the skin of the settlers is not adapted, most notably Australia. Exposure during childhood is a more important risk factor than exposure in adulthood. This is seen in migration studies in Australia.
+Incurring multiple severe sunburns increases the likelihood that future sunburns develop into melanoma due to cumulative damage. UV-high sunlight and tanning beds are the main sources of UV radiation that increase the risk for melanoma and living close to the equator increases exposure to UV radiation.
+
+
+### Genetics
+A number of rare mutations, which often run in families, greatly increase melanoma susceptibility. Several genes increase risks. Some rare genes have a relatively high risk of causing melanoma; some more common genes, such as a gene called MC1R that causes red hair, have a relatively lower elevated risk. Genetic testing can be used to search for the mutations.
+One class of mutations affects the gene CDKN2A. An alternative reading frame mutation in this gene leads to the destabilization of p53, a transcription factor involved in apoptosis and in 50% of human cancers. Another mutation in the same gene results in a nonfunctional inhibitor of CDK4, a cyclin-dependent kinase that promotes cell division. Mutations that cause the skin condition xeroderma pigmentosum  (XP) also increase melanoma susceptibility. Scattered throughout the genome, these mutations reduce a cell's ability to repair DNA. Both CDKN2A and XP mutations are highly penetrant (the chances of a carrier to express the phenotype is high).
+Familial melanoma  is genetically heterogeneous, and loci for familial melanoma appear on the chromosome arms 1p, 9p and 12q. Multiple genetic events have been related to melanoma's pathogenesis (disease development). The multiple tumor suppressor 1 (CDKN2A/MTS1) gene encodes p16INK4a – a low-molecular weight protein inhibitor of cyclin-dependent protein kinases (CDKs) – which has been localised to the p21 region of human chromosome 9. FAMMM is typically characterized by having 50 or more combined moles in addition to a family history of melanoma. It is transmitted autosomal dominantly and mostly associated with the CDKN2A mutations. People who have CDKN2A mutation associated FAMMM have a 38 fold increased risk of pancreatic cancer.
+Other mutations confer lower risk, but are more common in the population. People with mutations in the MC1R gene are two to four times more likely to develop melanoma than those with two wild-type (typical unaffected type) copies. MC1R mutations are very common, and all red-haired people have a mutated copy. Mutation of the MDM2 SNP309 gene is associated with increased risks for younger women.
+Fair- and red-haired people, persons with multiple atypical nevi or dysplastic nevi and persons born with giant congenital melanocytic nevi are at increased risk.
+A family history of melanoma greatly increases a person's risk, because mutations in several genes have been found in melanoma-prone families. People with a history of one melanoma are at increased risk of developing a second primary tumor.
+Fair skin is the result of having less melanin in the skin, which means less protection from UV radiation exists. 
+
+
+## Pathophysiology
+
+The earliest stage of melanoma starts when melanocytes begin out-of-control growth. Melanocytes are found between the outer layer of the skin (the epidermis) and the next layer (the dermis). This early stage of the disease is called the radial growth phase, when the tumor is less than 1 mm thick, and spreads at the level of the basal epidermis. Because the cancer cells have not yet reached the blood vessels deeper in the skin, it is very unlikely that this early-stage melanoma will spread to other parts of the body. If the melanoma is detected at this stage, then it can usually be completely removed with surgery.
+When the tumor cells start to move in a different direction – vertically up into the epidermis and into the papillary dermis – cell behaviour changes dramatically.
+The next step in the evolution is the invasive radial growth phase, in which individual cells start to acquire invasive potential. From this point on, melanoma is capable of spreading. The Breslow's depth of the lesion is usually less than 1 mm (0.04 in), while the Clark level is usually 2.
+The vertical growth phase (VGP) following is invasive melanoma. The tumor becomes able to grow into the surrounding tissue and can spread around the body through blood or lymph vessels. The tumor thickness is usually more than 1 mm (0.04 in), and the tumor involves the deeper parts of the dermis.
+The host elicits an immunological reaction against the tumor during the VGP, which is judged by the presence and activity of the tumor infiltrating lymphocytes (TILs). These cells sometimes completely destroy the primary tumor; this is called regression, which is the latest stage of development. In certain cases, the primary tumor is completely destroyed and only the metastatic tumor is discovered. About 40% of human melanomas contain activating mutations affecting the structure of the B-Raf protein, resulting in constitutive signaling through the Raf to MAP kinase pathway.
+A cause common to most cancers is damage to DNA.  UVA light mainly causes thymine dimers. UVA also produces reactive oxygen species and these inflict other DNA damage, primarily single-strand breaks, oxidized pyrimidines and the oxidized purine 8-oxoguanine (a mutagenic DNA change) at 1/10, 1/10, and 1/3rd the frequencies of UVA-induced thymine dimers, respectively.
+If unrepaired, cyclobutane pyrimidine dimer (CPD) photoproducts can lead to mutations by inaccurate translesion synthesis during DNA replication or repair. The most frequent mutations due to inaccurate synthesis past CPDs are cytosine to thymine (C>T) or CC>TT transition mutations. These are commonly referred to as UV fingerprint mutations, as they are the most specific mutation caused by UV, being frequently found in sun-exposed skin, but rarely found in internal organs. Errors in DNA repair of UV photoproducts, or inaccurate synthesis past these photoproducts, can also lead to deletions, insertions, and chromosomal translocations.
+The entire genomes of 25 melanomas were sequenced. On average, about 80,000 mutated bases (mostly C>T transitions) and about 100 structural rearrangements were found per melanoma genome. This is much higher than the roughly 70 mutations across generations (parent to child). Among the 25 melanomas, about 6,000 protein-coding genes had missense, nonsense, or splice site mutations. The transcriptomes of over 100 melanomas has also been sequenced and analyzed. Almost 70% of all human protein-coding genes are expressed in melanoma. Most of these genes are also expressed in other normal and cancer tissues, with some 200 genes showing a more specific expression pattern in melanoma compared to other forms of cancer. Examples of melanoma specific genes are tyrosinase, MLANA, and PMEL.
+UV radiation causes damage to the DNA of cells, typically thymine dimerization, which when unrepaired can create mutations in the cell's genes. This strong mutagenic factor makes cutaneous melanoma the tumor type with the highest number of mutations. When the cell divides, these mutations are propagated to new generations of cells. If the mutations occur in protooncogenes or tumor suppressor genes, the rate of mitosis in the mutation-bearing cells can become uncontrolled, leading to the formation of a tumor. Data from patients suggest that aberrant levels of activating transcription factor in the nucleus of melanoma cells are associated with increased metastatic activity of melanoma cells; studies from mice on skin cancer tend to confirm a role for activating transcription factor-2 in cancer progression.
+Cancer stem cells may also be involved.
+
+
+### Gene mutations
+Large-scale studies, such as The Cancer Genome Atlas, have characterized recurrent somatic alterations likely driving initiation and development of cutaneous melanoma. The Cancer Genome Atlas study has established four subtypes: BRAF mutant, RAS mutant, NF1 mutant, and triple wild-type.
+The most frequent mutation occurs in the 600th codon of BRAF (50% of cases). BRAF is normally involved in cell growth, and this specific mutation renders the protein constitutively active and independent of normal physiological regulation, thus fostering tumor growth. RAS genes (NRAS, HRAS and KRAS) are also recurrently mutated (30% of TCGA cases) and mutations in the 61st or 12th codons trigger oncogenic activity. Loss-of-function mutations often affect tumor suppressor genes such as NF1, TP53 and CDKN2A. Other oncogenic alterations include fusions involving various kinases such as BRAF, RAF1, ALK, RET, ROS1, NTRK1., NTRK3 and MET BRAF, RAS, and NF1 mutations and kinase fusions are remarkably mutually exclusive, as they occur in different subsets of patients. Assessment of mutation status can, therefore, improve patient stratification and inform targeted therapy with specific inhibitors.
+In some cases (3–7%) mutated versions of BRAF and NRAS undergo copy-number amplification.
+
+
+### Metastasis
+The research done by Sarna's team proved that heavily pigmented melanoma cells have Young's modulus about 4.93, when in non-pigmented ones it was only 0.98. In another experiment they found that elasticity of melanoma cells is important for its metastasis and growth: non-pigmented tumors were bigger than pigmented and it was much easier for them to spread. They shown that there are both pigmented and non-pigmented cells in melanoma tumors, so that they can both be drug-resistant and metastatic.
+
+
+## Diagnosis
+
+Looking at or visually inspecting the area in question is the most common method of suspecting a melanoma. Moles that are irregular in color or shape are typically treated as candidates. To detect melanomas (and increase survival rates), it is recommended to learn to recognize them (see "ABCDE" mnemonic), to regularly examine moles for changes (shape, size, color, itching or bleeding) and to consult a qualified physician when a candidate appears. In-person inspection of suspicious skin lesions is more accurate than visual inspection of images of suspicious skin lesions. When used by trained specialists, dermoscopy is more helpful to identify malignant lesions than use of the naked eye alone. Reflectance confocal microscopy may have better sensitivity and specificity than dermoscopy in diagnosing cutaneous melanoma but more studies are needed to confirm this result.
+However, many melanomas present as lesions smaller than 6 mm in diameter, and all melanomas are malignant when they first appear as a small dot. Physicians typically examine all moles, including those less than 6 mm in diameter. Seborrheic keratosis may meet some or all of the ABCD criteria, and can lead to false alarms. Doctors can generally distinguish seborrheic keratosis from melanoma upon examination or with dermatoscopy.
+Some advocate replacing "enlarging" with "evolving": moles that change and evolve are a concern. Alternatively, some practitioners prefer "elevation". Elevation can help identify a melanoma, but lack of elevation does not mean that the lesion is not a melanoma. Most melanomas in the US are detected before they become elevated. By the time elevation is visible, they may have progressed to the more dangerous invasive stage.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+### Ugly duckling
+One method is the "ugly duckling sign". Correlation of common lesion characteristics is made. Lesions that deviate from the common characteristics are labeled an "ugly duckling", and a further professional exam is required. The "Little Red Riding Hood" sign suggests that individuals with fair skin and light-colored hair might have difficult-to-diagnose amelanotic melanomas. Extra care is required when examining such individuals, as they might have multiple melanomas and severely dysplastic nevi. A dermatoscope must be used to detect "ugly ducklings", as many melanomas in these individuals resemble nonmelanomas or are considered to be "wolves in sheep's clothing". These fair-skinned individuals often have lightly pigmented or amelanotic melanomas that do not present easy-to-observe color changes and variations. Their borders are often indistinct, complicating visual identification without a dermatoscope.
+Amelanotic melanomas and melanomas arising in fair-skinned individuals are very difficult to detect, as they fail to show many of the characteristics in the ABCD rule, break the "ugly duckling" sign, and are hard to distinguish from acne scarring, insect bites, dermatofibromas, or lentigines.
+
+
+### Biopsy
+Following a visual examination and a dermatoscopic exam, or in vivo diagnostic tools such as a confocal microscope, the doctor may biopsy the suspicious mole. A skin biopsy performed under local anesthesia is often required to assist in making or confirming the diagnosis and in defining severity. Elliptical excisional biopsies may remove the tumor, followed by histological analysis and Breslow scoring. Incisional biopsies such as punch biopsies are usually contraindicated in suspected melanomas, because of the possibility of sampling error or local implantation causing misestimation of tumour thickness. However, fears that such biopsies may increase the risk of metastatic disease seem unfounded.
+Total body photography, which involves photographic documentation of as much body surface as possible, is often used during follow-up for high-risk patients. The technique has been reported to enable early detection and provides a cost-effective approach (with any digital camera), but its efficacy has been questioned due to its inability to detect macroscopic changes. The diagnosis method should be used in conjunction with (and not as a replacement for) dermoscopic imaging, with a combination of both methods appearing to give extremely high rates of detection.
+
+
+### Histopathologic types
+Melanoma is a type of neuroectodermal neoplasm. There are four main types of melanoma:
+
+Other histopathologic types are:
+
+Mucosal melanoma; When melanoma occurs on mucous membranes.
+Desmoplastic melanoma
+Melanoma with small nevus-like cells
+Melanoma with features of a Spitz nevus
+Uveal melanoma
+Vaginal melanoma
+Polypoid melanoma, a subclass of nodular melanoma.
+
+
+### In situ or invasive
+A melanoma in situ has not invaded beyond the basement membrane, whereas an invasive melanoma has spread beyond it.
+Some histopathological types of melanoma are inherently invasive, including nodular melanoma and lentigo maligna melanoma, where the in situ counterpart to lentigo maligna melanoma is lentigo maligna. Lentigo maligna is sometimes classified as a very early melanoma, and sometimes a precursor to melanoma.
+Superficial spreading melanomas and acral lentiginous melanomas can be either in situ or invasive, but acral lentiginous melanomas are almost always invasive.
+
+
+### Staging
+Further context on cancer staging is available at TNM.
+
+Metastatic melanomas can be detected by X-rays, CT scans, MRIs, PET and PET/CTs, ultrasound, LDH testing and photoacoustic detection. However, there is lack of evidence in the accuracy of staging of people with melanoma with various imaging methods.
+Melanoma stages according to AJCC, 8th edition:
+
+TX: Primary tumor thickness cannot be assessed (such as a diagnosis by curettage)
+T0: No evidence of primary tumor (such as unknown primary or completely regressed melanoma)
+
+Stage 1 and 2 require an N (lymph node) class of:
+
+N0 – No regional metastases.
+
+Stage 1, 2 and 3 require an M (metastasis status) of:
+
+M0: No evidence of distant metastasis
+
+Older systems include "Clark level" and "Breslow's depth", quantifying microscopic depth of tumor invasion.
+
+
+### Laboratory
+Lactate dehydrogenase (LDH) tests are often used to screen for metastases, although many patients with metastases (even end-stage) have a normal LDH; extraordinarily high LDH often indicates the metastatic spread of the disease to the liver.
+It is common for patients diagnosed with melanoma to have chest X-rays and an LDH test, and in some cases CT, MRI, and/or PET scans. Although controversial, sentinel lymph node biopsies and examination of the lymph nodes are also performed in patients to assess spread to the lymph nodes. A diagnosis of melanoma is supported by the presence of the S-100 protein marker.
+HMB-45 is a monoclonal antibody that reacts against an antigen present in melanocytic tumors such as melanomas. It is used in anatomic pathology as a marker for such tumors. The antibody was generated to an extract of melanoma. It reacts positively against melanocytic tumors but not other tumors, thus demonstrating specificity and sensitivity. The antibody also reacts positively against junctional nevus cells but not intradermal nevi, and against fetal melanocytes but not normal adult melanocytes.
+HMB-45 is nonreactive with almost all non-melanoma human malignancies, with the exception of rare tumors showing evidence of melanogenesis (e.g., pigmented schwannoma, clear cell sarcoma) or tumors associated with tuberous sclerosis complex (angiomyolipoma and lymphangiomyoma).
+
+
+## Prevention
+There is no evidence to support or refute adult population screening for melanoma.
+
+
+### Ultraviolet radiation
+Minimizing exposure to sources of ultraviolet radiation (the sun and sunbeds), following sun protection measures and wearing sun protective clothing (long-sleeved shirts, long trousers, and broad-brimmed hats) can offer protection.
+Using artificial light for tanning was once believed to help prevent skin cancers, but it can actually lead to an increased incidence of melanomas.
+UV nail lamps, which are used in nail salons to dry nail polish, are another common and widespread source of UV radiation that could be avoided. Although the risk of developing skin cancer through UV nail lamp use is low, it is still recommended to wear fingerless gloves and/or apply SPF 30 or greater sunscreen to the hands before using a UV nail lamp.
+The body uses UV light to generate vitamin D so there is a need to balance getting enough sunlight to maintain healthy vitamin D levels and reducing the risk of melanoma; it takes around a half-hour of sunlight for the body to generate its vitamin D for the day and this is about the same amount of time it takes for fair-skinned people to get a sunburn. Exposure to sunlight can be intermittent instead of all at one time.
+
+
+### Sunscreen
+Sunscreen appears to be effective in preventing melanoma. In the past, use of sunscreens with a sun protection factor (SPF) rating of 50 or higher on exposed areas were recommended; as older sunscreens more effectively blocked UVA with higher SPF. Currently, newer sunscreen ingredients (avobenzone, zinc oxide, and titanium dioxide) effectively block both UVA and UVB even at lower SPFs. Sunscreen also protects against squamous cell carcinoma, another skin cancer.
+Concerns have been raised that sunscreen might create a false sense of security against sun damage.
+
+
+### Medications
+A 2005 review found tentative evidence that statin and fibrate medication may decrease the risk of melanoma. A 2006 review however did not support any benefit.
+
+
+## Treatment
+
+Confirmation of the clinical diagnosis is done with a skin biopsy. This is usually followed up with a wider excision of the scar or tumor. Depending on the stage, a sentinel lymph node biopsy may be performed. Controversy exists around trial evidence for sentinel lymph node biopsy; with unclear evidence of benefit as of 2015. Treatment of advanced melanoma is performed from a multidisciplinary approach.
+
+
+### Surgery
+Excisional biopsies may remove the tumor, but further surgery is often necessary to reduce the risk of recurrence. Complete surgical excision with adequate surgical margins and assessment for the presence of detectable metastatic disease along with short- and long-term followup is standard. Often this is done by a wide local excision (WLE) with 1–2 cm (0.4–0.8 in) margins. Melanoma-in-situ and lentigo malignas are treated with narrower surgical margins, usually 0.2–0.5 cm (0.1–0.2 in). Many surgeons consider 0.5 cm (0.2 in) the standard of care for standard excision of melanoma-in-situ, but 0.2 cm (0.1 in) margin might be acceptable for margin controlled surgery (Mohs surgery, or the double-bladed technique with margin control). The wide excision aims to reduce the rate of tumor recurrence at the site of the original lesion. This is a common pattern of treatment failure in melanoma. Considerable research has aimed to elucidate appropriate margins for excision with a general trend toward less aggressive treatment during the last decades. A 2009 meta-analysis of randomized controlled trials found a small difference in survival rates favoring wide excision of primary cutaneous melanomas, but these results were not statistically significant.
+Mohs surgery has been reported with cure rate as low as 77% and as high as 98.0% for melanoma-in-situ. CCPDMA and the "double scalpel" peripheral margin controlled surgery is equivalent to Mohs surgery in effectiveness on this "intra-epithelial" type of melanoma.
+Melanomas that spread usually do so to the lymph nodes in the area of the tumor before spreading elsewhere. Attempts to improve survival by removing lymph nodes surgically (lymphadenectomy) were associated with many complications, but no overall survival benefit. Recently, the technique of sentinel lymph node biopsy has been developed to reduce the complications of lymph node surgery while allowing assessment of the involvement of nodes with tumor.
+Biopsy of sentinel lymph nodes is a widely used procedure when treating cutaneous melanoma.
+Neither sentinel lymph node biopsy nor other diagnostic tests should be performed to evaluate early, thin melanoma, including melanoma in situ, T1a melanoma or T1b melanoma ≤ 0.5mm. People with these conditions are unlikely to have the cancer spread to their lymph nodes or anywhere else and have a 5-year survival rate of 97%. Because of these considerations, sentinel lymph node biopsy is considered unnecessary health care for them. Furthermore, baseline blood tests and radiographic studies should not be performed only based on identifying this kind of melanoma, as there are more accurate tests for detecting cancer and these tests have high false-positive rates. To potentially correct false positives, gene expression profiling may be used as auxiliary testing for ambiguous and small lesions.
+Sentinel lymph node biopsy is often performed, especially for T1b/T2+ tumors, mucosal tumors, ocular melanoma and tumors of the limbs. A process called lymphoscintigraphy is performed in which a radioactive tracer is injected at the tumor site to localize the sentinel node(s). Further precision is provided using a blue tracer dye, and surgery is performed to biopsy the node(s). Routine hematoxylin and eosin (H&E) and immunoperoxidase staining will be adequate to rule out node involvement. Polymerase chain reaction (PCR) tests on nodes, usually performed to test for entry into clinical trials, now demonstrate that many patients with a negative sentinel lymph node actually had a small number of positive cells in their nodes. Alternatively, a fine-needle aspiration biopsy may be performed and is often used to test masses.
+If a lymph node is positive, depending on the extent of lymph node spread, a radical lymph node dissection will often be performed. If the disease is completely resected, the patient will be considered for adjuvant therapy.
+Excisional skin biopsy is the management of choice. Here, the suspect lesion is totally removed with an adequate (but minimal, usually 1 or 2 mm) ellipse of surrounding skin and tissue. To avoid disruption of the local lymphatic drainage, the preferred surgical margin for the initial biopsy should be narrow (1 mm). The biopsy should include the epidermal, dermal, and subcutaneous layers of the skin. This enables the histopathologist to determine the thickness of the melanoma by microscopic examination. This is described by Breslow's thickness (measured in millimeters). However, for large lesions, such as suspected lentigo maligna, or for lesions in surgically difficult areas (face, toes, fingers, eyelids), a small punch biopsy in representative areas will give adequate information and will not disrupt the final staging or depth determination. In no circumstances should the initial biopsy include the final surgical margin (0.5 cm, 1.0 cm, or 2 cm), as a misdiagnosis can result in excessive scarring and morbidity from the procedure. A large initial excision will disrupt the local lymphatic drainage and can affect further lymphangiogram-directed lymphnode dissection. A small punch biopsy can be used at any time where for logistical and personal reasons a patient refuses more invasive excisional biopsy. Small punch biopsies are minimally invasive and heal quickly, usually without noticeable scarring.
+
+
+### Add on treatment
+Adjuvant treatment after surgery may reduce the risk of recurrence after surgery, especially in high-risk melanomas. Routines vary in different countries, but today (2024) the most common adjuvant treatment is immune checkpoint inhibitor treatment for up to a year post-surgery.
+In the early 2000s, a relatively common strategy was to treat patients with high risk of recurrence with up to a year of high-dose interferon treatment, which has severe side effects, but may improve the patient's prognosis slightly. A 2013 meta-analysis suggested that the addition of interferon alpha increased disease-free and overall survival for people with AJCC TNM stage II-III cutaneous melanoma. A 2011 meta-analysis showed that interferon could lengthen the time before a melanoma comes back but increased survival by only 3% at 5 years. The unpleasant side effects also greatly decrease quality of life. In the European Union, interferon is usually not used outside the scope of clinical trials.
+
+
+### Chemotherapy
+Chemotherapy drugs such as Dacarbazine have been the backbone of metastatic melanoma treatment since FDA approval in 1975; however, its efficacy in terms of survival has never been proven in an RCT. Since the approval of immune checkpoint inhibitors, dacarbazine and its oral counterpart temozolomide constitute potential treatment options in later lines of therapy.
+Multiple drugs are available to patients to decrease the size of the tumor. By lessening the size of the tumor, some symptoms can be relieved; however, this does not necessarily lead to remission. Some of these drugs are dacarbazine, temozolomide, and fotemustine. Combinations of drugs are also used and, in some cases, present higher remission rates. These medication combinations can have harmful side effects. To maintain quality of life, patients require assistive treatments and observation. Although combinations of drugs increase remission rates, the survival rate does not show an increase.  
+In people with locally advanced cutaneous malignancies and sarcoma, isolated limb infusion (ILI) has been found to be a minimally invasive and well-tolerated procedure for delivering regional chemotherapy.
+
+
+### Targeted therapy
+Melanoma cells have mutations that allow them to survive and grow indefinitely in the body. Small-molecule targeted therapies work by blocking the genes involved in pathways for tumor proliferation and survival. The main treatments are BRAF, C-Kit and NRAS inhibitors. These inhibitors work to inhibit the downstream pathways involved in cell proliferation and tumour development due to specific gene mutations. People can be treated with small-molecule targeted inhibitors if they are positive for the specific mutation. BRAF inhibitors, such as vemurafenib and dabrafenib and a MEK inhibitor trametinib are the most effective, approved treatments for BRAF positive melanoma. Melanoma tumors can develop resistance during therapy which can make therapy no longer effective, but combining the use of BRAF and MEK inhibitors may create a fast and lasting melanoma therapy response.
+A number of treatments improve survival over traditional chemotherapy. Biochemotherapy (chemotherapy with cytokines IL-2 and IFN-α) combined with BRAF inhibitors improved survival for people with BRAF positive melanoma. Biochemotherapy alone did not improve overall survival and had higher toxicity than chemotherapy. Combining multiple chemotherapy agents (polychemotherapy) did not improve survival over monochemotherapy. Targeted therapies result in relatively short progression-free survival (PFS) times. The therapy combination of dabrafenib and trametinib has a 3-year PFS of 23%, and 5-year PFS of 13%.
+Lifileucel (Amtagvi) is a tumor-derived autologous T cell immunotherapy that was approved for medical use in the United States in February 2024.
+
+
+### Immunotherapy
+Immunotherapy is aimed at stimulating the person's immune system against the tumor, by enhancing the body's own ability to recognize and kill cancer cells. The current approach to treating melanoma with immunotherapy includes three broad categories of treatments including cytokines, immune check point inhibitors, and adoptive cell transfer. These treatment options are most often used in people with metastatic melanoma and significantly improves overall survival. However, these treatments are often costly. For example, one immune check point inhibitor treatment, pembrolizumab, costs US$10,000 to $12,000 for a single dose administered every 3 weeks.
+Cytokine therapies used for melanoma include IFN-a and IL-2. IL-2 (Proleukin) was the first new therapy approved (1990 EU, 1992 US) for the treatment of metastatic melanoma in 20 years. IL-2 may offer the possibility of a complete and long-lasting remission in this disease in a small percentage of people with melanoma. Intralesional IL-2 for in-transit metastases has a high complete response rate ranging from 40 to 100%. Similarly, IFN-a has shown only modest survival benefits and high toxicity, limiting its use as a stand-alone therapy.
+Immune check point inhibitors include anti-CTLA-4 monoclonal antibodies (ipilimumab and tremelimumab), toll-like receptor (TLR) agonists, CD40 agonists, anti-PD-1 (pembrolizumab, pidilizumab, and nivolumab) and PD-L1 antibodies. Evidence suggests that anti-PD-1 antibodies are more effective than anti-CTLA4 antibodies with less systemic toxicity. The five-year progression-free survival for immunotherapy with pembrolizumab is 21%. A therapeutic approach that includes the combination of different therapies improves overall survival and progression-free survival compared to treatment with the separate immunotherapy drugs alone.
+Ongoing research is looking at treatment by adoptive cell transfer. Adoptive cell transfer refers to the application of pre-stimulated, modified T cells or dendritic cells and is presently used to minimize complications from graft-versus-host disease.
+The combination nivolumab/relatlimab (Opdualag) was approved for medical use in the United States in March 2022.
+
+
+### Lentigo maligna
+Standard excision is still being done by most surgeons. Unfortunately, the recurrence rate is exceedingly high (up to 50%). This is due to the ill-defined visible surgical margin, and the facial location of the lesions (often forcing the surgeon to use a narrow surgical margin). The narrow surgical margin used, combined with the limitation of the standard "bread-loafing" technique of fixed tissue histology – result in a high "false negative" error rate, and frequent recurrences. Margin control (peripheral margins) is necessary to eliminate the false negative errors. If bread loafing is used, distances from sections should approach 0.1 mm to assure that the method approaches complete margin control. A meta-analysis of the literature in 2014 found no randomized controlled trials of surgical interventions to treat lentigo maligna or melanoma in-situ, even though surgery is the most widely used treatment.
+Mohs surgery has been done with cure rate reported to be as low as 77%, and as high as 95% by another author. The "double scalpel" peripheral margin controlled excision method approximates the Mohs method in margin control, but requires a pathologist intimately familiar with the complexity of managing the vertical margin on the thin peripheral sections and staining methods.
+Some melanocytic nevi, and melanoma-in-situ (lentigo maligna) have resolved with an experimental treatment, imiquimod (Aldara) topical cream, an immune enhancing agent. Some derma-surgeons are combining the two methods: surgically excising the cancer and then treating the area with Aldara cream postoperatively for three months. While some studies have suggested the adjuvant use of topical tazarotene, the current evidence is insufficient to recommend it and suggests that it increases topical inflammation, leading to lower patient compliance.
+
+
+### Radiation
+Radiation therapy is often used after surgical resection for patients with locally or regionally advanced melanoma or for patients with un-resectable distant metastases. Kilovoltage x-ray beams are often used for these treatments and have the property of the maximum radiation dose occurring close to the skin surface. It may reduce the rate of local recurrence but does not prolong survival. Radioimmunotherapy of metastatic melanoma is currently under investigation.
+Radiotherapy has a role in the palliation of metastatic melanoma.
+
+
+## Prognosis
+
+Factors that affect prognosis include:
+
+tumor thickness in millimeters (Breslow's depth),
+depth related to skin structures (Clark level),
+type of melanoma,
+presence of ulceration,
+presence of lymphatic/perineural invasion,
+presence of tumor-infiltrating lymphocytes (if present, prognosis is better),
+location of lesion,
+presence of satellite lesions, and
+presence of regional or distant metastasis.
+Certain types of melanoma have worse prognoses but this is explained by their thickness. Less invasive melanomas even with lymph node metastases carry a better prognosis than deep melanomas without regional metastasis at time of staging. Local recurrences tend to behave similarly to a primary unless they are at the site of a wide local excision (as opposed to a staged excision or punch/shave excision) since these recurrences tend to indicate lymphatic invasion.
+When melanomas have spread to the lymph nodes, one of the most important factors is the number of nodes with malignancy. Extent of malignancy within a node is also important; micrometastases in which malignancy is only microscopic have a more favorable prognosis than macrometastases. In some cases micrometastases may only be detected by special staining, and if malignancy is only detectable by a rarely employed test known as the polymerase chain reaction (PCR), the prognosis is better. Macro-metastases in which malignancy is clinically apparent (in some cases cancer completely replaces a node) have a far worse prognosis, and if nodes are matted or if there is extracapsular extension, the prognosis is worse still. In addition to these variables, expression levels and copy number variations of a number of relevant genes may be used to support assessment of melanoma prognosis.
+Stage IV melanoma, in which it has metastasized, is the most deadly skin malignancy: five-year survival is 22.5%. When there is distant metastasis, the cancer is generally considered incurable. The five-year survival rate is less than 10%. The median survival is 6–12 months. Treatment is palliative, focusing on life extension and quality of life. In some cases, patients may live many months or even years with metastatic melanoma (depending on the aggressiveness of the treatment). Metastases to skin and lungs have a better prognosis. Metastases to brain, bone and liver are associated with a worse prognosis. Survival is better with metastasis in which the location of the primary tumor is unknown.
+There is not enough definitive evidence to adequately stage, and thus give a prognosis for, ocular melanoma and melanoma of soft parts, or mucosal melanoma (e.g., rectal melanoma), although these tend to metastasize more easily. Even though regression may increase survival, when a melanoma has regressed, it is impossible to know its original size and thus the original tumor is often worse than a pathology report might indicate.
+About 200 genes are prognostic in melanoma, with both unfavorable genes where high expression is correlated to poor survival and favorable genes where high expression is associated with longer survival times. Examples of unfavorable genes are MCM6 and TIMELESS; an example of a favorable gene is WIPI1.
+An increased neutrophil-to-lymphocyte ratio is associated with worse outcomes.
+
+
+## Epidemiology
+
+Globally, in 2012, melanoma occurred in 232,000 people and resulted in 55,000 deaths. Australia and New Zealand have the highest rates of melanoma in the world. It has become more common in the last 20 years in areas that are mostly Caucasian.
+The rate of melanoma has increased in the recent years, but it is not clear to what extent changes in behavior, in the environment, or in early detection are involved.
+
+
+### Australia
+Australia has a very high – and increasing – rate of melanoma. In 2012, deaths from melanoma occurred in 7.3–9.8 per 100,000 population. In Australia, melanoma is the third most common cancer in either sex; indeed, its incidence is higher than for lung cancer, although the latter accounts for more deaths. It is estimated that in 2012, more than 12,000 Australians were diagnosed with melanoma: given Australia's modest population, this is better expressed as 59.6 new cases per 100,000 population per year; >1 in 10 of all new cancer cases were melanomas. Melanoma incidence in Australia is matter of significance, for the following reasons:
+
+Australian melanoma incidence has increased by more than 30 per cent between 1991 and 2009.
+Australian melanoma age-standardized incidence rates were, as of 2008, at least 12 times higher than the world average.
+Australian melanoma incidence is, by some margin, the highest in the world.
+Overall age-standardized cancer incidence in Australia is the highest in the world, and this is attributable to melanoma alone. Age-standardized overall cancer incidence is similar to New Zealand, but there is a statistically significant difference between Australia and all other parts of the developed world including North America, Western Europe, and the Mediterranean.
+
+
+### United States
+In the United States, about 9,000 people die from melanoma a year. In 2011, it affected 19.7 per 100,000, and resulted in death in 2.7 per 100,000.
+In 2013:
+
+71,943 people in the United States were diagnosed with melanomas of the skin, including 42,430 men and 29,513 women.
+9,394 people in the United States died from melanomas of the skin, including 6,239 men and 3,155 women.
+The American Cancer Society's estimates for melanoma incidence in the United States for 2017 are:
+
+About 87,110 new melanomas will be diagnosed (about 52,170 in men and 34,940 in women).
+About 9,730 people are expected to die of melanoma (about 6,380 men and 3,350 women).
+Melanoma is more than 20 times more common in whites than in African Americans. Overall, the lifetime risk of getting melanoma is about 2.5% (1 in 40) for whites, 0.1% (1 in 1,000) for African Americans, and 0.5% (1 in 200) for Mexicans.
+The risk of melanoma increases as people age. The average age of people when the disease is diagnosed is 63.
+
+
+## History
+Although melanoma is not a new disease, evidence for its occurrence in antiquity is rather scarce. However, one example lies in a 1960s examination of nine Peruvian mummies, radiocarbon dated to be approximately 2400 years old, which showed apparent signs of melanoma: melanotic masses in the skin and diffuse metastases to the bones.
+John Hunter is reported to be the first to operate on metastatic melanoma in 1787. Although not knowing precisely what it was, he described it as a "cancerous fungous excrescence". The excised tumor was preserved in the Hunterian Museum of the Royal College of Surgeons of England. It was not until 1968 that microscopic examination of the specimen revealed it to be an example of metastatic melanoma.
+The French physician René Laennec was the first to describe melanoma as a disease entity. His report was initially presented during a lecture for the Faculté de Médecine de Paris in 1804 and then published as a bulletin in 1806.
+The first English-language report of melanoma was presented by an English general practitioner from Stourbridge, William Norris in 1820. In his later work in 1857 he remarked that there is a familial predisposition for development of melanoma (Eight Cases of Melanosis with Pathological and Therapeutical Remarks on That Disease). Norris was also a pioneer in suggesting a link between nevi and melanoma and the possibility of a relationship between melanoma and environmental exposures, by observing that most of his patients had pale complexions. He also described that melanomas could be amelanotic and later showed the metastatic nature of melanoma by observing that they can disseminate to other visceral organs.
+The first formal acknowledgment of advanced melanoma as untreatable came from Samuel Cooper in 1840. He stated that the only chance for a cure depends upon the early removal of the disease (i.e., early excision of the malignant mole) ...'
+More than one and a half centuries later this situation remains largely unchanged.
+
+
+### Terminology
+The word melanoma came to English from 19th-century Neo-Latin and uses combining forms derived from ancient Greek roots: melano- (denoting melanin) + -oma (denoting a tissue mass and especially a neoplasm), in turn from Greek μέλας melas, "dark", and -ωμα oma, "process". The word melanoma has a long history of being used in a broader sense to refer to any melanocytic tumor, typically, but not always malignant, but today the narrower sense referring only to malignant types has become so dominant that benign tumors are usually not called melanomas anymore and the word melanoma is now usually taken to mean malignant melanoma unless otherwise specified. Terms such as "benign melanocytic tumor" unequivocally label the benign types, and modern histopathologic tumor classifications used in medicine do not use the word for benign tumors.
+
+
+## Research
+Pharmacotherapy research for un-resectable or metastatic melanoma is ongoing.
+
+
+### Targeted therapies
+In clinical research, adoptive cell therapy and gene therapy, are being tested.
+Two kinds of experimental treatments developed at the National Cancer Institute (NCI), have been used in metastatic melanoma with tentative success.
+The first treatment involves adoptive cell therapy (ACT) using TILs immune cells (tumor-infiltrating lymphocytes) isolated from a person's own melanoma tumor. These cells are grown in large numbers in a laboratory and returned to the patient after a treatment that temporarily reduces normal T cells in the patient's body. TIL therapy following lymphodepletion can result in durable complete response in a variety of setups.
+The second treatment, adoptive transfer of genetically altered autologous lymphocytes, depends on delivering genes that encode so called T cell receptors (TCRs), into patient's lymphocytes. After that manipulation lymphocytes recognize and bind to certain molecules found on the surface of melanoma cells and kill them.
+A cancer vaccine showed modest benefit in late-stage testing in 2009 against melanoma.
+
+
+### BRAF inhibitors
+About 60% of melanomas contain a mutation in the B-Raf gene. Early clinical trials suggested that B-Raf inhibitors including Plexxicon's vemurafenib could lead to substantial tumor regression in a majority of patients if their tumor contain the B-Raf mutation. In June 2011, a large clinical trial confirmed the positive findings from those earlier trials.
+In August 2011, Vemurafenib received FDA approval for the treatment of late-stage melanoma. In May 2013 the US FDA approved dabrafenib as a single agent treatment for patients with BRAF V600E mutation-positive advanced melanoma.
+Some researchers believe that combination therapies that simultaneously block multiple pathways may improve efficacy by making it more difficult for the tumor cells to mutate before being destroyed. In October 2012 a study reported that combining Dabrafenib with a MEK inhibitor trametinib led to even better outcomes. Compared to Dabrafenib alone, progression-free survival was increased to 41% from 9%, and the median progression-free survival increased to 9.4 months versus 5.8 months. Some side effects were, however, increased in the combined study.
+In January 2014, the FDA approved the combination of dabrafenib and trametinib for the treatment of people with BRAF V600E/K-mutant metastatic melanoma. In June 2018, the FDA approved the combination of a BRAF inhibitor encorafenib and a MEK inhibitor binimetinib for the treatment of un-resectable or metastatic melanoma with a BRAF V600E or V600K mutation.
+Eventual resistance to BRAF and MEK inhibitors may be due to a cell surface protein known as EphA2 which is now being investigated.
+
+
+### Ipilimumab
+At the American Society of Clinical Oncology Conference in June 2010, the Bristol Myers Squibb pharmaceutical company reported the clinical findings of their drug ipilimumab. The study found an increase in median survival from 6.4 to 10 months in patients with advanced melanomas treated with the monoclonal ipilimumab, versus an experimental vaccine. It also found a one-year survival rate of 25% in the control group using the vaccine, 44% in the vaccine and ipilimumab group, and 46% in the group treated with ipilimumab alone. However, some have raised concerns about this study for its use of the unconventional control arm, rather than comparing the drug against a placebo or standard treatment. The criticism was that although Ipilimumab performed better than the vaccine, the vaccine has not been tested before and may be causing toxicity, making the drug appear better by comparison.
+Ipilimumab was approved by the FDA in March 2011 to treat patients with late-stage melanoma that has spread or cannot be removed by surgery.
+In June 2011, a clinical trial of ipilimumab plus dacarbazine combined this immune system booster with the standard chemotherapy drug that targets cell division. It showed an increase in median survival for these late stage patients to 11 months instead of the 9 months normally seen. Researchers were also hopeful of improving the five year survival rate, though serious adverse side-effects were seen in some patients. A course of treatment costs $120,000. The drug's brandname is Yervoy.
+
+
+### Surveillance methods
+Advances in high resolution ultrasound scanning have enabled surveillance of metastatic burden to the sentinel lymph nodes. The Screening and Surveillance of Ultrasound in Melanoma trial (SUNMEL) is evaluating ultrasound as an alternative to invasive surgical methods.
+
+
+### Oncolytic virotherapy
+In some countries oncolytic virotherapy methods are studied and used to treat melanoma. Oncolytic virotherapy is a promising branch of virotherapy, where oncolytic viruses are used to treat diseases; viruses can increase metabolism, reduce anti-tumor immunity and disorganize vasculature. Talimogene laherparepvec (T-VEC) (which is a herpes simplex virus type 1–derived oncolytic immunotherapy), was shown to be useful against metastatic melanoma in 2015 with an increased survival of 4.4 months.
+
+
+### Antivirals
+Antiretrovirals have been tested in vitro against melanoma. The rationale behind this lies in their potential to inhibit human endogenous retroviruses, whose activity has been associated with the development of melanoma. The results on malignant cells have shown moderate efficacy, and further developments are awaited through animal model testing.
+
+
+## Notes
+
+
+## References
+
+
+## External links
+
+Melanoma at Curlie

@@ -1,0 +1,205 @@
+Appendicitis is inflammation of the appendix. Symptoms commonly include right lower abdominal pain, nausea, vomiting, and decreased appetite. However, approximately 40% of people do not have these typical symptoms. Severe complications of a ruptured appendix include widespread, painful inflammation of the inner lining of the abdominal wall and sepsis.
+Appendicitis is primarily caused by a blockage of the hollow portion in the appendix. This blockage typically results from a faecolith, a calcified "stone" made of feces. Other factors such as inflamed lymphoid tissue from a viral infection, intestinal parasites, gallstone, or tumors may also lead to this blockage. When the appendix becomes blocked, it experiences increased pressure, reduced blood flow, and bacterial growth, resulting in inflammation. This combination of factors causes tissue injury and, ultimately, tissue death. If this process is left untreated, it can lead to the appendix rupturing, which releases bacteria into the abdominal cavity, potentially leading to severe complications.
+The diagnosis of appendicitis is largely based on the person's signs and symptoms. In cases where the diagnosis is unclear, close observation, medical imaging, and laboratory tests can be helpful. The two most commonly used imaging tests for diagnosing appendicitis are ultrasound and computed tomography (CT scan). CT scan is more accurate than ultrasound in detecting acute appendicitis. However, ultrasound may be preferred as the first imaging test in children and pregnant women because of the risks associated with radiation exposure from CT scans. Although ultrasound may aid in diagnosis, its main role in identifying important differentials, such as ovarian pathology in females or mesenteric adenitis in children.
+
+The standard treatment for acute appendicitis involves the surgical removal of the inflamed appendix. This procedure can be performed either through an open incision in the abdomen (laparotomy) or using minimally invasive techniques with small incisions and cameras (laparoscopy). Surgery is essential to reduce the risk of complications or potential death associated with the rupture of the appendix. Antibiotics may be equally effective in certain cases of non-ruptured appendicitis. It is one of the most common and significant causes of sudden abdominal pain. In 2015, approximately 11.6 million cases of appendicitis were reported, resulting in around 50,100 deaths worldwide. In the United States, appendicitis is one of the most common causes of sudden abdominal pain requiring surgery. Annually, more than 300,000 individuals in the United States undergo surgical removal of their appendix.
+
+
+## Signs and symptoms
+
+The presentation of acute appendicitis includes acute abdominal pain, nausea, vomiting, and fever. As the appendix becomes more swollen and inflamed, it begins to irritate the adjoining abdominal wall. This leads the pain to localize at the right lower quadrant. This classic migration of pain may not appear in children under three years. This pain can be elicited through signs, which can feel sharp. Pain from appendicitis may begin as dull pain around the navel. After several hours, the pain usually migrates towards the right lower quadrant, where it becomes localized. Symptoms include localized findings in the right iliac fossa. The abdominal wall becomes very sensitive to gentle pressure (palpation). There is pain in the sudden release of deep tension in the lower abdomen (Blumberg's sign). If the appendix is retrocecal (localized behind the cecum), even deep pressure in the right lower quadrant may fail to elicit tenderness (silent appendix). This is because the cecum, distended with gas, protects the inflamed appendix from pressure. Similarly, if the appendix lies entirely within the pelvis, there is typically a complete absence of abdominal rigidity. In such cases, a digital rectal examination elicits tenderness in the rectovesical pouch. Coughing causes point tenderness in this area (McBurney's point), called Dunphy's sign.
+
+
+## Causes
+
+Acute appendicitis seems to be the result of a primary obstruction of the appendix. Once this obstruction occurs, the appendix becomes filled with mucus and swells. This continued production of mucus leads to increased pressures within the lumen and the walls of the appendix. The increased pressure results in thrombosis and occlusion of the small vessels, and stasis of lymphatic flow. At this point, spontaneous recovery rarely occurs. As the occlusion of blood vessels progresses, the appendix becomes ischemic and then necrotic. As bacteria begin to leak out through the dying walls, pus forms within and around the appendix (suppuration). The result is appendiceal rupture (a 'burst appendix') causing peritonitis, which may lead to sepsis and in rare cases, death. These events are responsible for the slowly evolving abdominal pain and other commonly associated symptoms.
+The causative agents include bezoars, foreign bodies, trauma, lymphadenitis and, most commonly, calcified fecal deposits that are known as appendicoliths or fecaliths. The occurrence of obstructing fecaliths has attracted attention since their presence in people with appendicitis is higher in developed than in developing countries. In addition an appendiceal fecalith is commonly associated with complicated appendicitis. Fecal stasis and arrest may play a role, as demonstrated by people with acute appendicitis having fewer bowel movements per week compared with healthy controls.
+The occurrence of a fecalith in the appendix was thought to be attributed to a right-sided fecal retention reservoir in the colon and a prolonged transit time. However, a prolonged transit time was not observed in subsequent studies. Diverticular disease and adenomatous polyps was historically unknown and colon cancer was exceedingly rare in communities where appendicitis itself was rare or absent, such as various African communities. Studies have implicated a transition to a Western diet lower in fiber in rising frequencies of appendicitis as well as the other aforementioned colonic diseases in these communities. And acute appendicitis has been shown to occur antecedent to cancer in the colon and rectum. Several studies offer evidence that a low fiber intake is involved in the pathogenesis of appendicitis. This low intake of dietary fiber is in accordance with the occurrence of a right-sided fecal reservoir and the fact that dietary fiber reduces transit time.
+
+
+## Diagnosis
+
+The physician will ask questions to get the health history, assess the patient's symptoms, do a complete physical exam, and order both laboratory and imaging tests. Appendicitis symptoms fall into two categories, typical and atypical.
+Typical appendicitis is characterized by a migratory right iliac fossa pain associated with nausea, and anorexia, which can occur with or without vomiting and localized muscle stiffness/ generalized guarding. It is possible the pain could localize to the left lower quadrant in people with situs inversus totalis. The combination of migrated umbilical pain to the right lower quadrant, loss of appetite for food, nausea, unsustained vomiting, and mild fever is classic.
+Atypical histories lack this typical progression and may include pain in the right lower quadrant as an initial symptom. Irritation of the peritoneum (inside lining of the abdominal wall) can lead to increased pain on movement, or jolting, for example going over speed bumps. Atypical histories often require imaging with ultrasound or CT scanning.
+
+
+### Signs
+During the early stages of appendicitis diagnosis, it is common for physical exams to present inconspicuous findings. Signs of inflammation become noticeable as the disease progresses. These signs may include:
+
+Aure-Rozanova's sign: Increased pain on palpation with a finger in the right inferior lumbar triangle (can be a positive Blumberg's sign).
+Bartomier-Michelson's sign: Increased pain on palpation at the right iliac region as the person being examined lies on their left side compared to when they lie on their back.
+Dunphy's sign: Increased pain in the right lower quadrant by coughing.
+Hamburger sign: The patient refuses to eat (anorexia is 80% sensitive for appendicitis)
+Kocher's sign (Kosher's sign): From the person's medical history, the start of pain in the umbilical region with a subsequent shift to the right iliac region.
+Massouh's sign: Developed in and popular in southwest England, the examiner performs a firm swish with their index and middle finger across the abdomen from the xiphoid process to the left and the right iliac fossa.
+Obturator sign: The person being evaluated lies on her or his back with the hip and knee both flexed at ninety degrees. The examiner holds the person's ankle with one hand and knee with the other hand. The examiner rotates the hip by moving the person's ankle away from their body while allowing the knee to move only inward. A positive test is pain with internal rotation of the hip.
+Psoas sign, also known as "Obraztsova's sign", is right lower-quadrant pain that is produced with either the passive extension of the right hip or by the active flexion of the person's right hip while supine. The pain that is elicited is due to inflammation of the peritoneum overlying the iliopsoas muscles and inflammation of the psoas muscles themselves. Straightening out the leg causes pain because it stretches these muscles, while flexing the hip activates the iliopsoas and causes pain.
+Rovsing's sign: Pain in the lower right abdominal quadrant with continuous deep palpation starting from the left iliac fossa upwards (counterclockwise along the colon). The thought is there will be increased pressure around the appendix by pushing bowel contents and air toward the ileocaecal valve provoking right-sided abdominal pain.
+Rosenstein's sign (Sitkovsky's sign): Increased pain in the right iliac region as the person is being examined lies on their left side.
+Perman's sign: In acute appendicitis palpation in the left iliac fossa may produce pain in the right iliac fossa.
+
+
+### Laboratory tests
+While there is no laboratory test specific for appendicitis, a complete blood count (CBC) is done to check for signs of infection or inflammation. Although 70–90 percent of people with appendicitis may have an elevated white blood cell (WBC) count, there are many other abdominal and pelvic conditions that can cause the WBC count to be elevated. However, a high WBC count may not alone represent a solid indicator of appendicitis but rather an inflammation  but the neutrophil ratio was more sensitive and specific for acute appendicitis.
+In children, neutrophil-lymphocyte ratio (NLR)
+demonstrates a high degree of accuracy in the diagnosis of acute appendicitis and distinguishes complicated appendicitis from the simple one.
+75–78 percent of the patients have neutrophilia. Delta-neutrophil index (DNI) is a valuable parameter that helps in the diagnosis of histologically normal appendicitis and distinguishing between simple and complicated appendicitis.
+A C-reactive protein (CRP) blood test will be ordered by the doctor to find out if there are any further causes of inflammation. The C-reactive protein/albumin (CRP/ALB) ratio can be a reliable predictor of complicated appendicitis.
+The urinalysis is important for ruling out a urinary tract infection as the cause of abdominal pain. The presence of more than 20 WBC per high-power field in the urine is more suggestive of a urinary tract disorder.
+If the patient is a woman, a pregnancy test will be ordered.
+
+
+### Imaging
+In children, the clinical examination is important to determine which children with abdominal pain should receive immediate surgical consultation and which should receive diagnostic imaging. Because of the health risks of exposing children to radiation, ultrasound is the preferred first choice with CT scan being a legitimate follow-up if the ultrasound is inconclusive. CT scan is more accurate than ultrasound for the diagnosis of appendicitis in adults and adolescents. CT scan has a sensitivity of 94%, specificity of 95%. Ultrasonography had an overall sensitivity of 86%, a specificity of 81%.
+
+
+#### Ultrasound
+
+Abdominal ultrasonography, preferably with doppler sonography, is useful to detect appendicitis, especially in children. Ultrasound can show the free fluid collection in the right iliac fossa, along with a visible appendix with increased blood flow when using color Doppler, and noncompressibility of the appendix, as it is essentially walled-off abscess. Other secondary sonographic signs of acute appendicitis include the presence of echogenic mesenteric fat surrounding the appendix and the acoustic shadowing of an appendicolith. In some cases (approximately 5%), ultrasonography of the iliac fossa does not reveal any abnormalities despite the presence of appendicitis. This false-negative finding is especially true of early appendicitis before the appendix has become significantly distended. Also, false-negative findings are more common in adults where larger amounts of fat and bowel gas make visualizing the appendix technically difficult. Despite these limitations, sonographic imaging with experienced hands can often distinguish between appendicitis and other diseases with similar symptoms. Some of these conditions include inflammation of lymph nodes near the appendix or pain originating from other pelvic organs such as the ovaries or Fallopian tubes. Ultrasounds may be either done by the radiology department or by the emergency physician.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+#### Computed tomography
+
+Where it is readily available, computed tomography (CT) has become frequently used, especially in people whose diagnosis is not obvious on history and physical examination. Although some concerns about interpretation are identified, a 2019 Cochrane review found that sensitivity and specificity of CT for the diagnosis of acute appendicitis in adults was high.  Concerns about radiation tend to limit use of CT in pregnant women and children, especially with the increasingly widespread usage of MRI.
+The accurate diagnosis of appendicitis is multi-tiered, with the size of the appendix having the strongest positive predictive value, while indirect features can either increase or decrease sensitivity and specificity. A size of over 6 mm is both 95% sensitive and specific for appendicitis.
+However, because the appendix can be filled with fecal material, causing intraluminal distention, this criterion has shown limited utility in more recent meta-analyses. This is as opposed to ultrasound, in which the wall of the appendix can be more easily distinguished from intraluminal feces. In such scenarios, ancillary features such as increased wall enhancement as compared to adjacent bowel and inflammation of the surrounding fat, or fat stranding, can be supportive of the diagnosis. However, their absence does not preclude it. In severe cases with perforation, an adjacent phlegmon or abscess can be seen. Dense fluid layering in the pelvis can also result, related to either pus or enteric spillage. When patients are thin or younger, the relative absence of fat can make the appendix and surrounding fat stranding difficult to see.
+
+
+#### Magnetic resonance imaging
+Magnetic resonance imaging (MRI) use has become increasingly common for diagnosis of appendicitis in children and pregnant patients due to the radiation dosage that, while of nearly negligible risk in healthy adults, can be harmful to children or the developing baby. In pregnancy, it is more useful during the second and third trimester, particularly as the enlargening uterus displaces the appendix, making it difficult to find by ultrasound. The periappendiceal stranding that is reflected on CT by fat stranding on MRI appears as an increased fluid signal on T2 weighted sequences. First trimester pregnancies are usually not candidates for MRI, as the fetus is still undergoing organogenesis, and there are no long-term studies to date regarding its potential risks or side effects.
+
+
+#### X-ray
+
+In general, plain abdominal radiography (PAR) is not useful in making the diagnosis of appendicitis and should not be routinely obtained from a person being evaluated for appendicitis. Plain abdominal films may be useful for the detection of ureteral calculi, small bowel obstruction, or perforated ulcer, but these conditions are rarely confused with appendicitis. An opaque fecalith can be identified in the right lower quadrant in fewer than 5% of people being evaluated for appendicitis. A barium enema has proven to be a poor diagnostic tool for appendicitis. While failure of the appendix to fill during a barium enema has been associated with appendicitis, up to 20% of normal appendices do not fill.
+
+
+### Scoring systems
+Several scoring systems have been developed to try to identify people who are likely to have appendicitis. The performance of scores such as the Alvarado score and the Pediatric Appendicitis Score, however, are variable.
+The Alvarado score is the most known scoring system. A score below 5 suggests against a diagnosis of appendicitis, whereas a score of 7 or more is predictive of acute appendicitis. In a person with an equivocal score of 5 or 6, a CT scan or ultrasound exam may be used to reduce the rate of negative appendectomy.
+
+
+### Pathology
+Even for clinically certain appendicitis, routine histopathology examination of appendectomy specimens is of value for identifying unsuspected pathologies requiring further postoperative management. Notably, appendix cancer is found incidentally in about 1% of appendectomy specimens.
+Pathology diagnosis of appendicitis can be made by detecting a neutrophilic infiltrate of the muscularis propria.
+Periappendicitis (inflammation of tissues around the appendix) is often found in conjunction with other abdominal pathology.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+### Differential diagnosis
+
+Children: Gastroenteritis, mesenteric adenitis, Meckel's diverticulitis, intussusception, Henoch–Schönlein purpura, lobar pneumonia, urinary tract infection (abdominal pain in the absence of other symptoms can occur in children with UTI), new-onset Crohn's disease or ulcerative colitis, pancreatitis, and abdominal trauma from child abuse; distal intestinal obstruction syndrome in children with cystic fibrosis; typhlitis in children with leukemia.
+Women: A pregnancy test is important for all women of childbearing age since an ectopic pregnancy can have signs and symptoms similar to those of appendicitis. Other obstetrical/ gynecological causes of similar abdominal pain in women include pelvic inflammatory disease, ovarian torsion, menarche, dysmenorrhea, endometriosis, and Mittelschmerz (the passing of an egg in the ovaries approximately two weeks before menstruation).
+Men: testicular torsion
+Adults: new-onset Crohn disease, ulcerative colitis, regional enteritis, cholecystitis, renal colic, perforated peptic ulcer, pancreatitis, rectus sheath hematoma and epiploic appendagitis.
+Elderly: diverticulitis, intestinal obstruction, colonic carcinoma, mesenteric ischemia, leaking aortic aneurysm.
+The term "pseudoappendicitis" is used to describe a condition mimicking appendicitis. It can be associated with Yersinia enterocolitica.
+
+
+## Management
+Acute appendicitis is typically managed by surgery. While antibiotics are safe and effective for treating uncomplicated appendicitis, 26% of people had a recurrence within a year and required an eventual appendectomy. Antibiotics are less effective if an appendicolith is present. Surgery is the standard management approach for acute appendicitis; however, the 2011 Cochrane review comparing appendectomy with antibiotics treatments has been withdrawn due to inclusion of a retracted article and not updated since. While 51% of patients who were treated with antibiotics did not need an appendectomy three years after treatment, the cost effectiveness of surgery versus antibiotics is unclear
+Using antibiotics to prevent potential postoperative complications in emergency appendectomy procedures is recommended, and the antibiotics are effective when given to a person before, during, or after surgery.
+
+
+### Pain
+Pain medications (such as morphine) do not appear to affect the accuracy of the clinical diagnosis of appendicitis and therefore should be given early in the patient's care. Historically there were concerns among some general surgeons that analgesics would affect the clinical exam in children, and some recommended that they not be given until the surgeon was able to examine the person.
+
+
+### Surgery
+
+The surgical procedure for the removal of the appendix is called an appendectomy. Appendectomy can be performed through open or laparoscopic surgery. Laparoscopic appendectomy has several advantages over open appendectomy as an intervention for acute appendicitis.
+
+
+#### Open appendectomy
+For over a century, laparotomy (open appendectomy) was the standard treatment for acute appendicitis. This procedure consists of the removal of the infected appendix through a single large incision in the lower right area of the abdomen. The incision in a laparotomy is usually 2 to 3 inches (51 to 76 mm) long.
+During an open appendectomy, the person with suspected appendicitis is placed under general anesthesia to keep the muscles completely relaxed and to keep the person unconscious. The incision is two to three inches (76 mm) long, and it is made in the right lower abdomen, several inches above the hip bone. Once the incision opens the abdomen cavity, and the appendix is identified, the surgeon removes the infected tissue and cuts the appendix from the surrounding tissue. After careful and close inspection of the infected area, and ensuring there are no signs that surrounding tissues are damaged or infected.  In case of complicated appendicitis managed by an emergency open appendectomy, abdominal drainage (a temporary tube from the abdomen to the outside to avoid abscess formation) may be inserted, but this may increase the hospital stay. The surgeon will start closing the incision. This means sewing the muscles and using surgical staples or stitches to close the skin up. To prevent infections, the incision is covered with a sterile bandage or surgical adhesive.
+
+
+#### Laparoscopic appendectomy
+Laparoscopic appendectomy was introduced in 1983 and has become an increasingly prevalent intervention for acute appendicitis. This surgical procedure consists of making three to four incisions in the abdomen, each 0.25 to 0.5 inches (6.4 to 12.7 mm) long. This type of appendectomy is made by inserting a special surgical tool called a laparoscope into one of the incisions. The laparoscope is connected to a monitor outside the person's body, and it is designed to help the surgeon to inspect the infected area in the abdomen. The other two incisions are made for the specific removal of the appendix by using surgical instruments. Laparoscopic surgery requires general anesthesia, and it can last up to two hours. Laparoscopic appendectomy has several advantages over open appendectomy, including a shorter post-operative recovery, less post-operative pain, and lower superficial surgical site infection rate. However, the occurrence of an intra-abdominal abscess is almost three times more prevalent in laparoscopic appendectomy than open appendectomy.
+
+
+#### Laparoscopic-assisted transumbilical appendectomy
+In pediatric patients, the high mobility of the cecum allows externalization of the appendix through the umbilicus, and the entire procedure can be performed with a single incision. Laparoscopic-assisted transumbilical appendectomy is a relatively recent technique but with long published series and very good surgical and aesthetic results.
+
+
+#### Pre-surgery
+The treatment begins by keeping the person who will be having surgery from eating or drinking for a given period, usually overnight. An intravenous drip is used to hydrate the person who will be having surgery. Antibiotics given intravenously such as cefuroxime and metronidazole may be administered early to help kill bacteria and thus reduce the spread of infection in the abdomen and postoperative complications in the abdomen or wound. Equivocal cases may become more difficult to assess with antibiotic treatment and benefit from serial examinations. If the stomach is empty (no food in the past six hours), general anaesthesia is usually used. Otherwise, spinal anaesthesia may be used.
+Once the decision to perform an appendectomy has been made, the preparation procedure takes approximately one to two hours. Meanwhile, the surgeon will explain the surgery procedure and will present the risks that must be considered when performing an appendectomy. (With all surgeries there are risks that must be evaluated before performing the procedures.) The risks are different depending on the state of the appendix. If the appendix has not ruptured, the complication rate is only about 3% but if the appendix has ruptured, the complication rate rises to almost 59%. The most usual complications that can occur are pneumonia, hernia of the incision, thrombophlebitis, bleeding and adhesions. Evidence indicates that a delay in obtaining surgery after admission results in no measurable difference in outcomes to the person with appendicitis.
+
+The surgeon will explain how long the recovery process should take. Abdomen hair is usually removed to avoid complications that may appear regarding the incision.
+In most cases, patients going in for surgery experience nausea or vomiting that require medication before surgery. Antibiotics, along with pain medication, may be administered before appendectomies.
+
+
+#### After surgery
+
+Hospital lengths of stay typically range from a few hours to a few days but can be a few weeks if complications occur. The recovery process may vary depending on the severity of the condition: if the appendix had ruptured or not before surgery. Appendix surgery recovery is generally much faster if the appendix did not rupture. It is important that people undergoing surgery respect their doctor's advice and limit their physical activity so the tissues can heal. Recovery after an appendectomy may not require diet changes or a lifestyle change.
+The length of hospital stays for appendicitis varies on the severity of the condition. A study from the United States found that in 2010, the average appendicitis hospital stay was 1.8 days. For stays where the person's appendix had ruptured, the average length of stay was 5.2 days.
+After surgery, the patient will be transferred to a postanesthesia care unit, so their vital signs can be closely monitored to detect anesthesia- or surgery-related complications. Pain medication may be administered if necessary. After patients are completely awake, they are moved to a hospital room to recover. Most individuals will be offered clear liquids the day after the surgery, then progress to a regular diet when the intestines start to function correctly. Patients are recommended to sit upon the edge of the bed and walk short distances several times a day. Moving is mandatory, and pain medication may be given if necessary. Full recovery from appendectomies takes about four to six weeks but can be prolonged to up to eight weeks if the appendix had ruptured.
+
+
+## Prognosis
+Most people with appendicitis recover quickly after surgical treatment, but complications can occur if treatment is delayed or if peritonitis occurs. Recovery time depends on age, condition, complications, and other circumstances, including the amount of alcohol consumption, but usually is between 10 and 28 days. For young children (around ten years old), the recovery takes three weeks.
+The possibility of peritonitis is the reason why acute appendicitis warrants rapid evaluation and treatment. People with suspected appendicitis may have to undergo a medical evacuation. Appendectomies have occasionally been performed in emergency conditions (i.e., not in a proper hospital) when a timely medical evacuation was impossible.
+Typical acute appendicitis responds quickly to appendectomy and occasionally will resolve spontaneously. If appendicitis resolves spontaneously, it remains controversial whether an elective interval appendectomy should be performed to prevent a recurrent episode of appendicitis. Atypical appendicitis (associated with suppurative appendicitis) is more challenging to diagnose and is more apt to be complicated even when operated early. In either condition, prompt diagnosis and appendectomy yield the best results with full recovery in two to four weeks usually. Mortality and severe complications are unusual but do occur, especially if peritonitis persists and is untreated.
+Another entity known as the appendicular lump is talked about. It happens when the appendix is not removed early during infection, and omentum and intestine adhere to it, forming a palpable lump. During this period, surgery is risky unless there is pus formation evident by fever and toxicity or by ultrasound. Medical management treats the condition.
+An unusual complication of an appendectomy is "stump appendicitis": inflammation occurs in the remnant appendiceal stump left after a prior incomplete appendectomy. Stump appendicitis can occur months to years after initial appendectomy and can be identified with imaging modalities such as ultrasound.
+
+
+## History
+The history of appendicitis traces back to ancient medical texts, though its clear clinical understanding emerged in the 19th century. Berengario da Carpi provided the first recorded description of the appendix in the 16th century, followed by Andreas Vesalius and Gabriele Falloppio. Clinical understanding progressed in the 18th and 19th centuries, marked by Lorenz Heister's autopsy findings, Claudius Aymand's surgical intervention, and J. Mestivier's operation for appendicitis. The term "appendicitis" was coined by the American physician Reginald Heber Fitz in 1886, leading to standardized diagnosis and treatment, including Charles McBurney's identification of McBurney's point. Modern appendectomy techniques evolved in the early 20th century, coinciding with advancements in pathology, notably demonstrated by Ludwig Aschoff in 1908.
+
+
+## Epidemiology
+
+Appendicitis is most common between the ages of 5 and 40. In 2013, it resulted in 72,000 deaths globally, down from 88,000 in 1990.
+In the United States, there were nearly 293,000 hospitalizations involving appendicitis in 2010. Appendicitis is one of the most frequent diagnoses for emergency department visits resulting in hospitalization among children ages 5–17 years in the United States.
+Adults presenting to the emergency department with a known family history of appendicitis are more likely to have this disease than those without.
+
+
+## See also
+Deaths from appendicitis
+Evan O'Neill Kane
+Leonid Rogozov
+
+
+## References
+
+
+## External links
+
+Appendicitis at Curlie
+CT of the abdomen showing acute appendicitis
+Appendicitis, history, diagnosis and treatment by Surgeons Net Education
+Appendicitis: Acute Abdomen and Surgical Gastroenterology from the Merck Manual Professional (content last modified September 2007)
+Appendicitis – Symptoms Causes and Treatment Archived 2021-02-27 at the Wayback Machine at Health N Surgery

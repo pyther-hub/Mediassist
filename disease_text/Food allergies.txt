@@ -1,0 +1,229 @@
+A food allergy is an abnormal immune response to food. The symptoms of the allergic reaction may range from mild to severe. They may include itchiness, swelling of the tongue, vomiting, diarrhea, hives, trouble breathing, or low blood pressure. This typically occurs within minutes to several hours of exposure. When the symptoms are severe, it is known as anaphylaxis. A food intolerance and food poisoning are separate conditions, not due to an immune response.
+Common foods involved include cow's milk, peanuts, eggs, shellfish, fish, tree nuts, soy, wheat, and sesame. The common allergies vary depending on the country. Risk factors include a family history of allergies, vitamin D deficiency, obesity, and high levels of cleanliness. Allergies occur when immunoglobulin E (IgE), part of the body's immune system, binds to food molecules. A protein in the food is usually the problem. This triggers the release of inflammatory chemicals such as histamine. Diagnosis is usually based on a medical history, elimination diet, skin prick test, blood tests for food-specific IgE antibodies, or oral food challenge.
+Management involves avoiding the food in question and having a plan if exposure occurs. This plan may include giving adrenaline (epinephrine) and wearing medical alert jewelry. Early childhood exposure to potential allergens may be protective against later development of a food allergy. The benefits of allergen immunotherapy for treating food allergies are not proven, thus not recommended as of 2015. Some types of food allergies among children resolve with age, including those to milk, eggs, and soy; while others such as to nuts and shellfish typically do not.
+In the developed world, about 4% to 8% of people have at least one food allergy. They are more common in children than adults and appear to be increasing in frequency. Male children appear to be more commonly affected than females. Some allergies more commonly develop early in life, while others typically develop in later life. In developed countries, more people believe they have food allergies when they actually do not have them.
+
+
+## Signs and symptoms
+
+Food allergy symptoms occur within minutes to hours after exposure and may include:
+
+Rash
+Hives
+Itching of mouth, lips, tongue, throat, eyes, skin, or other areas
+Swelling (angioedema) of lips, tongue, eyelids, or the whole face
+Difficulty swallowing
+Runny or congested nose
+Hoarse voice
+Wheezing and/or shortness of breath
+Diarrhea, abdominal pain, and/or stomach cramps
+Lightheadedness
+Fainting
+Nausea
+Vomiting
+In some cases, however, onset of symptoms may be delayed for hours.
+Symptoms can vary. The amount of food needed to trigger a reaction also varies.
+Serious danger regarding allergies can begin when the respiratory tract or blood circulation is affected. The former can be indicated through wheezing and cyanosis. Poor blood circulation leads to a weak pulse, pale skin and fainting.
+A severe case of an allergic reaction, caused by symptoms affecting the respiratory tract and blood circulation, is called anaphylaxis.  When symptoms are related to a drop in blood pressure, the person is said to be in anaphylactic shock. Anaphylaxis occurs when IgE antibodies are involved, and areas of the body that are not in direct contact with the food become affected and show symptoms. Those with asthma or an allergy to peanuts, tree nuts, or seafood are at greater risk for anaphylaxis.
+
+
+## Causes
+
+
+### Common food allergies
+Allergic reactions are abnormal immune responses that develop after exposure to a given food allergen. Food allergens account for about 90% of all allergic reactions. The most common food allergens include milk, eggs, peanuts, tree nuts, fish, shellfish, soy, and wheat, which are referred to as "the big eight", and are required by US law to be on labels of foods that contain those foods. In April 2021, President Biden signed the FASTER Act into law. This recognized sesame as the ninth US mandatory food label allergen.
+Peanuts, a member of the legume family, are one of the most common food allergens that induce reactions in both children and adults. Affecting about 2% of the Western population, peanut allergies tend to cause more severe reactions and anaphylaxis than other food allergies. Tree nuts, including almonds, brazil nuts, cashews, coconuts, hazelnuts, macadamia nuts, pecans, pistachios, pine nuts, and walnuts, are also common allergens. Affected individuals may be sensitive to one particular tree nut or many different ones. Peanuts and seeds, including sesame seeds and poppy seeds, can be processed to extract oils, but trace amounts of protein may also elicit an allergic reaction. Peanut and tree nut allergies are lifelong conditions for the majority of those affected, although evidence shows that ~20% of those with peanut allergies and 9% of those with tree nut allergies may outgrow them.
+Egg allergies affect about one in 50 children but are frequently outgrown when children reach age five. Affected individuals can be sensitive to proteins both in the egg white and egg yolk, but most children are allergic to those in the white while most adults are allergic to those in the yolk.
+Cow's milk is the most common food allergen in infants and young children, yet many adults are also sensitized to cow's milk. Many affected individuals cannot tolerate dairy products such as cheese and yogurt. A small portion of children with milk allergy, roughly 10%, have a reaction to beef because it contains small amounts of protein that are also present in cow's milk.
+Shellfish, which are divided into crustaceans (shrimp, crab, lobster, etc.) and mollusks (mussel, oyster, scallop, squid, octopus, snail, etc.), are the most common food allergy in adults. People may be allergic to other types of seafood, such as fish. Fish allergies were found to be more common in countries that have high fish consumption compared to those with lower consumption.
+Other common food allergens include soy and wheat. Those allergic to wheat may be sensitized to any protein in the wheat kernel. To a lesser frequency, people may be mildly allergic to raw fruits and vegetables, a disease known as oral allergy syndrome. Less common allergens include maize, spices, synthetic and natural colors, and chemical additives.
+
+Balsam of Peru, which is in various foods, is in the "top five" allergens most commonly causing patch test reactions in people referred to dermatology clinics.
+
+
+### Routes of exposure
+Exposure to certain food proteins triggers the production of antigen-specific immunoglobulin E (IgE) antibodies, which, if unaccompanied by allergic symptoms, is known as allergic sensitization. Oral ingestion is the main sensitization route for most food allergy cases, yet other routes of exposure include inhalation and skin contact.
+For example, inhaling airborne particles in a farm-scale or factory-scale peanut shelling/crushing environment, or from cooking, can induce respiratory effects in allergic individuals. Furthermore, peanut allergies are much more common in adults who had oozing and crusted skin rashes as infants, suggesting that impaired skin may be a risk factor for sensitization. An estimated 28.5 million people worldwide are engaged in the seafood industry, which includes fishing, aquaculture, processing and industrial cooking. In these occupational settings, individuals with fish and shellfish allergies are at high risk of exposure to allergenic proteins via aerosolization. Respiratory symptoms may be induced by inhalation of wet aerosols from fresh fish handling, inhalation of dry aerosols from fishmeal processing, and dermal contact through skin breaks and cuts. Another occupational food allergy that involves respiratory symptoms is "baker's asthma," which commonly develops in food service workers who work with baked goods. Previous studies detected 40 allergens from wheat, some cross-reacted with rye proteins and a few cross-reacted with grass pollens.
+Allergic sensitization can occur via skin antigen exposure, which usually manifests as hives. The skin has been suggested to be a critical sensitization route for peanut-allergic individuals. Peanut allergies are much more common in adults who had oozing and crusted skin rashes as infants, reinforcing that those with disrupted epithelial barriers, notably the skin barrier, are more prone to skin sensitization. Environmental factors, such as exposure to food, microorganisms, creams, and detergents, may lead to skin barrier dysfunction. Several studies reveal that children exposed to skin creams containing peanut oil are reported to have a higher risk of peanut allergy, suggesting that impaired skin may be a risk factor for sensitization.
+
+
+### Atopy
+Food allergies develop more easily in people with the atopic syndrome, a very common combination of diseases: allergic rhinitis and conjunctivitis, eczema, and asthma. The syndrome has a strong inherited component; a family history of allergic diseases can be indicative of the atopic syndrome.
+
+
+### Cross-reactivity
+Some children who are allergic to cow's milk protein also show a cross-sensitivity to soy-based products. Some infant formulas have their milk and soy proteins hydrolyzed, so when taken by infants, their immune systems do not recognize the allergen and they can safely consume the product. Hypoallergenic infant formulas can be based on proteins partially predigested to a less antigenic form. Other formulas, based on free amino acids, are the least antigenic and provide complete nutritional support in severe forms of milk allergy.
+Crustaceans (shrimp, crab, lobster, etc.) and molluscs (mussel, oyster, scallop, squid, octopus, snail, etc.) are different invertebrate classes, but the allergenic protein tropomyosin is present and responsible for cross-reactivity.
+People with latex allergy often also develop allergies to bananas, kiwifruit, avocados, and some other foods.
+
+
+## Pathophysiology
+
+Conditions caused by food allergies are classified into three groups according to the mechanism of the allergic response:
+
+IgE-mediated (classic) – the most common type, occurs shortly after eating and may involve anaphylaxis.
+Non-IgE mediated – characterized by an immune response not involving immunoglobulin E; may occur some hours after eating, complicating diagnosis
+IgE and/or non-IgE-mediated – a hybrid of the above two types
+Allergic reactions are abnormal immune responses to certain substances that are normally harmless. When immune cells encounter the allergenic protein, IgE antibodies are produced; this is similar to the immune system's reaction to foreign pathogens. The IgE antibodies identify the allergenic proteins as harmful and initiate the allergic reaction. The harmful proteins are those that do not break down due to the strong bonds of the protein. IgE antibodies bind to a receptor on the surface of the protein, creating a tag, just as a virus or parasite becomes tagged. Why some proteins do not denature and subsequently trigger allergic reactions and hypersensitivity while others do is not entirely clear.
+Hypersensitivities are categorized according to the parts of the immune system that are attacked and the amount of time it takes for the response to occur.  The four types of hypersensitivity reaction are:  type 1, immediate IgE-mediated; type 2, cytotoxic; type 3, immune complex-mediated; and type 4, delayed cell-mediated. The pathophysiology of allergic responses can be divided into two phases. The first is an acute response that occurs immediately after exposure to an allergen. This phase can either subside or progress into a "late-phase reaction" which can substantially prolong the symptoms of a response, and result in tissue damage.
+Many food allergies are caused by hypersensitivities to particular proteins in different foods.  Proteins have unique properties that allow them to become allergens, such as stabilizing forces in their tertiary and quaternary structures which prevent degradation during digestion. Many theoretically allergenic proteins cannot survive the destructive environment of the digestive tract, thus do not trigger hypersensitive reactions.
+
+
+### Acute response
+
+In the early stages of allergy, a type I hypersensitivity reaction against an allergen, encountered for the first time, causes a response in a type of immune cell called a TH2 lymphocyte, which belongs to a subset of T cells that produce a cytokine called interleukin-4 (IL-4).  These TH2 cells interact with other lymphocytes called B cells, whose role is the production of antibodies.  Coupled with signals provided by IL-4, this interaction stimulates the B cell to begin production of a large amount of a particular type of antibody known as IgE.  Secreted IgE circulates in the blood and binds to an IgE-specific receptor (a kind of Fc receptor called FcεRI) on the surface of other kinds of immune cells called mast cells and basophils, which are both involved in the acute inflammatory response.  The IgE-coated cells, at this stage, are sensitized to the allergen.
+If later exposure to the same allergen occurs, the allergen can bind to the IgE molecules held on the surface of the mast cells or basophils.  Cross-linking of the IgE and Fc receptors occurs when more than one IgE-receptor complex interacts with the same allergenic molecule and activates the sensitized cell.  Activated mast cells and basophils undergo a process called degranulation, during which they release histamine and other inflammatory chemical mediators (cytokines, interleukins, leukotrienes, and prostaglandins) from their granules into the surrounding tissue causing several systemic effects, such as vasodilation, mucous secretion, nerve stimulation, and smooth-muscle contraction. This results in rhinorrhea, itchiness, dyspnea, and anaphylaxis. Depending on the individual, the allergen, and the mode of introduction, the symptoms can be system-wide (classical anaphylaxis), or localized to particular body systems.
+
+
+### Late-phase response
+After the chemical mediators of the acute response subside, late-phase responses can often occur due to the migration of other leukocytes such as neutrophils, lymphocytes, eosinophils, and macrophages to the initial site. The reaction is usually seen 2–24 hours after the original reaction. Cytokines from mast cells may also play a role in the persistence of long-term effects.
+
+
+## Diagnosis
+
+Diagnosis is usually based on a medical history, elimination diet, skin prick test, blood tests for food-specific IgE antibodies, or oral food challenge.
+
+For skin-prick tests, a tiny board with protruding needles is used.  The allergens are placed either on the board or directly on the skin.  The board is then placed on the skin, to puncture the skin and for the allergens to enter the body. If a hive appears, the person is considered positive for the allergy. This test only works for IgE antibodies.  Allergic reactions caused by other antibodies cannot be detected through skin-prick tests.
+Skin-prick testing is easy to do and results are available in minutes. Different allergists may use different devices for testing. Some use a "bifurcated needle", which looks like a fork with two prongs. Others use a "multitest", which may look like a small board with several pins sticking out of it. In these tests, a tiny amount of the suspected allergen is put onto the skin or into a testing device, and the device is placed on the skin to prick, or break through, the top layer of skin. This puts a small amount of the allergen under the skin. A hive will form at any spot where the person is allergic. This test generally yields a positive or negative result. It is good for quickly learning if a person is allergic to a particular food or not because it detects IgE. Skin tests cannot predict if a reaction would occur or what kind of reaction might occur if a person ingests that particular allergen. They can, however, confirm an allergy in light of a patient's history of reactions to a particular food. Non-IgE-mediated allergies cannot be detected by this method.
+
+Patch testing is used to determine if a specific substance causes allergic inflammation of the skin. It tests for delayed food reactions.
+Blood testing is another way to test for allergies; however, it poses the same disadvantage and only detects IgE allergens and does not work for every possible allergen.  Radioallergosorbent testing (RAST) is used to detect IgE antibodies present to a certain allergen. The score taken from the RAST is compared to predictive values, taken from a specific type of RAST. If the score is higher than the predictive values, a great chance the allergy is present in the person exists. One advantage of this test is that it can test many allergens at one time.
+A CAP-RAST has greater specificity than RAST; it can show the amount of IgE present to each allergen. Researchers have been able to determine "predictive values" for certain foods, which can be compared to the RAST results. If a person's RAST score is higher than the predictive value for that food, over a 95% chance exists that patients will have an allergic reaction (limited to rash and anaphylaxis reactions) if they ingest that food.  Currently, predictive values are available for milk, egg, peanut, fish, soy, and wheat. Blood tests allow for hundreds of allergens to be screened from a single sample, and cover food allergies as well as inhalants. However, non-IgE-mediated allergies cannot be detected by this method. Other widely promoted tests such as the antigen leukocyte cellular antibody test and the food allergy profile are considered unproven methods, the use of which is not advised.
+
+Food challenges test for allergens other than those caused by IgE allergens. The allergen is given to the person in the form of a pill, so the person can ingest the allergen directly.  The person is watched for signs and symptoms. The problem with food challenges is that they must be performed in the hospital under careful watch, due to the possibility of anaphylaxis.
+Food challenges, especially double-blind, placebo-controlled food challenges, are the gold standard for diagnosis of food allergies, including most non-IgE-mediated reactions, but is rarely done. Blind food challenges involve packaging the suspected allergen into a capsule, giving it to the patient, and observing the patient for signs or symptoms of an allergic reaction.
+The recommended method for diagnosing food allergy is to be assessed by an allergist. The allergist will review the patient's history and the symptoms or reactions that have been noted after food ingestion. If the allergist feels the symptoms or reactions are consistent with food allergy, he/she will perform allergy tests. Additional diagnostic tools for evaluation of eosinophilic or non-IgE mediated reactions include endoscopy, colonoscopy, and biopsy.
+
+
+### Differential diagnosis
+Important differential diagnoses are:
+
+Lactose intolerance generally develops later in life, but can present in young patients in severe cases. It is not an immune reaction and is due to an enzyme deficiency (lactase). It is more common in many non-Western people.
+Celiac disease. While it is caused by a permanent intolerance to gluten (present in wheat, rye, barley and oats), is not an allergy nor simply an intolerance, but a chronic, multiple-organ autoimmune disorder primarily affecting the small intestine.
+Irritable bowel syndrome
+C1 Esterase inhibitor deficiency (hereditary angioedema), a rare disease, generally causes attacks of angioedema, but can present solely with abdominal pain and occasional diarrhea, and thus may be confused with allergy-triggered angioedema.
+
+
+## Prevention
+Breastfeeding for more than four months may prevent atopic dermatitis, cow's milk allergy, and wheezing in early childhood. Early exposure to potential allergens may be protective. Specifically, early exposure to eggs and peanuts reduces the risk of allergies to these. Guidelines suggest introducing peanuts as early as 4–6 months and include precautionary measures for high-risk infants. The former guidelines, advising delaying the introduction of peanuts, are now thought to have contributed to the increase in peanut allergy seen recently.
+To avoid an allergic reaction, a strict diet can be followed. It is difficult to determine the amount of allergenic food required to elicit a reaction, so complete avoidance should be attempted.  In some cases, hypersensitive reactions can be triggered by exposures to allergens through skin contact, inhalation, kissing, participation in sports, blood transfusions, cosmetics, and alcohol.
+Early introduction of peanut and egg alongside other solids, or by one year of age, may help prevent development of food allergy. Introduction of these allergenic foods within the first year of life appears to be safe. A window of opportunity for the introduction of different food allergens may exist, such as egg introduction ahead of peanut.
+
+
+### Inhalation exposure
+Allergic reactions to airborne particles or vapors of known food allergens have been reported as an occupational consequence of people working in the food industry, but can also take place in home situations, restaurants, or confined spaces such as airplanes. According to two reviews, respiratory symptoms are common, but in some cases there has been progression to anaphylaxis. The most frequent reported cases of reactions by inhalation of allergenic foods were due to peanut, seafood, legumes, tree nut, and cow's milk. Steam rising from cooking of lentils, green beans, chickpeas and fish has been well documented as triggering reactions, including anaphylactic reactions. One review mentioned case study examples of allergic responses to inhalation of other foods, including examples in which oral consumption of the food is tolerated.
+
+
+## Treatment
+The mainstay of treatment for food allergy is total avoidance of the foods identified as allergens.  An allergen can enter the body by consuming a portion of food containing the allergen, and can also be ingested by touching any surfaces that may have come into contact with the allergen, then touching the eyes or nose. For people who are extremely sensitive, avoidance includes avoiding touching or inhaling problematic food. Total avoidance is complicated because the declaration of the presence of trace amounts of allergens in foods is not mandatory (see regulation of labelling).
+If the food is accidentally ingested and a systemic reaction (anaphylaxis) occurs, then epinephrine should be used. A second dose of epinephrine may be required for severe reactions.  The person should then be transported to the emergency room, where additional treatment can be given.  Other treatments include antihistamines and steroids.
+
+
+### Epinephrine
+
+Epinephrine (adrenaline) is the first-line treatment for severe allergic reactions (anaphylaxis). If administered in a timely manner, epinephrine can reverse its effects. Epinephrine relieves airway swelling and obstruction, and improves blood circulation; blood vessels are tightened and heart rate is increased, improving circulation to body organs.  Epinephrine is available by prescription in an autoinjector.
+
+
+### Antihistamines
+Antihistamines can alleviate some of the milder symptoms of an allergic reaction, but do not treat all symptoms of anaphylaxis.  Antihistamines block the action of histamine, which causes blood vessels to dilate and become leaky to plasma proteins. Histamine also causes itchiness by acting on sensory nerve terminals.  The most common antihistamine given for food allergies is diphenhydramine.
+
+
+### Steroids
+Glucocorticoid steroids are used to calm down the immune system cells that are attacked by the chemicals released during an allergic reaction.  This treatment in the form of a nasal spray should not be used to treat anaphylaxis, for it only relieves symptoms in the area in which the steroid is in contact.  Another reason steroids should not be used is the delay in reducing inflammation.  Steroids can also be taken orally or through injection, by which every part of the body can be reached and treated, but a long time is usually needed for these to take effect.
+
+
+### Immunotherapy
+Immunotherapies seek to condition the immune system to elicit or suppress a specific immune response. In the treatment of allergies, common immunotherapies seek to desensitize the immune system by gradually exposing the body to allergens in increasing amounts. These forms of immunotherapy have had varying and limited success and have generally been used to treat peanut and environmental allergies.
+
+
+### Omalizumab
+Omalizumab, an injectable asthma treatment drug sold under the brand name Xolair, was approved in the United States in February 2024 to reduce severe reactions to accidental exposure to food allergens. It is a genetically engineered monoclonal antibody which specifically binds to immunoglobulin E (IgE) to reduce the severity of an immune response. Successful results were reported for wheat, eggs, milk and baked products containing wheat and milk.
+
+
+## Epidemiology
+Food allergies affect up to 10% of the worldwide population, and they are currently more prevalent in children (~8%) than adults (~5) in western nations. In several industrialized countries, food allergies affect up to 10% of children. Children are most commonly allergic to cow's milk, chicken eggs, peanuts, and tree nuts. While studies on adults with food allergy are not as abundant, surveys suggest that the most common food allergens for adults include fish, shellfish, peanuts, and tree nuts.
+Food allergies have become increasingly prevalent in industrialized/westernized nations over the last 2-3 decades. An estimated 15 million people currently have food allergies in the United States. In 1997, 0.4% children in the United States were reported to have peanut allergy, yet this number markedly rose to 1.4% in 2008. In Australia, hospital admission rates for food-induced anaphylaxis increased by an average of 13.2% from 1994-2005. One possible explanation for the rise in food allergy is the "old friends" hypothesis, which suggests that non disease causing organisms, such as helminths, could protect against allergy. Therefore, reduced exposure to these organisms, particularly in developed countries, could have contributed towards the increase.
+Children of East Asian or African descent who live in westernized countries were reported to be at significantly higher risk of food allergy compared to Caucasian children. Several studies predict that Asia and Africa may experience a growth in food allergy prevalence as the lifestyles there become more westernized.
+The prevalence of certain food allergies is suggested to depend partly on the geographical area and country. For instance, allergy to buckwheat flour, used for soba noodles, is more common in Japan than peanuts, tree nuts or foods made from soy beans. Also, shellfish allergy is the most common cause of anaphylaxis in adults and adolescents particularly in East Asian countries like Hong Kong, Taiwan, Singapore, and Thailand. Individuals in East Asia have further developed an allergy to rice, which forms a large part of their diet. Another example is that, out of 9 European countries, egg allergy was found to be most prevalent in the UK and least prevalent in Greece.
+
+
+### Special population: children
+About 75% of children who have allergies to milk protein are able to tolerate baked-in milk products, i.e., muffins, cookies, cake, and hydrolyzed formulas. About 50% of children with allergies to milk, egg, soy, peanuts, tree nuts, and wheat will outgrow their allergy by the age of 6. Those who are still allergic by the age of 12 or so have less than an 8% chance of outgrowing the allergy.
+
+
+### United States
+In the United States, food allergy affects as many as 5% of infants less than three years of age and 3% to 4% of adults. The prevalence of food allergies is rising. Food allergies cause roughly 30,000 emergency room visits and 150 deaths per year.
+
+
+## Regulation
+Whether rates of food allergy are increasing or not, food allergy awareness has definitely increased, with impacts on the quality of life for children, their parents and their caregivers. In the United States, the Food Allergen Labeling and Consumer Protection Act of 2004 causes people to be reminded of allergy problems every time they handle a food package, and restaurants have added allergen warnings to menus. The Culinary Institute of America, a premier school for chef training, has courses in allergen-free cooking and a separate teaching kitchen. School systems have protocols about what foods can be brought into the school. Despite all these precautions, people with serious allergies are aware that accidental exposure can easily occur at other peoples' houses, at school or in restaurants.
+
+
+### Regulation of labelling
+
+In response to the risk that certain foods pose to those with food allergies, some countries have responded by instituting labeling laws that require food products to clearly inform consumers if their products contain priority allergens or byproducts of major allergens among the ingredients intentionally added to foods.
+The priority allergens vary by country.
+
+There are no labeling laws mandating declaration of the presence of trace amounts in the final product as a consequence of cross-contamination, except in Brazil.
+
+
+#### Ingredients intentionally added
+In the United States, the Food Allergen Labeling and Consumer Protection Act of 2004 requires companies to disclose on the label whether a packaged food product contains any of these eight major food allergens, added intentionally: cow's milk, peanuts, eggs, shellfish, fish, tree nuts, soy and wheat. The eight-ingredient list originated in 1999 from the World Health Organisation Codex Alimentarius Commission. To meet labeling requirements, if an ingredient is derived from one of the required-label allergens, then it must either have its "food sourced name" in parentheses, for example, "Casein (milk)," or as an alternative, there must be a statement separate but adjacent to the ingredients list: "Contains milk" (and any other of the allergens with mandatory labeling). The European Union requires listing for those eight major allergens plus molluscs, celery, mustard, lupin, sesame and sulfites.
+In 2018, the US FDA issued a request for information for the consideration of labeling for sesame to help protect people who have sesame allergies. A decision was reached in November 2020 that food manufacturers voluntarily declare that when powdered sesame seeds are used as a previously unspecified spice or flavor, the label be changed to "spice (sesame)" or "flavor (sesame)."
+Congress and the President passed a law in April 2021, the "FASTER Act", stipulating that labeling be mandatory, to be effect January 1, 2023, making it the ninth required food ingredient label.
+The Food Allergen Labeling and Consumer Protection Act of 2004 applies to packaged foods regulated by the FDA, which does not include poultry, most meats, certain egg products, and most alcoholic beverages. However, some meat, poultry, and egg processed products may contain allergenic ingredients. These products are regulated by the Food Safety and Inspection Service, which requires that any ingredient be declared in the labeling only by its common or usual name. Neither the identification of the source of a specific ingredient in a parenthetical statement nor the use of statements to alert for the presence of specific ingredients, like "Contains: milk", are mandatory.  The act also does not apply to food prepared in restaurants. The EU Food Information for Consumers Regulation 1169/2011 – requires food businesses to provide allergy information on food sold unpackaged, for example, in catering outlets, deli counters, bakeries and sandwich bars.
+In the United States, there is no federal mandate to address the presence of allergens in drug products, medicines, or cosmetics.
+
+
+#### Trace amounts as a result of cross-contamination
+The value of allergen labeling other than for intentional ingredients is controversial. This concerns labeling for ingredients present unintentionally as a consequence of cross-contact or cross-contamination at any point along the food chain (during raw material transportation, storage or handling, due to shared equipment for processing and packaging, etc.). Experts in this field propose that if allergen labeling is to be useful to consumers, and healthcare professionals who advise and treat those consumers, ideally there should be agreement on which foods require labeling, threshold quantities below which labeling may be of no purpose, and validation of allergen detection methods to test and potentially recall foods that were deliberately or inadvertently contaminated.
+Labeling regulations have been modified to provide for mandatory labeling of ingredients plus voluntary labeling, termed precautionary allergen labeling, also known as "may contain" statements, for possible, inadvertent, trace amount, cross-contamination during production. Precautionary allergen labeling can be confusing to consumers, especially as there can be many variations on the wording of the warning. Precautionary allergen labeling is optional in the United States. As of 2014, precautionary allergen labeling is regulated only in Switzerland, Japan, Argentina, and South Africa. Argentina decided to prohibit precautionary allergen labeling since 2010 and instead puts the onus on the manufacturer to control the manufacturing process and label only those allergenic ingredients known to be in the products. South Africa does not permit the use of precautionary allergen labeling, except when manufacturers demonstrate the potential presence of allergen due to cross-contamination through a documented risk assessment and despite adherence to Good Manufacturing Practice. In Australia and New Zealand there is a recommendation that precautionary allergen labeling be replaced by guidance from VITAL 2.0 (Vital Incidental Trace Allergen Labeling). A review identified "the eliciting dose for an allergic reaction in 1% of the population" as the threshold reference dose for certain foods (such as cow's milk, egg, peanut and other proteins) to provide food manufacturers with guidance for developing precautionary labeling and give consumers a better idea of what might be accidentally in a food product beyond "may contain." VITAL 2.0 was developed by the Allergen Bureau, a food industry sponsored, non-government organization. The European Union has initiated a process to create labeling regulations for unintentional contamination but is not expected to publish such before 2024.
+In Brazil, since April 2016, the declaration of the possibility of cross-contamination is mandatory when the product does not intentionally add any allergenic food or its derivatives, but the Good Manufacturing Practices and allergen control measures adopted are not sufficient to prevent the presence of accidental trace amounts. These allergens include wheat, rye, barley, oats and their hybrids, crustaceans, eggs, fish, peanuts, soybean, milk of all species of mammalians, almonds, hazelnuts, cashew nuts, Brazil nuts, macadamia nuts, walnuts, pecan nuts, pistachios, pine nuts, and chestnuts.
+
+
+### Genetically modified food
+Although there is a scientific consensus that available food derived from genetically modified crops poses no greater risk to human health than conventional food, and a 2016 U.S. National Academy of Sciences report concluded that there is no relationship between consumption of genetically modified foods and the increase in prevalence of food allergies, there are concerns that genetically modified foods, also described as foods sourced from genetically modified organisms, could be responsible for allergic reactions, and that the widespread acceptance of these types of foods may be responsible for what is a real or perceived increase in the percentage of people with allergies.
+One concern is that genetic engineering could make an allergy-provoking food more allergic, meaning that smaller portions would suffice to set off a reaction. Of the food currently in widespread use of genetically modified organisms, only soybeans are identified as a common allergen. However, for the soybean proteins known to trigger allergic reactions, there is more variation from strain to strain than between those and the genetically modified varieties. Another concern is that genes transferred from one species to another could introduce an allergen in a food not thought of as particularly allergenic. Research on an attempt to enhance the quality of soybean protein by adding genes from Brazil nuts was terminated when human volunteers known to have tree nut allergy reacted to the modified soybeans.
+Prior to a new genetically modified food receiving government approval, certain criteria need to be met. These include: Is the donor species known to be allergenic? Does the amino acid sequence of the transferred proteins resemble the sequence of known allergenic proteins? Are the transferred proteins resistant to digestion - a trait shared by many allergenic proteins? Genes approved for animal use can be restricted from human consumption due to potential for allergic reactions. In 1998 Starlink brand corn restricted to animals was detected in the human food supply, leading to first a voluntary and then a FDA mandated recall. There are requirements in some countries and recommendations in others that all foods containing genetically modified ingredients be so labeled, and that there be a post-launch monitoring system to report adverse effects (similar to the requirements in some countries for drug and dietary supplement reporting).
+
+
+### Restaurants
+In the US, the FDA Food Code states that the person in charge in restaurants should have knowledge about major food allergens, cross-contacts, and symptoms of food allergy
+reactions. Restaurant staff, including wait staff and kitchen staff, may not be adequately informed about allergenic ingredients, or the risk of cross-contact when kitchen utensils used to prepare food may have been in previous contact with an allergenic food. The problem may be compounded when customers have a hard time describing their food allergies or when wait staff have a hard time understanding those with food allergies when taking an order.
+
+
+### Diagnosing issues
+There exists both over-reporting and under-reporting of the prevalence of food allergies. Self-diagnosed perceptions of food allergy are greater than the rates of true food allergy because people confuse non-allergic intolerance with allergy, and also attribute non-allergy symptoms to an allergic response. Conversely, healthcare professionals treating allergic reactions on an out-patient or even hospitalized basis may not report all cases. Recent increases in reported cases may reflect a real change in incidence or an increased awareness on the part of healthcare professionals.
+
+
+## Social impact
+Food fear has a significant impact on quality of life. For children with allergies, their quality of life is also affected by the actions of their peers. An increased occurrence of bullying has been observed, which can include threats or deliberate acts of forcing allergic children to contact foods that they must avoid or intentional contamination of allergen-free food. The social impacts of food allergies can carry over into adulthood.
+
+
+## Portrayal in media
+Media portrayals of food allergy in television and film are not accurate, often used for comedic effect or underplaying the potential severity of an allergic reaction. These tropes misinform the public and also contribute to how entertainment media will continue to wrongly portray food allergies in the future. Types of tropes: 1) characters have food allergies, providing a weakness that can be used to sabotage them. In the movie Parasite a housekeeper is displaced by taking advantage of her peach allergy. In the animated film Peter Rabbit, the farm owner is attacked by being pelted with blackberries, causing an anaphylactic reaction requiring emergency treatment with epinephrine. After many public protests, Sony Pictures and the Peter Rabbit director apologized for making light of food allergies. 2) Food allergy is used for comedic effect, such as in the movies Hitch and in television, Kelso's egg allergy in That '70s Show 3) Food allergies may be incorporated into characters who are also portrayed as annoying, weak and oversensitive, which can be taken as implying that their allergies are either not real or not potentially severe. In season 1, episode 16 of The Big Bang Theory Howard Wolowitz deliberately consumes a peanut-containing food bar (and has a serious reaction) just to delay Leonard from returning to his apartment where a surprise birthday party is being arranged. 4) Any of these portrayals may underplay the potential severity of food allergy, some showing that Benadryl treatment is sufficient. Viewing of humorous portrayals of food allergies has been shown to have a negative effect on related health policy support due to low perceived seriousness.
+
+
+## Research
+Several theories have been suggested to explain why certain individuals develop allergic sensitization instead of oral tolerance to food allergens. One such theory is the dual allergen hypothesis, which states that ingesting food allergens early on promotes oral tolerance while skin exposure leads to sensitization. Instead of oral ingestion, skin barrier disruption in conditions like eczema, for instance, was suggested to cause allergic sensitization in animal and human infants. Inhalation was recently proposed to be an additional sensitization route in the dual allergen hypothesis. Another theory is the barrier regulation hypothesis, describing the role of commensal bacteria in preventing the development of food allergy by maintaining integrity of the intestinal epithelial barrier. Environmental and lifestyle factors, such as early life nutrition and antibiotic treatment, may contribute to food allergy prevalence by affecting gut microbial composition, and thus, intestinal immune homeostasis in infants and young children.
+A number of desensitization techniques are being studied. Areas of research include specific oral tolerance induction (also known as oral immunotherapy), and sublingual immunotherapy. The benefits of allergen immunotherapy for food allergies is unclear, thus is not recommended as of 2015.
+There is research on the effects of increasing intake of polyunsaturated fatty acids during pregnancy, lactation, via infant formula and in early childhood on the subsequent risk of developing food allergies during infancy and childhood. From two reviews, maternal intake of omega-3, long-chain fatty acids during pregnancy appeared to reduce the risks of medically diagnosed IgE-mediated allergy, eczema and food allergy per parental reporting in the first 12 months of life, but the effects were not all sustained past 12 months. The reviews characterized the literature's evidence as inconsistent and limited. Results when breastfeeding mothers were consuming a diet high in polyunsaturated fatty acids were inconclusive. For infants, supplementing their diet with oils high in polyunsaturated fatty acids did not affect the risks of food allergies, eczema or asthma either as infants or into childhood.
+There is research on probiotics, prebiotics and the combination of the two (synbiotics) as a means of treating or preventing infant and child allergies. From reviews, there appears to be a treatment benefit for eczema, but not asthma, wheezing or rhinoconjunctivitis. The evidence was not consistent for preventing food allergies and this approach cannot yet be recommended.
+The Food Standards Agency, in the United Kingdom, are in charge of funding research into food allergies and intolerance. Since their founding in 1994 they have funded over 45 studies. In 2005 Europe created EuroPrevall, a multi-country project dedicated to research involving allergies. 
+
+
+## See also
+List of allergens (food and non-food)
+
+
+## References
+
+Notes
+Nester EW, Anderson DG, Roberts Jr CE, Nester MT (2009). "Immunologic Disorders". Microbiology: A Human Perspective (6th ed.). New York: McGraw-Hill. pp. 414–428.
+Sicherer SH (2006). Understanding and Managing Your Child's Food Allergy. Baltimore: Johns Hopkins University Press.
+
+
+## External links
+Food Allergy, Merck Manual
+"Food Allergies and Intolerances Resource List for Consumers" (PDF). Food and Nutrition Information Center, National Agricultural Library. December 2010. Archived from the original (PDF) on 6 August 2011. Retrieved 15 August 2011. – a collection of resources on the topic of food allergies and intolerances
+"Food Allergy". MedlinePlus. U.S. National Library of Medicine.

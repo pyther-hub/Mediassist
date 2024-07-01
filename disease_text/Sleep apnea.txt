@@ -1,0 +1,203 @@
+Sleep apnea is a sleep-related breathing disorder in which repetitive pauses in breathing, periods of shallow breathing, or collapse of the upper airway during sleep results in poor ventilation and sleep disruption. Each pause in breathing can last for a few seconds to a few minutes and occurs many times a night. A choking or snorting sound may occur as breathing resumes. Common symptoms include daytime sleepiness, snoring, and non restorative sleep despite adequate sleep time.  Because the disorder disrupts normal sleep, those affected may experience sleepiness or feel tired during the day. It is often a chronic condition.
+Sleep apnea may be categorized as obstructive sleep apnea (OSA), in which breathing is interrupted by a blockage of air flow, central sleep apnea (CSA), in which regular unconscious breath simply stops, or a combination of the two. OSA is the most common form. OSA has four key contributors; these include a narrow, crowded, or collapsible upper airway, an ineffective pharyngeal dilator muscle function during sleep, airway narrowing during sleep, and unstable control of breathing (high loop gain). In CSA, the basic neurological controls for breathing rate malfunction and fail to give the signal to inhale, causing the individual to miss one or more cycles of breathing. If the pause in breathing is long enough, the percentage of oxygen in the circulation can drop to a lower than normal level (hypoxaemia) and the concentration of carbon dioxide can build to a higher than normal level (hypercapnia). In turn, these conditions of hypoxia and hypercapnia will trigger additional effects on the body such as Cheyne-Stokes Respiration.
+Some people with sleep apnea are unaware they have the condition. In many cases it is first observed by a family member. An in-lab sleep study overnight is the preferred method for diagnosing sleep apnea. In the case of OSA, the outcome that determines disease severity and guides the treatment plan is the apnea-hypopnea index (AHI). This measurement is calculated from totaling all pauses in breathing and periods of shallow breathing lasting greater than 10 seconds and dividing the sum by total hours of recorded sleep. In contrast, for CSA the degree of respiratory effort, measured by esophageal pressure or displacement of the thoracic or abdominal cavity, is an important distinguishing factor between OSA and CSA.
+A systemic disorder, sleep apnea is associated with a wide array of effects, including increased risk of car accidents, hypertension, cardiovascular disease, myocardial infarction, stroke, atrial fibrillation, insulin resistance, higher incidence of cancer, and neurodegeneration. Further research is being conducted on the potential of using biomarkers to understand which chronic diseases are associated with sleep apnea on an individual basis.
+Treatment may include lifestyle changes, mouthpieces, breathing devices, and surgery. Effective lifestyle changes may include avoiding alcohol, losing weight, smoking cessation, and sleeping on one's side. Breathing devices include the use of a CPAP machine. With proper use, CPAP improves outcomes. Evidence suggests that CPAP may improve sensitivity to insulin, blood pressure, and sleepiness. Long term compliance, however, is an issue with more than half of people not appropriately using the device. In 2017, only 15% of potential patients in developed countries used CPAP machines, while in developing countries well under 1% of potential patients used CPAP. Without treatment, sleep apnea may increase the risk of heart attack, stroke, diabetes, heart failure, irregular heartbeat, obesity, and motor vehicle collisions.
+OSA is a common sleep disorder. A large analysis in 2019 of the estimated prevalence of OSA found that OSA affects 936 million—1 billion people between the ages of 30–69 globally, or roughly every 1 in 10 people, and up to 30% of the elderly. Sleep apnea is somewhat more common in men than women, roughly a 2:1 ratio of men to women, and in general more people are likely to have it with older age and obesity. Other risk factors include being overweight, a family history of the condition, allergies, and enlarged tonsils.
+
+
+## Signs and symptoms
+The typical screening process for sleep apnea involves asking patients about common symptoms such as snoring, witnessed pauses in breathing during sleep and excessive daytime sleepiness. There is a wide range in presenting symptoms in patients with sleep apnea, from being asymptomatic to falling asleep while driving.  Due to this wide range in clinical presentation, some people are not aware that they have sleep apnea and are either misdiagnosed or ignore the symptoms altogether. A current area requiring further study involves identifying different subtypes of sleep apnea based on patients who tend to present with different clusters or groupings of particular symptoms.
+OSA may increase risk for driving accidents and work-related accidents due to sleep fragmentation from repeated arousals during sleep. If OSA is not treated it results in excessive daytime sleepiness and oxidative stress from the repeated drops in oxygen saturation, people are at increased risk of other systemic health problems, such as diabetes, hypertension or cardiovascular disease. Subtle manifestations of sleep apnea may include treatment refractory hypertension and cardiac arrhythmias and over time as the disease progresses, more obvious symptoms may become apparent. Due to the disruption in daytime cognitive state, behavioral effects may be present. These can include moodiness, belligerence, as well as a decrease in attentiveness and energy. These effects may become intractable, leading to depression.
+
+
+## Risk factors
+Obstructive sleep apnea can affect people regardless of sex, race, or age. However, risk factors include:
+
+male gender
+obesity
+age over 40
+large neck circumference
+enlarged tonsils or tongue
+narrow upper jaw
+small lower jaw
+tongue fat/tongue scalloping
+a family history of sleep apnea
+endocrine disorders such as hypothyroidism
+lifestyle habits such as smoking or drinking alcohol
+Central sleep apnea is more often associated with any of the following risk factors:
+
+transition period from wakefulness to non-REM sleep
+male gender
+older age
+heart failure
+atrial fibrillation
+stroke
+spinal cord injury
+
+
+## Mechanism
+Obstructive sleep apnea
+The causes of obstructive sleep apnea are complex and individualized, but typical risk factors include narrow pharyngeal anatomy and craniofacial structure. When anatomical risk factors are combined with non-anatomical contributors such as an ineffective pharyngeal dilator muscle function during sleep, unstable control of breathing (high loop gain), and premature awakening to mild airway narrowing, the severity of the OSA rapidly increases as more factors are present. When breathing is paused due to upper airway obstruction, carbon dioxide builds up in the bloodstream. Chemoreceptors in the bloodstream note the high carbon dioxide levels. The brain is signaled to awaken the person, which clears the airway and allows breathing to resume. Breathing normally will restore oxygen levels and the person will fall asleep again. This carbon dioxide build-up may be due to the decrease of output of the brainstem regulating the chest wall or pharyngeal muscles, which causes the pharynx to collapse. People with sleep apnea experience reduced or no slow-wave sleep and spend less time in REM sleep.
+Central sleep apnea
+There are two main mechanism that drive the disease process of CSA, sleep-related hypoventilation and post-hyperventilation hypocapnia. The most common cause of CSA is post-hyperventilation hypocapnia secondary to heart failure. This occurs because of brief failures of the ventilatory control system but normal alveolar ventilation. In contrast, sleep-related hypoventilation occurs when there is a malfunction of the brain's drive to breathe. The underlying cause of the loss of the wakefulness drive to breathe encompasses a broad set of diseases from strokes to severe kyphoscoliosis.
+
+
+## Complications
+OSA is a serious medical condition with systemic effects; patients with untreated OSA have a greater mortality risk from cardiovascular disease than those undergoing appropriate treatment. Other complications include hypertension, congestive heart failure, atrial fibrillation, coronary artery disease, stroke, and type 2 diabetes. Daytime fatigue and sleepiness, a common symptom of sleep apnea, is also an important public health concern regarding transportation crashes caused by drowsiness. OSA may also be a risk factor of COVID-19. People with OSA have a higher risk of developing severe complications of COVID-19.
+Alzheimer's disease and severe obstructive sleep apnea are connected because there is an increase in the protein beta-amyloid as well as white-matter damage.  These are the main indicators of Alzheimer's, which in this case comes from the lack of proper rest or poorer sleep efficiency resulting in neurodegeneration. Having sleep apnea in mid-life brings a higher likelihood of developing Alzheimer's in older age, and if one has Alzheimer's then one is also more likely to have sleep apnea. This is demonstrated by cases of sleep apnea even being misdiagnosed as dementia. With the use of treatment through CPAP, there is a reversible risk factor in terms of the amyloid proteins.  This usually restores brain structure and diminishes cognitive impairment.
+
+
+## Diagnosis
+
+
+### Classification
+There are three types of sleep apnea. OSA accounts for 84%, CSA for 0.9%, and 15% of cases are mixed.
+
+
+#### Obstructive sleep apnea
+
+In a systematic review of published evidence, the United States Preventive Services Task Force in 2017 concluded that there was uncertainty about the accuracy or clinical utility of all potential screening tools for OSA, and recommended that evidence is insufficient to assess the balance of benefits and harms of screening for OSA in asymptomatic adults.
+The diagnosis of OSA syndrome is made when the patient shows recurrent episodes of partial or complete collapse of the upper airway during sleep resulting in apneas or hypopneas, respectively. Criteria defining an apnea or a hypopnea vary. The American Academy of Sleep Medicine (AASM) defines an apnea as a reduction in airflow of ≥ 90% lasting at least 10 seconds. A hypopnea is defined as a reduction in airflow of ≥ 30% lasting at least 10 seconds and associated with a ≥ 4% decrease in pulse oxygenation, or as a ≥ 30% reduction in airflow lasting at least 10 seconds and associated either with a ≥ 3% decrease in pulse oxygenation or with an arousal.
+To define the severity of the condition, the Apnea-Hypopnea Index (AHI) or the Respiratory Disturbance Index (RDI) are used. While the AHI measures the mean number of apneas and hypopneas per hour of sleep, the RDI adds to this measure the respiratory effort-related arousals (RERAs). The OSA syndrome is thus diagnosed if the AHI is > 5 episodes per hour and results in daytime sleepiness and fatigue or when the RDI is ≥ 15 independently of the symptoms. According to the American Association of Sleep Medicine, daytime sleepiness is determined as mild, moderate and severe depending on its impact on social life. Daytime sleepiness can be assessed with the Epworth Sleepiness Scale (ESS), a self-reported questionnaire on the propensity to fall asleep or doze off during daytime. Screening tools for OSA itself comprise the STOP questionnaire, the Berlin questionnaire and the STOP-BANG questionnaire which has been reported as being a very powerful tool to detect OSA.
+
+
+### Criteria
+According to the International Classification of Sleep Disorders, there are 4 types of criteria. The first one concerns sleep – excessive sleepiness, nonrestorative sleep, fatigue or insomnia symptoms. The second and third criteria are about respiration – waking with breath holding, gasping, or choking; snoring, breathing interruptions or both during sleep. The last criterion revolved around medical issues as hypertension, coronary artery disease, stroke, heart failure, atrial fibrillation, type 2 diabetes mellitus, mood disorder or cognitive impairment. Two levels of severity are distinguished, the first one is determined by a polysomnography or home sleep apnea test demonstrating 5 or more predominantly obstructive respiratory events per hour of sleep and the higher levels are determined by 15 or more events. If the events are present less than 5 times per hour, no obstructive sleep apnea is diagnosed.
+A considerable night-to-night variability further complicates diagnosis of OSA. In unclear cases, multiple testing might be required to achieve an accurate diagnosis.
+
+
+### Polysomnography
+
+Nighttime in-laboratory Level 1 polysomnography (PSG) is the gold standard test for diagnosis. Patients are monitored with EEG leads, pulse oximetry, temperature and pressure sensors to detect nasal and oral airflow, respiratory impedance plethysmography or similar resistance belts around the chest and abdomen to detect motion, an ECG lead, and EMG sensors to detect muscle contraction in the chin, chest, and legs. A hypopnea can be based on one of two criteria. It can either be a reduction in airflow of at least 30% for more than 10 seconds associated with at least 4% oxygen desaturation or a reduction in airflow of at least 30% for more than 10 seconds associated with at least 3% oxygen desaturation or an arousal from sleep on EEG.
+An "event" can be either an apnea, characterized by complete cessation of airflow for at least 10 seconds, or a hypopnea in which airflow decreases by 50 percent for 10 seconds or decreases by 30 percent if there is an associated decrease in the oxygen saturation or an arousal from sleep. To grade the severity of sleep apnea, the number of events per hour is reported as the apnea-hypopnea index (AHI). An AHI of less than 5 is considered normal. An AHI of 5–15 is mild; 15–30 is moderate, and more than 30 events per hour characterizes severe sleep apnea.
+
+
+### Home oximetry
+In patients who are at high likelihood of having OSA, a randomized controlled trial found that home oximetry (a non-invasive method of monitoring blood oxygenation) may be adequate and easier to obtain than formal polysomnography. High probability patients were identified by an Epworth Sleepiness Scale (ESS) score of 10 or greater and a Sleep Apnea Clinical Score (SACS) of 15 or greater. Home oximetry, however, does not measure apneic events or respiratory event-related arousals and thus does not produce an AHI value.
+
+
+### Central sleep apnea
+
+The diagnosis of CSA syndrome is made when the presence of at least 5 central apnea events occur per hour. There are multiple mechanisms that drive the apnea events. In individuals with heart failure with Cheyne-Stokes respiration, the brain's respiratory control centers are imbalanced during sleep.  This results in ventilatory instability, caused by chemoreceptors that are hyperresponsive to CO2 fluctuations in the blood, resulting in high respiratory drive that leads to apnea. Another common mechanism that causes CSA is the loss of the brain's wakefulness drive to breathe.
+
+CSA is organized into 6 individual syndromes: Cheyne-Stokes respiration, Complex sleep apnea, Primary CSA, High altitude periodic breathing, CSA from medication, CSA from comorbidity. Like in OSA, nocturnal polysomnography is the mainstay of diagnosis for CSA.  The degree of respiratory effort, measured by esophageal pressure or displacement of the thoracic or abdominal cavity, is an important distinguishing factor between OSA and CSA.
+
+
+#### Mixed apnea
+Some people with sleep apnea have a combination of both types; its prevalence ranges from 0.56% to 18%. The condition, also called treatment-emergent central apnea, is generally detected when obstructive sleep apnea is treated with CPAP and central sleep apnea emerges. The exact mechanism of the loss of central respiratory drive during sleep in OSA is unknown but is most likely related to incorrect settings of the CPAP treatment and other medical conditions the person has.
+
+
+## Management
+The treatment of obstructive sleep apnea is different than that of central sleep apnea. Treatment often starts with behavioral therapy and some people may be suggested to try a continuous positive airway pressure device. Many people are told to avoid alcohol, sleeping pills, and other sedatives, which can relax throat muscles, contributing to the collapse of the airway at night. The evidence supporting one treatment option compared to another for a particular person is not clear.
+
+
+### Changing sleep position
+More than half of people with obstructive sleep apnea have some degree of positional obstructive sleep apnea, meaning that it gets worse when they sleep on their backs.  Sleeping on their sides is an effective and cost-effective treatment for positional obstructive sleep apnea.
+
+
+### Continuous positive airway pressure
+
+For moderate to severe sleep apnea, the most common treatment is the use of a continuous positive airway pressure (CPAP) or automatic positive airway pressure (APAP) device. These splint the person's airway open during sleep by means of pressurized air. The person typically wears a plastic facial mask, which is connected by a flexible tube to a small bedside CPAP machine.
+Although CPAP therapy is effective in reducing apneas and less expensive than other treatments, some people find it uncomfortable. Some complain of feeling trapped, having chest discomfort, and skin or nose irritation. Other side effects may include dry mouth, dry nose, nosebleeds, sore lips and gums.
+Whether or not it decreases the risk of death or heart disease is controversial with some reviews finding benefit and others not. This variation across studies might be driven by low rates of compliance—analyses of those who use CPAP for at least four hours a night suggests a decrease in cardiovascular events.
+
+
+### Weight loss
+Excess body weight is thought to be an important cause of sleep apnea. People who are overweight have more tissues in the back of their throat which can restrict the airway, especially when sleeping. In weight loss studies of overweight individuals, those who lose weight show reduced apnea frequencies and improved apnoea–hypopnoea index (AHI). Weight loss effective enough to relieve obesity hypoventilation syndrome (OHS) must be 25–30% of body weight. For some obese people, it can be difficult to achieve and maintain this result without bariatric surgery.
+
+
+### Rapid palatal expansion
+
+In children, orthodontic treatment to expand the volume of the nasal airway, such as nonsurgical rapid palatal expansion is common. The procedure has been found to significantly decrease the AHI and lead to long-term resolution of clinical symptoms.
+Since the palatal suture is fused in adults, regular RPE using tooth-borne expanders cannot be performed. Mini-implant assisted rapid palatal expansion (MARPE) has been recently developed as a non-surgical option for the transverse expansion of the maxilla in adults. This method increases the volume of the nasal cavity and nasopharynx, leading to increased airflow and reduced respiratory arousals during sleep. Changes are permanent with minimal complications.
+
+
+### Surgery
+
+Several surgical procedures (sleep surgery) are used to treat sleep apnea, although they are normally a third line of treatment for those who reject or are not helped by CPAP treatment or dental appliances. Surgical treatment for obstructive sleep apnea needs to be individualized to address all anatomical areas of obstruction.
+
+
+#### Nasal obstruction
+Often, correction of the nasal passages needs to be performed in addition to correction of the oropharynx passage. Septoplasty and turbinate surgery may improve the nasal airway, but has been found to be ineffective at reducing respiratory arousals during sleep.
+
+
+#### Pharyngeal obstruction
+Tonsillectomy and uvulopalatopharyngoplasty (UPPP or UP3) are available to address pharyngeal obstruction.
+
+The "Pillar" device is a treatment for snoring and obstructive sleep apnea; it is thin, narrow strips of polyester. Three strips are inserted into the roof of the mouth (the soft palate) using a modified syringe and local anesthetic, in order to stiffen the soft palate. This procedure addresses one of the most common causes of snoring and sleep apnea — vibration or collapse of the soft palate. It was approved by the FDA for snoring in 2002 and for obstructive sleep apnea in 2004. A 2013 meta-analysis found that "the Pillar implant has a moderate effect on snoring and mild-to-moderate obstructive sleep apnea" and that more studies with high level of evidence were needed to arrive at a definite conclusion; it also found that the polyester strips work their way out of the soft palate in about 10% of the people in whom they are implanted.
+
+
+#### Hypopharyngeal or base of tongue obstruction
+Base-of-tongue advancement by means of advancing the genial tubercle of the mandible, tongue suspension, or hyoid suspension (aka hyoid myotomy and suspension or hyoid advancement) may help with the lower pharynx.
+Other surgery options may attempt to shrink or stiffen excess tissue in the mouth or throat, procedures done at either a doctor's office or a hospital. Small shots or other treatments, sometimes in a series, are used for shrinkage, while the insertion of a small piece of stiff plastic is used in the case of surgery whose goal is to stiffen tissues.
+
+
+#### Multi-level surgery
+Maxillomandibular advancement (MMA) is considered the most effective surgery for people with sleep apnea, because it increases the posterior airway space (PAS). However, health professionals are often unsure as to who should be referred for surgery and when to do so: some factors in referral may include failed use of CPAP or device use; anatomy which favors rather than impedes surgery; or significant craniofacial abnormalities which hinder device use.
+
+
+#### Potential complications
+Several inpatient and outpatient procedures use sedation. Many drugs and agents used during surgery to relieve pain and to depress consciousness remain in the body at low amounts for hours or even days afterwards. In an individual with either central, obstructive or mixed sleep apnea, these low doses may be enough to cause life-threatening irregularities in breathing or collapses in a patient's airways. Use of analgesics and sedatives in these patients postoperatively should therefore be minimized or avoided.
+Surgery on the mouth and throat, as well as dental surgery and procedures, can result in postoperative swelling of the lining of the mouth and other areas that affect the airway. Even when the surgical procedure is designed to improve the airway, such as tonsillectomy and adenoidectomy or tongue reduction, swelling may negate some of the effects in the immediate postoperative period. Once the swelling resolves and the palate becomes tightened by postoperative scarring, however, the full benefit of the surgery may be noticed.
+A person with sleep apnea undergoing any medical treatment must make sure their doctor and anesthetist are informed about the sleep apnea. Alternative and emergency procedures may be necessary to maintain the airway of sleep apnea patients.
+
+
+### Other
+
+
+#### Neurostimulation
+Diaphragm pacing, which involves the rhythmic application of electrical impulses to the diaphragm, has been used to treat central sleep apnea.
+In April 2014, the U.S. Food and Drug Administration granted pre-market approval for use of an upper airway stimulation system in people who cannot use a continuous positive airway pressure device. The Inspire Upper Airway Stimulation system is a hypoglossal nerve stimulator that senses respiration and applies mild electrical stimulation during inspiration, which pushes the tongue slightly forward to open the airway.
+
+
+#### Medications
+There is currently insufficient evidence to recommend any medication for OSA. This may result in part because people with sleep apnea have tended to be treated as a single group in clinical trials. Identifying specific physiological factors underlying sleep apnea makes it possible to test drugs specific to those causal factors: airway narrowing, impaired muscle activity, low arousal threshold for waking, and unstable breathing control.
+Those who experience low waking thresholds may benefit from eszopiclone, a sedative typically used to treat insomnia. The  antidepressant desipramine may stimulate upper airway muscles and lessen pharyngeal collapsibility in people who have limited muscle function in their airways.
+There is limited evidence for medication, but 2012 AASM guidelines suggested that acetazolamide "may be considered" for the treatment of central sleep apnea; zolpidem and triazolam may also be considered for the treatment of central sleep apnea, but "only if the patient does not have underlying risk factors for respiratory depression".
+Low doses of oxygen are also used as a treatment for hypoxia but are discouraged due to side effects.
+
+
+#### Oral appliances
+An oral appliance, often referred to as a mandibular advancement splint, is a custom-made mouthpiece that shifts the lower jaw forward and opens the bite slightly, opening up the airway. These devices can be fabricated by a general dentist. Oral appliance therapy (OAT) is usually successful in patients with mild to moderate obstructive sleep apnea. While CPAP is more effective for sleep apnea than oral appliances, oral appliances do improve sleepiness and quality of life and are often better tolerated than CPAP.
+
+
+#### Nasal EPAP
+Nasal EPAP is a bandage-like device placed over the nostrils that uses a person's own breathing to create positive airway pressure to prevent obstructed breathing.
+
+
+#### Oral pressure therapy
+Oral pressure therapy uses a device that creates a vacuum in the mouth, pulling the soft palate tissue forward. It has been found useful in about 25 to 37% of people.
+
+
+## Prognosis
+Death could occur from untreated OSA due to lack of oxygen to the body.
+There is increasing evidence that sleep apnea may lead to liver function impairment, particularly fatty liver diseases (see steatosis).
+It has been revealed that people with OSA show tissue loss in brain regions that help store memory, thus linking OSA with memory loss. Using magnetic resonance imaging (MRI), the scientists discovered that people with sleep apnea have mammillary bodies that are about 20% smaller, particularly on the left side. One of the key investigators hypothesized that repeated drops in oxygen lead to the brain injury.
+The immediate effects of central sleep apnea on the body depend on how long the failure to breathe endures. At worst, central sleep apnea may cause sudden death. Short of death, drops in blood oxygen may trigger seizures, even in the absence of epilepsy. In people with epilepsy, the hypoxia caused by apnea may trigger seizures that had previously been well controlled by medications. In other words, a seizure disorder may become unstable in the presence of sleep apnea. In adults with coronary artery disease, a severe drop in blood oxygen level can cause angina, arrhythmias, or heart attacks (myocardial infarction). Longstanding recurrent episodes of apnea, over months and years, may cause an increase in carbon dioxide levels that can change the pH of the blood enough to cause a respiratory acidosis.
+
+
+## Epidemiology
+
+The Wisconsin Sleep Cohort Study estimated in 1993 that roughly one in every 15 Americans was affected by at least moderate sleep apnea. It also estimated that in middle-age as many as 9% of women and 24% of men were affected, undiagnosed and untreated.
+The costs of untreated sleep apnea reach further than just health issues. It is estimated that in the U.S., the average untreated sleep apnea patient's annual health care costs $1,336 more than an individual without sleep apnea. This may cause $3.4 billion/year in additional medical costs. Whether medical cost savings occur with treatment of sleep apnea remains to be determined.
+
+
+## Frequency and population
+Sleep disorders including sleep apnea have become an important health issue in the United States. Twenty-two million Americans have been estimated to have sleep apnea, with 80% of moderate and severe OSA cases undiagnosed.
+OSA can occur at any age, but it happens more frequently in men who are over 40 and overweight.
+
+
+## History
+A type of CSA was described in the German myth of Ondine's curse where the person when asleep would forget to breathe. The clinical picture of this condition has long been recognized as a character trait, without an understanding of the disease process. The term "Pickwickian syndrome" that is sometimes used for the syndrome was coined by the famous early 20th-century physician William Osler, who must have been a reader of Charles Dickens. The description of Joe, "the fat boy" in Dickens's novel The Pickwick Papers, is an accurate clinical picture of an adult with obstructive sleep apnea syndrome.
+The early reports of obstructive sleep apnea in the medical literature described individuals who were very severely affected, often presenting with severe hypoxemia, hypercapnia and congestive heart failure.
+
+
+### Treatment
+The management of obstructive sleep apnea was improved with the introduction of continuous positive airway pressure (CPAP), first described in 1981 by Colin Sullivan and associates in Sydney, Australia. The first models were bulky and noisy, but the design was rapidly improved and by the late 1980s, CPAP was widely adopted. The availability of an effective treatment stimulated an aggressive search for affected individuals and led to the establishment of hundreds of specialized clinics dedicated to the diagnosis and treatment of sleep disorders. Though many types of sleep problems are recognized, the vast majority of patients attending these centers have sleep-disordered breathing. Sleep apnea awareness day is 18 April in recognition of Colin Sullivan.
+
+
+## See also
+
+
+## References

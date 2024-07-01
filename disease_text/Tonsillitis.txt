@@ -1,0 +1,100 @@
+Tonsillitis is inflammation of the tonsils in the upper part of the throat. It can be acute or chronic. Acute tonsillitis typically has a rapid onset. Symptoms may include sore throat, fever, enlargement of the tonsils, trouble swallowing, and enlarged lymph nodes around the neck. Complications include peritonsillar abscess (Quinsy).
+Tonsillitis is most commonly caused by a viral infection and about 5% to 40% of cases are caused by a bacterial infection. When caused by the bacterium group A streptococcus, it is classed as streptococcal tonsillitis also referred to as strep throat. Rarely bacteria such as Neisseria gonorrhoeae, Corynebacterium diphtheriae, or Haemophilus influenzae may be the cause. Typically the infection is spread between people through the air. A scoring system, such as the Centor score, may help separate possible causes. Confirmation may be by a throat swab or rapid strep test.
+Treatment efforts involve improving symptoms and decreasing complications. Paracetamol (acetaminophen) and ibuprofen may be used to help with pain. If strep throat is present the antibiotic penicillin by mouth is generally recommended. In those who are allergic to penicillin, cephalosporins or macrolides may be used. In children with frequent episodes of tonsillitis, tonsillectomy modestly decreases the risk of future episodes.
+About 7.5% of people have a sore throat in any three-month period and 2% of people visit a doctor for tonsillitis each year.   It is most common in school-aged children and typically occurs in the colder months of autumn and winter. The majority of people recover with or without medication. In 82% of people, symptoms resolve within one week, regardless if bacteria or viruses were present. Antibiotics probably reduce the number of people experiencing sore throat or headache, but the balance between modest symptom reduction and the potential hazards of antimicrobial resistance must be recognised.
+
+
+## Signs and symptoms
+
+Those with tonsillitis usually experience sore throat, painful swallowing, malaise, and fever. Their tonsils – and often the back of the throat – appear red and swollen, and sometimes give off a white discharge. Some also have tender swelling of the cervical lymph nodes.
+Many viral infections that cause tonsillitis will also cause cough, runny nose, hoarse voice, or blistering in the mouth or throat. Infectious mononucleosis can cause the tonsils to swell with red spots or white discharge that may extend to the tongue. This can be accompanied by fever, sore throat, cervical lymph node swelling, and enlargement of the liver and spleen. Bacterial infections that cause tonsillitis can also cause a distinct "scarletiniform" rash, vomiting, and tonsillar spots or discharge.
+Tonsilloliths occur in up to 10% of the population frequently due to episodes of tonsillitis.
+
+
+## Causes
+
+Viral infections cause 40 to 60% of cases of tonsillitis. Many viruses can cause inflammation of the tonsils (and the rest of throat) including adenovirus, rhinovirus, coronavirus, influenza virus, parainfluenza virus, coxsackievirus, measles virus, Epstein-Barr virus, cytomegalovirus, respiratory syncytial virus, and herpes simplex virus. Tonsillitis can also be part of the initial reaction to HIV infection. An estimated 1 to 10% of the cases are caused by Epstein-Barr virus.
+Tonsillitis can also stem from infection with bacteria, predominantly Group A β-hemolytic streptococci (GABHS), which causes strep throat. Bacterial infection of the tonsils usually follows the initial viral infection. When tonsillitis recurs after antibiotic treatment for streptococcus bacteria, it is usually due to the same bacteria as the first time, which suggests that the antibiotic treatment was not fully effective.  Less common bacterial causes include:  Streptococcus pneumoniae, Mycoplasma pneumoniae, Chlamydia pneumoniae, Bordetella pertussis, Fusobacterium sp., Corynebacterium diphtheriae, Treponema pallidum, and Neisseria gonorrhoeae.
+Anaerobic bacteria have been implicated in tonsillitis, and a possible role in the acute inflammatory process is supported by several clinical and scientific observations.
+Sometimes tonsillitis is caused by an infection of spirochaeta and treponema, which is called Vincent's angina or Plaut-Vincent angina.
+Within the tonsils, white blood cells of the immune system destroy the viruses or bacteria by producing inflammatory cytokines like phospholipase A2, which also lead to fever.  The infection may also be present in the throat and surrounding areas, causing inflammation of the pharynx.
+
+
+## Diagnosis
+There is no firm distinction between a sore throat that is specifically tonsillitis and a sore throat caused by inflammation in both the tonsils and also nearby tissues.  An acute sore throat may be diagnosed as tonsillitis, pharyngitis, or tonsillopharyngitis (also called pharyngotonsillitis), depending upon the clinical findings.
+
+In primary care settings, the Centor criteria are used to determine the likelihood of group A beta-hemolytic streptococcus (GABHS) infection in an acute tonsillitis and the need of antibiotics for tonsillitis treatment. However, the Centor criteria have their weaknesses in making precise diagnosis for adults. The Centor criteria are also ineffective in diagnosis for tonsillitis in children and in secondary care settings (hospitals). A modified version of the Centor criteria, which modified the original Centor criteria in 1998, is often used to aid in diagnosis. The original Centor criteria had four major criteria but the modified Centor criteria have five. The five major criteria of the modified Centor score are:
+
+Presence of tonsillar exudate
+Painful neck lymph nodes
+History of fever
+Age between five and fifteen years
+Absence of cough
+The possibility of GABHS infection increases with increasing score. The probability for getting GABHS is 2 to 23% for the score of 1, and 25 to 85% for the score of 4.
+The diagnosis of GABHS tonsillitis can be confirmed by culture of samples obtained by swabbing the throat and plating them on blood agar medium.  This small percentage of false-negative results are part of the characteristics of the tests used but are also possible if the person has received antibiotics prior to testing. Identification requires 24 to 48 hours by culture but rapid screening tests (10–60 minutes), which have a sensitivity of 85–90%, are available. In 40% of the people without any symptoms, the throat culture can be positive. Therefore, throat culture is not routinely used in clinical practice for the detection of GABHS.
+Bacterial culture may need to be performed in cases of a negative rapid streptococcal test. An increase in antistreptolysin O (ASO) streptococcal antibody titer  following the acute infection can provide retrospective evidence of GABHS infection and is considered definitive proof of GABHS infection, but not necessarily of the tonsils.
+Epstein Barr virus serology can be tested for those who may have infectious mononucleosis with a typical lymphocyte count in full blood count result. Blood investigations are only required for those with hospital admission requiring intravenous antibiotics. 
+Nasoendoscopy can be used for those with severe neck pain and inability to swallow any fluids to rule out masked epiglotitis and supraglotitis. Routine nasoendscopy is not recommended for children.
+
+
+## Treatment
+Treatments to reduce the discomfort from tonsillitis include:
+
+pain and fever reducing medications such as paracetamol (acetaminophen) and ibuprofen
+warm salt water gargle, lozenges, honey, or warm liquids
+There are no antiviral medical treatments for virally caused tonsillitis.
+
+
+### Antibiotics
+If the tonsillitis is caused by group A streptococcus, then antibiotics are useful, with penicillin or amoxicillin being primary choices. Cephalosporins and macrolides are considered good alternatives to penicillin in the acute care setting. A macrolide, such as azithromycin or erythromycin, is used for people allergic to penicillin. If penicillin therapy fails, bacterial tonsillitis may respond to treatment effective against beta-lactamase producing bacteria such as clindamycin or amoxicillin-clavulanate. Aerobic and anaerobic beta lactamase producing bacteria that reside in the tonsillar tissues can "shield" group A streptococcus from penicillins. There is no significant difference in efficacy of various groups of antibiotics for treating tonsillitis. Intravenous antibiotics can be for those who are hospitalized with inability to swallow and presented with complications. Oral antibiotics can be resumed immediately if the person is clinically improved and able to swallow orally. Antibiotic treatment is usually taken for seven to ten days.
+
+
+### Pain medication
+Paracetamol and  nonsteroidal anti-inflammatory drugs (NSAIDs) can be used to treat throat pain in children and adults. Codeine is avoided in children under 12 years of age to treat throat pain or following tonsilectomy. NSAIDs (such as ibuprofen) and opioids (such as codeine and tramadol) are equally effective at relieving pain, however, precautions should be taken with these pain medications. NSAIDs can cause peptic ulcer disease and kidney damage. Opioids can cause respiratory depression in those who are vulnerable. Anaesthetic mouthwash can also be used for symptomatic relief.
+
+
+### Corticosteroids
+Corticosteroids reduce tonsillitis pain and improve symptoms in 24 to 48 hours. Oral corticosteroids are recommended unless the person is unable to swallow medications.
+
+
+### Surgery
+
+When tonsillitis recurs frequently, often arbitrarily defined as at least five episodes of tonsillitis in a year, or when the palatine tonsils become so swollen that swallowing is difficult as well as painful, a tonsillectomy can be performed to surgically remove the tonsils. A randomised controlled trial of tonsillectomy versus medical treatment (antibiotics and pain killers) in adults with frequent tonsillitis found that tonsillectomy was more effective and cost effective. It resulted in fewer days with sore throat. 
+Children have had only a modest benefit from tonsillectomy for repeated cases of tonsillitis.
+
+
+## Prognosis
+Since the advent of penicillin in the 1940s, a major preoccupation in the treatment of streptococcal tonsillitis has been the prevention of rheumatic fever, and its major effects on the nervous system and heart.
+Complications may rarely include dehydration and kidney failure due to difficulty swallowing, blocked airways due to inflammation, and pharyngitis due to the spread of infection.
+An abscess may develop lateral to the tonsil during an infection, typically several days after the onset of tonsillitis. This is termed a peritonsillar abscess (or quinsy).
+Rarely, the infection may spread beyond the tonsil resulting in inflammation and infection of the internal jugular vein giving rise to a spreading infectious thrombophlebitis (Lemierre's syndrome).
+In strep throat, diseases like post-streptococcal glomerulonephritis can occur. These complications are extremely rare in developed nations but remain a significant problem in poorer nations.
+
+
+## Epidemiology
+Tonsillitis occurs throughout the world, without racial or ethnic differences. Most children have tonsillitis at least once during their childhood, although it rarely occurs before the age of two. It most typically occurs between the ages of four and five; bacterial infections most typically occur at a later age.
+
+
+## Society and culture
+Tonsillitis is described in the ancient Greek Hippocratic Corpus.
+Recurrent tonsillitis can interfere with vocal function and the ability to perform among people who use their voices professionally.
+
+
+## References
+
+Tonsillitt Velbehagklinikk 26 July 2022
+
+
+### Books cited
+
+Dean-Jones L (2013). "The Child Patient of the Hippocratics: Early Pediatrics?". In Grubbs JE, Parkin T (eds.). The Oxford Handbook of Childhood and Education in the Classical World. Oxford University Press. doi:10.1093/oxfordhb/9780199781546.013.005. ISBN 9780199781546.
+Ferri FF (2015). Ferri's Clinical Advisor 2016: 5 Books in 1 (first ed.). Elsevier Health Sciences. ISBN 978-0323280471.
+Jones R (2005). Oxford Textbook of Primary Medical Care. Oxford University Press. ISBN 9780198567820.
+Lang F (2009). Encyclopedia of Molecular Mechanisms of Disease. Springer Science & Business Media. ISBN 9783540671367.
+Nour SG, Mafee MR, Valvassori GE, Valbasson GE, Becker M (2005). Imaging of the head and neck. Stuttgart: Thieme. p. 716. ISBN 978-1-58890-009-8.
+Sataloff RT, Hawkshaw MJ (2019). "Medical Care of Voice Disorders". In Eidsheim NS, Meisel K (eds.). The Oxford Handbook of Voice Studies. New York, NY: Oxford University Press. pp. 54–75. doi:10.1093/oxfordhb/9780199982295.013.11. ISBN 978-0-19-998229-5. OCLC 1076410526.
+Simon HB (2005). "Bacterial infections of the upper respiratory tract". In Dale DC, Federman DD (eds.). ACP Medicine, 2006 Edition (Two Volume Set) (Second ed.). WebMD Professional Publishing. ISBN 978-0-9748327-6-0.
+Sommers M, Fannin E (2015). Diseases & Disorders: A Nursing Therapeutics Manual (5th ed.). F.A. Davis Company. ISBN 978-0803638556.
+Stadelman-Cohen TK, Hillman RE (2019). "Voice Dysfunction and Recovery". In Welch GF, Howard DM, Nix J (eds.). The Oxford Handbook of Singing. Oxford University Press. pp. 30–52. doi:10.1093/oxfordhb/9780199660773.013.018. ISBN 978-0-19-966077-3.
+Thuma P (2001). "Pharyngitis and tonsillitis". In Hoekelman RA, Adam HM, Nelson NM, Weitzman ML (eds.). Primary pediatric care (4th ed.). St. Louis: Mosby. ISBN 978-0-323-00831-0.
+Wetmore RF (2007). "Tonsils and adenoids". In Kliegman RM, Behrman RE, Jenson HB, Stanton BF (eds.). Nelson textbook of pediatrics (18th ed.). Philadelphia: Saunders. ISBN 978-1-4160-2450-7.

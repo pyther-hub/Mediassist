@@ -1,0 +1,246 @@
+Chronic kidney disease (CKD) is a type of long-term kidney disease, in which either there is a gradual loss of kidney function occurs over a period of months to years, or abnormal kidney structure (with normal function). Initially generally no symptoms are seen, but later symptoms may include leg swelling, feeling tired, vomiting, loss of appetite, and confusion. Complications can relate to hormonal dysfunction of the kidneys and include (in chronological order) high blood pressure (often related to activation of the renin–angiotensin system), bone disease, and anemia. Additionally CKD patients have markedly increased cardiovascular complications with increased risks of death and hospitalization.
+Causes of chronic kidney disease include diabetes, high blood pressure, glomerulonephritis, and polycystic kidney disease. Risk factors include a family history of chronic kidney disease. Diagnosis is by blood tests to measure the estimated glomerular filtration rate (eGFR), and a urine test to measure albumin. Ultrasound or kidney biopsy may be performed to determine the underlying cause. Several severity-based staging systems are in use.
+Screening at-risk people is recommended. Initial treatments may include medications to lower blood pressure, blood sugar, and cholesterol. Angiotensin converting enzyme inhibitors (ACEIs) or angiotensin II receptor antagonists (ARBs) are generally first-line agents for blood pressure control, as they slow progression of the kidney disease and the risk of heart disease. Loop diuretics may be used to control edema and, if needed, to further lower blood pressure. NSAIDs should be avoided. Other recommended measures include staying active, and certain dietary changes such as a low-salt diet and the right amount of protein. Treatments for anemia and bone disease may also be required. Severe disease requires hemodialysis, peritoneal dialysis, or a kidney transplant for survival.
+Chronic kidney disease affected 753 million people globally in 2016 (417 million females and 336 million males.) In 2015, it caused 1.2 million deaths, up from 409,000 in 1990. The causes that contribute to the greatest number of deaths are high blood pressure at 550,000, followed by diabetes at 418,000, and glomerulonephritis at 238,000.
+
+
+## Signs and symptoms
+
+CKD is initially without symptoms, and is usually detected on routine screening blood work by either an increase in serum creatinine, or protein in the urine. As the kidney function decreases, more unpleasant symptoms may emerge:
+
+Blood pressure is increased due to fluid overload and production of vasoactive hormones created by the kidney via the renin–angiotensin system, increasing the risk of developing hypertension and heart failure. People with CKD are more likely than the general population to develop atherosclerosis with consequent cardiovascular disease, an effect that may be at least partly mediated by uremic toxins. People with both CKD and cardiovascular disease have significantly worse prognoses than those with only  cardiovascular disease.
+Urea accumulates, leading to azotemia and ultimately uremia (symptoms ranging from lethargy to pericarditis and encephalopathy). Due to its high systemic concentration, urea is excreted in eccrine sweat at high concentrations and crystallizes on skin as the sweat evaporates ("uremic frost").
+Potassium accumulates in the blood (hyperkalemia with a range of symptoms including malaise and potentially fatal cardiac arrhythmias). Hyperkalemia usually does not develop until the glomerular filtration rate falls to less than 20–25 mL/min/1.73 m2, when the kidneys have decreased ability to excrete potassium. Hyperkalemia in CKD can be exacerbated by acidemia (triggering the cells to release potassium into the bloodstream to neutralize the acid) and from lack of insulin.
+Fluid overload symptoms may range from mild edema to life-threatening pulmonary edema.
+Hyperphosphatemia results from poor phosphate elimination in the kidney, and contributes to increased cardiovascular risk by causing vascular calcification. Circulating concentrations of fibroblast growth factor-23 (FGF-23) increase progressively as the kidney capacity for phosphate excretion declines, which may contribute to left ventricular hypertrophy and increased mortality in people with CKD .
+Hypocalcemia results from 1,25 dihydroxyvitamin D3 deficiency (caused by high FGF-23 and reduced kidney mass) and the skeletal resistance to the calcemic action of parathyroid hormone. Osteocytes are responsible for the increased production of FGF-23, which is a potent inhibitor of the enzyme 1-alpha-hydroxylase (responsible for the conversion of 25-hydroxycholecalciferol into 1,25 dihydroxyvitamin D3). Later, this progresses to secondary hyperparathyroidism, kidney osteodystrophy, and vascular calcification that further impairs cardiac function. An extreme consequence is the occurrence of the rare condition named calciphylaxis.
+Changes in mineral and bone metabolism that may cause 1) abnormalities of calcium, phosphorus (phosphate), parathyroid hormone, or vitamin D metabolism; 2) abnormalities in bone turnover, mineralization, volume, linear growth, or strength (kidney osteodystrophy); and 3) vascular or other soft-tissue calcification. CKD–mineral and bone disorders have been associated with poor outcomes.
+Metabolic acidosis may result from decreased capacity to generate enough ammonia from the cells of the proximal tubule. Acidemia affects the function of enzymes and increases excitability of cardiac and neuronal membranes by the promotion of hyperkalemia.
+Anemia is common and is especially prevalent in those requiring haemodialysis. It is multifactorial in cause, but includes increased inflammation, reduction in erythropoietin, and hyperuricemia leading to bone-marrow suppression. Hypoproliferative anemia occurs due to inadequate production of erythropoietin by the kidneys.
+In later stages, cachexia may develop, leading to unintentional weight loss, muscle wasting, weakness, and anorexia.
+Cognitive decline in patients experiencing CKD is an emerging symptom revealed in research literature. Current research suggests that patients with CKD face a 35–40% higher likelihood of cognitive decline and or dementia. This relation is dependent on the severity of CKD in each patient; although emerging literature indicates that patients at all stages of CKD will have a higher risk of developing these cognitive issues.
+Sexual dysfunction is very common in both men and women with CKD.  A majority of men have a reduced sex drive, difficulty obtaining an erection, and reaching orgasm, and the problems get worse with age.  Most women have trouble with sexual arousal, and painful menstruation and problems with performing and enjoying sex are common.
+
+
+## Causes
+The three most common causes of CKD in order of frequency as of 2015 are diabetes mellitus, hypertension, and glomerulonephritis. About one of five adults with hypertension and one of three adults with diabetes have CKD.
+If the cause is unknown, it is called idiopathic.
+
+
+### By anatomical location
+Vascular disease includes large-vessel disease such as bilateral kidney artery stenosis and small-vessel disease such as ischemic nephropathy, hemolytic–uremic syndrome, and vasculitis.
+Glomerular disease comprises a diverse group and is classified into:
+Primary glomerular disease such as focal segmental glomerulosclerosis and IgA nephropathy (or nephritis)
+Secondary glomerular disease such as diabetic nephropathy and lupus nephritis
+Tubulointerstitial disease includes drug- and toxin-induced chronic tubulointerstitial nephritis, and reflux nephropathy
+Obstructive nephropathy, as exemplified by bilateral kidney stones and benign prostatic hyperplasia of the prostate gland; rarely, pinworms infecting the kidney can cause obstructive nephropathy.
+
+
+### Other
+Genetic congenital disease such as polycystic kidney disease or 17q12 microdeletion syndrome.
+Mesoamerican nephropathy, is "a new form of kidney disease that could be called agricultural nephropathy". A high and so-far unexplained number of new cases of CKD, referred to as the Mesoamerican nephropathy, has been noted among male workers in Central America, mainly in sugarcane fields in the lowlands of El Salvador and Nicaragua. Heat stress from long hours of piece-rate work at high average temperatures of about 36 °C (96 °F) is suspected, as are agricultural chemicals
+
+
+## Diagnosis
+
+Diagnosis of CKD is largely based on history, examination, and urine dipstick combined with the measurement of the serum creatinine level. Differentiating CKD from acute kidney injury (AKI) is important because AKI can be reversible. One diagnostic clue that helps differentiate CKD from AKI is a gradual rise in serum creatinine (over several months or years) as opposed to a sudden increase in the serum creatinine (several days to weeks). In many people with CKD, previous kidney disease or other underlying diseases are already known. A significant number present with CKD of unknown cause.
+
+
+### Screening
+Screening those who have neither symptoms nor risk factors for CKD is not recommended. Those who should be screened include: those with hypertension or history of cardiovascular disease, those with diabetes or marked obesity, those aged > 60 years, subjects with African American ancestry, those with a history of kidney disease in the past, and subjects who have relatives who had kidney disease requiring dialysis.
+Screening should include calculation of the estimated GFR (eGFR) from the serum creatinine level, and measurement of urine albumin-to-creatinine ratio (ACR) in a first-morning urine specimen (this reflects the amount of a protein called albumin in the urine), as well as a urine dipstick screen for hematuria.
+The GFR is derived from the serum creatinine and is proportional to 1/creatinine, i.e. it is a reciprocal relationship; the higher the creatinine, the lower the GFR. It reflects one aspect of kidney function, how efficiently the glomeruli – the filtering units – work. The normal GFR is 90–120 ml/min. The units of creatinine vary from country to country, but since the glomeruli make up <5% of the mass of the kidney, the GFR does not indicate all aspects of kidney health and function. This can be done by combining the GFR level with the clinical assessment of the person, including fluid status, and measuring the levels of hemoglobin, potassium, phosphate, and parathyroid hormone.
+
+
+### Ultrasound
+Kidney ultrasonography is useful for diagnostic and prognostic purposes in chronic kidney disease. Whether the underlying pathologic change is glomerular sclerosis, tubular atrophy, interstitial fibrosis, or inflammation, the result is often increased echogenicity of the cortex. The echogenicity of the kidney should be related to the echogenicity of either the liver or the spleen (Figure 22 and Figure 23). Moreover, decreased kidney size and cortical thinning are also often seen and especially when disease progresses (Figure 24 and Figure 25). However, kidney size correlates to height, and short persons tend to have small kidneys; thus, kidney size as the only parameter is not reliable.
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+### Additional imaging
+Additional tests may include nuclear medicine MAG3 scan to confirm blood flow and establish the differential function between the two kidneys. Dimercaptosuccinic acid (DMSA) scans are also used in kidney imaging; with both MAG3 and DMSA being used chelated with the radioactive element technetium-99.
+
+
+### Stages
+
+A glomerular filtration rate (GFR) ≥ 60 mL/min/1.73 m2 is considered normal without chronic kidney disease if there is no kidney damage present.
+Kidney damage is defined signs of damage seen in blood, urine, or imaging studies which includes lab albumin/creatinine ratio (ACR) ≥ 30. All people with a GFR <60 mL/min/1.73 m2 for 3 months are defined as having chronic kidney disease.
+Protein in the urine is regarded as an independent marker for worsening of kidney function and cardiovascular disease. Hence, British guidelines append the letter "P" to the stage of chronic kidney disease if protein loss is significant.
+
+Stage 1: Slightly diminished function; kidney damage with normal or relatively high GFR (≥90 mL/min/1.73 m2) and persistent albuminuria. Kidney damage is defined as pathological abnormalities or markers of damage, including abnormalities in blood or urine tests or imaging studies.
+Stage 2: Mild reduction in GFR (60–89 mL/min/1.73 m2) with kidney damage. Kidney damage is defined as pathological abnormalities or markers of damage, including abnormalities in blood or urine tests or imaging studies.
+Stage 3: Moderate reduction in GFR (30–59 mL/min/1.73 m2):. British guidelines distinguish between stage 3A (GFR 45–59) and stage 3B (GFR 30–44) for purposes of screening and referral.
+Stage 4: Severe reduction in GFR (15–29 mL/min/1.73 m2) Preparation for kidney replacement therapy.
+Stage 5: Established kidney failure (GFR <15 mL/min/1.73 m2), permanent kidney replacement therapy, or end-stage kidney disease.
+The term "non-dialysis-dependent chronic kidney disease" (NDD-CKD) is a designation used to encompass the status of those persons with an established CKD who do not yet require the life-supporting treatments for kidney failure known as kidney replacement therapy (RRT, including maintenance dialysis or kidney transplantation).  The condition of individuals with CKD, who require either of the two types of kidney replacement therapy (dialysis or transplant), is referred to as the end-stage kidney disease (ESKD). Hence, the start of the ESKD is practically the irreversible conclusion of the NDD-CKD. Even though the NDD-CKD status refers to the status of persons with earlier stages of CKD (stages 1 to 4), people with advanced stage of CKD (stage 5), who have not yet started kidney replacement therapy, are also referred to as NDD-CKD.
+
+
+## Management
+Chronic kidney disease (CKD) is a serious condition often linked to diabetes and high blood pressure. There is no cure, but a combination of lifestyle changes and medications can help slow its progression. This might include a plant-dominant diet with less protein and salt, medications to control blood pressure and sugar, and potentially newer anti-inflammatory drugs. Doctors may also focus on managing heart disease risk, preventing infections, and avoiding further kidney damage. While dialysis may eventually be needed, a gradual transition can help preserve remaining kidney function. More research is ongoing to improve CKD management and patient outcomes.
+
+
+### Blood pressure
+Angiotensin converting enzyme inhibitors (ACEIs) or angiotensin II receptor antagonists (ARBs) are recommended as first-line agents since they have been found to slow the decline of kidney function, relative to a more rapid decline in those not on one of these agents. They have also been found to reduce the risk of major cardiovascular events such as myocardial infarction, stroke, heart failure, and death from cardiovascular disease when compared to placebo in individuals with CKD. ACEIs may be superior to ARBs for protection against progression to kidney failure and death from any cause in those with CKD. Aggressive blood pressure lowering decreases people's risk of death.
+
+
+### Other measures
+Aggressive treatment of high blood lipids is recommended.
+A low-protein, low-salt diet may result in slower progression of CKD and reduction in proteinuria as well as controlling symptoms of advanced CKD to delay dialysis start. A tailored low-protein diet, designed for low acidity, may help prevent damage to kidneys for people with CKD. Additionally, controlling salt ingestion helps to decrease the incidence of coronary heart disease, lowering blood pressure and reducing albuminuria.
+Anemia – A target hemoglobin level of 100–120 g/L is recommended; raising hemoglobin levels to the normal range has not been found to be of benefit.
+Guidelines recommend treatment with parenteral iron prior to treatment with erythropoietin.
+Replacement of erythropoietin is often necessary in people with advanced disease.
+It is unclear if androgens improve anemia.
+Calcitriol is recommended for vitamin D deficiency and control of metabolic bone disease.
+Phosphate binders are used to control the serum phosphate levels, which are usually elevated in advanced chronic kidney disease.
+Phosphodiesterase-5 inhibitors and zinc may improve sexual dysfunction in men.
+
+
+### Lifestyle interventions
+
+
+#### Weight loss
+Obesity may have a negative impact in CKD, increasing the risk of disease progression to ESKD or kidney failure compared to controls with healthy weight, and when in advanced stages also may hinder people's eligibility to kidney transplantation.  For example, the consumption of high calorie and high fructose beverages can make an individual "60% more likely to develop CKD".
+Weight management interventions in overweight and obese adults with CKD (of various stages) have been studied to assess its safety and efficacy. A recent systematic review collected evidence from 17 studies which evaluated lifestyle (including dietary, physical activity/exercise, or behavioural strategies used in isolation or in combination), pharmacological (used to reduce absorption or suppress appetite) and surgical interventions. The review concluded that lifestyle interventions may provide some health benefits, namely improving body weight, low density lipoprotein (LDL) cholesterol and diastolic blood pressure (DBP), when compared to usual care or controls. Whether these benefits extend to help reducing cardiovascular events, kidney function and risk of death is uncertain. These conclusions were based on very low quality of evidence, so future robust studies are needed. Thus, it is recommended that weight management interventions should be individualised, according to a thorough patients' assessment regarding clinical condition, motivations and preferences.
+
+
+#### Dietary salt intake
+High dietary sodium intake may increase the risk of hypertension and cardiovascular disease. The effect of dietary restriction of salt in foods has been investigated in people with chronic kidney disease. A 2021 Cochrane review of controlled trials in people with CKD at any stage, including those on dialysis, found high-certainty evidence that reduced salt intake may help to lower both systolic and diastolic blood pressure, as well as albuminuria. However, there was also moderate certainty evidence that some people may experience hypotensive symptoms, such as dizziness, following sudden sodium restriction. The effect of salt restriction on extracellular fluid, oedema, and total body weight reduction was uncertain.
+
+
+#### Omega-3 fatty acid supplementation
+In people with CKD who require hemodialysis, there is a risk that vascular blockage due to clotting, may prevent dialysis therapy from being possible. Omega-3 fatty acids contribute to the production of eicosanoid molecules that reduce clotting. However, a Cochrane review in 2018 did not find clear evidence that omega-3 supplementation has any impact on the prevention of vascular blockage in people with CKD. There was also moderate certainty that supplementation did not prevent hospitalisation or death within a 12-month period.
+
+
+#### Protein supplementation
+There is moderate-certainty evidence that regular consumption of oral protein-based nutritional supplements may increase serum albumin levels slightly in people with CKD, especially among those requiring hemodialysis or who are malnourished. Prealbumin level and mid-arm muscle circumference may also be increased following supplementation, though the certainty of evidence is low. Despite possible improvement in these indicators of nutritional status, it is not certain that protein supplements affect quality of life, life expectancy, inflammation or body composition.
+
+
+#### Iron supplementation
+A Cochrane review of controlled trials comparing intravenous (IV) iron therapy with oral iron supplements, found low-certainty evidence that people receiving IV-iron treatment were 1.71 times as likely to reach their target hemoglobin levels. Overall, hemoglobin was 0.71 g/dl higher than those treated with oral iron supplements. Iron stores in the liver, estimated by serum ferritin, were also 224.84 μg/L higher in those receiving IV-iron. However, there was also low-certainty evidence that allergic reactions were more likely following IV-iron therapy. It was unclear whether type of iron therapy administration affects the risk of death from any cause, including cardiovascular, nor whether it may alter the number of people who may require a blood transfusion or dialysis.
+
+
+### Sleep
+People with CKD experience sleep disorders, thus not being able to get quality sleep. There are several strategies that could help, such as relaxation techniques, exercise, acupressure and medication:
+
+Exercise: weak evidence demonstrates that exercise may be helpful with sleep regulation. Nevertheless, exercise possibly decreases fatigue and depression in people with CKD.
+Acupressure: evidence suggests that this technique may have slight effects on latency and sleep duration, as well as on fatigue reduction, although these results are not reliable due to the diversity of conclusions in several articles.
+Despite all the available options studied so far, evidence shows that none of them is effective in the treatment of sleep disorders. This means that we are not able to conclude which is the best guidance to improve sleep quality in this type of population.
+
+
+### eHealth interventions
+There is currently limited evidence suggesting that eHealth interventions may improve dietary sodium intake and fluid management for people with chronic kidney disease (CKD). The findings are based on low certainty evidence of 43 studies. So, more large and higher quality research studies are needed to understand the impact of eHealth on the health of people with CKD.
+
+
+### Referral to a nephrologist
+Guidelines for referral to a nephrologist vary between countries.  Most agree that nephrology referral is required by Stage 4 CKD (when eGFR/1.73m2 is less than 30 mL/min; or decreasing by more than 3 mL/min/year).
+It may also be useful at an earlier stage (e.g. CKD3) when urine albumin-to-creatinine ratio is more than 30 mg/mmol, when blood pressure is difficult to control, or when hematuria or other findings suggest either a primarily glomerular disorder or secondary disease amenable to specific treatment.  Other benefits of early nephrology referral include proper education regarding options for kidney replacement therapy as well as pre-emptive transplantation, and timely workup and placement of an arteriovenous fistula in those people with chronic kidney disease opting for future hemodialysis.
+
+
+### Renal replacement therapy
+At stage 5 CKD, kidney replacement therapy is usually required, in the form of either dialysis or a kidney transplant.
+In CKD numerous uremic toxins accumulate in the blood. Even when ESKD (largely synonymous with CKD5) is treated with dialysis, the toxin levels do not go back to normal as dialysis is not that efficient. Similarly, after a kidney transplant, the levels may not go back to normal as the transplanted kidney may not work 100%. If it does, the creatinine level is often normal. The toxins show various cytotoxic activities in the serum and have different molecular weights, and some of them are bound to other proteins, primarily to albumin. Uremic toxins are classified into three groups as small water-soluble solutes, middle molecular-weight solutes, and protein-bound solutes. Hemodialysis with high-flux dialysis membrane, long or frequent treatment, and increased blood/dialysate flow has improved removal of water-soluble small molecular weight uremic toxins. Middle molecular weight molecules are removed more effectively with hemodialysis using a high-flux membrane, hemodiafiltration and hemofiltration. However, conventional dialysis treatment is limited in its ability to remove protein-bound uremic toxins.
+
+
+## Prognosis
+CKD increases the risk of cardiovascular disease, and people with CKD often have other risk factors for heart disease, such as high blood lipids. The most common cause of death in people with CKD is cardiovascular disease rather than kidney failure.
+Chronic kidney disease results in worse all-cause mortality (the overall death rate) which increases as kidney function decreases.  The leading cause of death in chronic kidney disease is cardiovascular disease, regardless of whether there is progression to stage 5.
+While kidney replacement therapies can maintain people indefinitely and prolong life, the quality of life is negatively affected. Kidney transplantation increases the survival of people with stage 5 CKD when compared to other options; however, it is associated with an increased short-term mortality due to complications of the surgery. Transplantation aside, high-intensity home hemodialysis appears to be associated with improved survival and a greater quality of life, when compared to the conventional three-times-a-week hemodialysis and peritoneal dialysis.
+People with ESKD are at increased overall risk for cancer. This risk is particularly high in younger people and gradually diminishes with age. Medical specialty professional organizations recommend that physicians do not perform routine cancer screening in people with limited life expectancies due to ESKD because evidence does not show that such tests lead to improved outcomes.
+In children, growth failure is a common complication from CKD. Children with CKD will be shorter than 97% of children the same age and sex. This can be treated with additional nutritional support, or medication such as growth hormone
+
+
+## Survival without dialysis
+In a review from 2022 survival and quality of life was investigated in patients who had decided against dialysis treatment when reaching end-stage chronic kidney disease.
+41 longitudinal studies (cohort studies) with a total of 5,102 patients were evaluated. The mean age of patients per study was 60–87 years. The mean estimated glomerular filtration rate (eGFR) at the time of decision per study was 7–19 ml/min pro 1.73 m2.
+The median survival per study was:
+
+all 41 studies: 1–41 months
+studies from continental Europe (11 studies, 1.021 patients):  6–37 months
+studies from Asia (7 studies, 1.147 patients): 7–41 months
+age 70–79 years (9 studies, 607 patients): 7–41 months
+age 80+ (25 studies, 3.186 patients): 1–37 months
+The longest survival times per study from the three studies with the highest median were 82, 79, and 75 months.
+During the observation periods of 8 to 24 months mental well-being improved, and physical well-being and quality of life were largely stable until the late phase of the illness.
+The authors of the review reached the following conclusion: "Our findings challenge the common misconception that the only alternative to dialysis for many patients with advanced CKD is no care or death."
+In a review from 2021 25 studies were analyzed that had compared survival times and quality of life between patients with and without dialysis. Survival was generally longer with dialysis, but from the age of 80 and in elderly patients with comorbidities this effect became uncertain. Concerning quality of life there was a trend that patients without dialysis had an advantage.
+
+
+## Epidemiology
+About one in ten people have chronic kidney disease. In Canada 1.9 to 2.3 million people were estimated to have CKD in 2008. CKD affected an estimated 16.8% of U.S. adults aged 20 years and older in the period from 1999 to 2004. In 2007 8.8% of the population of Great Britain and Northern Ireland had symptomatic CKD.
+Chronic kidney disease was the cause of 956,000 deaths globally in 2013, up from 409,000 deaths in 1990.
+
+
+### Chronic kidney disease of unknown aetiology
+The cause of chronic kidney disease is in some cases not known; it is referred to as chronic kidney disease of unknown aetiology (CKDu). As of 2020 a rapidly progressive chronic kidney disease, unexplained by diabetes and hypertension, had increased dramatically in prevalence over a few decades in several regions in Central America and Mexico, a CKDu referred to as the Mesoamerican nephropathy (MeN). It was estimated in 2013 that at least 20,000 men had died prematurely, some in their 20s and 30s; a figure of 40,000 per year was estimated in 2020. In some affected areas CKD mortality was five times the national rate. MeN primarily affects men working as sugarcane labourers. The cause is unknown, but in 2020 the science found a clearer connection between heavy labour in high temperatures and incidence of CKDu; improvements such as regular access to water, rest and shade, can significantly decrease the potential CKDu incidence. CKDu also affects people in Sri Lanka where it is the eighth largest cause of in-hospital mortality.
+
+
+### Race
+African, Hispanics, and South Asians, particularly those from Pakistan, Sri Lanka, Bangladesh, and India, are at high risk of developing CKD. Africans are at greater risk due to the number of people affected with hypertension among them. As an example, 37% of ESKD cases in African Americans can be attributed to high blood pressure, compared with 19% among Caucasians. Treatment efficacy also differs between racial groups. Administration of antihypertensive drugs generally halts disease progression in white populations but has little effect in slowing kidney disease among black people, and additional treatment such as bicarbonate therapy is often required. While lower socioeconomic status contributes to the number of people affected with CKD, differences in the number of people affected by CKD are still evident between Africans and Whites when controlling for environmental factors.
+Although CKDu was first documented among sugar cane workers in Costa Rica in the 1970s, it may well have affected plantation labourers since the introduction of sugar cane farming to the Caribbean in the 1600s. In colonial times the death records of slaves on sugar plantations was much higher than for slaves forced into other labour.
+
+
+### The Role of Denial of Care
+Denial of care in chronic kidney disease treatment and management is a significant issue for minority populations. This can be due to healthcare provider bias, structural barriers, and health insurance coverage disparities. Healthcare provider biases can lead to under-treatment, misdiagnosis, or delayed diagnosis. Structural barriers, such as lack of insurance and limited healthcare facilities, hinder access to timely care. Furthermore, health insurance coverage disparities, with minority populations lacking adequate coverage, contribute to these disparities. Denial of care worsens health outcomes and perpetuates existing health inequities. 
+Problems with Race-Based Metrics of Kidney Function: Race-based kidney function metrics, particularly normalizing creatinine, pose ethical challenges in diagnosing and managing chronic kidney disease (CKD). While certain racial and ethnic groups are at higher risk, using race as a reference range may reinforce stereotypes and perpetuate health disparities. This approach fails to account for the complex interplay of genetic, environmental, and social factors influencing kidney function. Depending solely on race-based metrics may lead to misdiagnosis or underdiagnosis in minority populations. Alternative approaches that consider socioeconomic status, environmental exposures, and genetic vulnerability, are needed to accurately assess kidney function and address CKD care disparities.
+
+
+## Society and culture
+The International Society of Nephrology is an international body representing specialists in kidney diseases.
+
+
+### United States
+The National Kidney Foundation is a national organization representing people with chronic kidney diseases and professionals who treat kidney diseases.
+The American Kidney Fund is a national nonprofit organization providing treatment-related financial assistance to one of every five people undergoing dialysis each year.
+The Renal Support Network is a nonprofit, patient-focused, patient-run organization that provides non-medical services to those affected by CKD.
+The American Association of Kidney Patients is a nonprofit, patient-centric group focused on improving the health and well-being of CKD and people undergoing dialysis .
+The Renal Physicians Association is an association representing nephrology professionals.
+
+
+### United Kingdom
+It was said to be costing the National Health Service about £1.5 billion a year in 2020.
+Kidney Care UK and The UK National Kidney Federation represent people with chronic kidney disease. The Renal Association represents Kidney physicians and works closely with the National Service Framework for kidney disease.
+
+
+### Australia
+Kidney Health Australia serves that country.
+
+
+## Other animals
+
+
+### Dogs
+The incidence rate of CKD in dogs was 15.8 cases per 10,000 dog years at risk. The mortality rate of CKD was 9.7 deaths per 10,000 dog years at risk. (Rates developed from a population of 600,000 insured Swedish dogs; one dog year at risk is one dog at risk for one year). The breeds with the highest rates were the Bernese mountain dog, miniature schnauzer and boxer. The Swedish elkhound, Siberian husky and Finnish spitz were the breeds with the lowest rates.
+
+
+### Cats
+Cats with chronic kidney disease may have a buildup of waste products usually removed by the kidneys. They may appear lethargic, unkempt, and lose weight, and may have hypertension. The disease can prevent appropriate concentration of urine, causing cats to urinate greater volumes and drink more water to compensate. Loss of important proteins and vitamins through urine may cause abnormal metabolism and loss of appetite. The buildup of acids within blood can result in acidosis, which can lead to anemia (which can sometimes be indicated by pink or whitish gums, but by no means does the presence of normal colored gums guarantee that anemia is not present or developing), and lethargy.
+
+
+## Research
+Currently, several compounds are in development for the treatment of CKD.  These include the angiotensin receptor blocker (ARB) olmesartan medoxomil; and sulodexide, a mixture of low molecular weight heparin and dermatan sulfate.
+
+
+## References
+
+
+## External links
+
+Dialysis Complications of Chronic Renal Failure at eMedicine
+Chronic Renal Failure Information Archived 2013-03-15 at the Wayback Machine from Great Ormond Street Hospital
+Note also the External resources links in the table below.

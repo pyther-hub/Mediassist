@@ -1,0 +1,173 @@
+Hidradenitis suppurativa (HS), sometimes known as acne inversa or Verneuil's disease, is a long-term dermatological condition characterized by the occurrence of inflamed and swollen lumps. These are typically painful and break open, releasing fluid or pus. The areas most commonly affected are the underarms, under the breasts, perineum, buttocks, and the groin. Scar tissue remains after healing. HS may significantly limit many everyday activities, for instance, walking, hugging, moving, and sitting down. Sitting disability may occur in patients with lesions in sacral, gluteal, perineal, femoral, groin or genital regions; and prolonged periods of sitting down can also worsen the condition of the skin of these patients.
+The exact cause is usually unclear, but believed to involve a combination of genetic and environmental factors. About a third of people with the disease have an affected family member. Other risk factors include obesity and smoking. The condition is not caused by an infection, poor hygiene, or the use of deodorant. Instead, it is believed to be caused by hair follicles being obstructed, with the nearby apocrine sweat glands being strongly implicated in this obstruction. The sweat glands themselves may or may not be inflamed. Diagnosis is based on the symptoms.
+No cure is known,though surgical excision with wet-to-dry dressings, proper wound care, and  warm baths or showering with a pulse-jet shower may be used in those with mild disease. Cutting open the lesions to allow them to drain does not result in significant benefit. While antibiotics are commonly used, evidence for their use is poor. Immunosuppressive medication may also be tried. In those with more severe disease, laser therapy or surgery to remove the affected skin may be viable. Rarely, a skin lesion may develop into skin cancer.
+If mild cases of HS are included, then the estimate of its frequency is from 1–4% of the population. Women are three times more likely to be diagnosed with it than men. Onset is typically in young adulthood and may become less common after 50 years old. It was first described between 1833 and 1839 by French anatomist Alfred Velpeau.
+
+
+## Terminology
+Although hidradenitis suppurativa is often referred to as acne inversa, it is not a form of acne, and lacks the core defining features of acne such as the presence of closed comedones and increased sebum production.
+
+
+## Causes
+The exact cause of hidradenitis suppurativa remains unknown, and there has, in the recent past, been notable disagreement among experts in this regard. The condition, however, likely stems from both genetic and environmental causes. Specifically, an immune-mediated pathology has been proposed, although environmental factors have not been ruled out.
+Lesions will occur in any body areas with hair follicles, and/or sweat glands, although areas such as the axilla, groin, and perineal region are more commonly involved. This theory includes most of these potential indicators:
+
+Post-pubescent individuals
+Blocked hair follicles or blocked apocrine sweat glands
+Excessive sweating
+Androgen dysfunction
+Genetic disorders that alter cell structure
+The historical understanding of the disease suggests dysfunctional apocrine glands or dysfunctional hair follicles, possibly triggered by a blocked gland, which creates inflammation, pain, and a swollen lesion.
+
+
+### Triggering factors
+Several triggering factors should be taken into consideration:
+
+Obesity is an exacerbating rather than a triggering factor, through mechanical irritation, occlusion, and skin maceration.
+Tight clothing, and clothing made of heavy, nonbreathable materials
+Deodorants, depilation products, shaving of the affected area – their association with HS is still an ongoing debate among researchers.
+Drugs, in particular oral contraceptive pills, cigarette smoking, and lithium.
+Hot and especially humid climates.
+Stress
+
+
+### Predisposing factors
+Genetic factors: an autosomal dominant inheritance pattern has been proposed.
+Endocrine factors: sex hormones, especially an excess of androgens, are thought to be involved, although the apocrine glands are not sensitive to these hormones. Women often have outbreaks before their menstrual period and after pregnancy; HS severity usually decreases during pregnancy and after menopause.
+Some cases have been found to result from mutations in the NCSTN, PSEN1, or PSENEN genes. The genes produce proteins that are all components of a complex called gamma- (γ-) secretase. This complex cuts apart (cleaves) many different proteins, which is an important step in several chemical signaling pathways. One of these pathways, known as notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function. Studies suggest that mutations in the NCSTN, PSEN1, or PSENEN gene impair notch signaling in hair follicles. Although little is known about the mechanism, abnormal notch signaling appears to promote the development of nodules and to lead to inflammation in the skin. In addition,  the composition of the intestinal microflora and as a consequence dietary patterns appear to play a role. Although dysbiosis of the cutaneous microbiome apparent in HS is not observed, the concurrent existence of inflammatory gut and skin diseases has led to the postulation of a gut-skin axis in which gut microbiota is implicated. Indeed, analysis of bacterial taxa in fecal samples from HS patients support the possibility of a role for intestinal microbial alterations in this chronic inflammatory skin disease.
+
+
+## Diagnosis
+Early diagnosis is essential in avoiding tissue damage. However HS is often misdiagnosed or diagnosed late due to healthcare professionals not being aware of the condition or people not consulting with a physician. Globally, the diagnosis is delayed more than 7 years in average after symptoms appear. This is much longer than with other skin conditions.
+
+
+### Stages
+
+Hidradenitis suppurativa presents itself in three stages. Due to the large spectrum of clinical severity and the severe impact on quality of life, a reliable method for evaluating HS severity is needed.
+
+
+#### Hurley's staging system
+Hurley's staging system was the first classification system proposed, and is still in use for the classification of patients with skin diseases (i.e., psoriasis, HS, acne). Hurley separated patients into three groups based largely on the presence and extent of cicatrization and sinuses. It has been used as a basis for clinical trials in the past and is a useful basis to approach therapy for patients. These three stages are based on Hurley's staging system, which is simple and relies on the subjective extent of the diseased tissue the patient has. Hurley's three stages of hidradenitis suppurativa are:
+
+
+#### Sartorius staging system
+The Sartorius staging system is more sophisticated than Hurley's. Sartorius et al. suggested that the Hurley system is not sophisticated enough to assess treatment effects in clinical trials during research. This classification allows for better dynamic monitoring of the disease severity in individual patients. The elements of this staging system are:
+
+Anatomic regions involved (axilla, groin gluteal, or other region or inframammary region left or right)
+Number and types of lesions involved (abscesses, nodules, fistulas or sinuses, scars, points for lesions of all regions involved)
+The distance between lesions, in particular the longest distance between two relevant lesions (i.e., nodules and fistulas in each region or size if only one lesion present)
+The presence of normal skin in between lesions (i.e., if all lesions are clearly separated by normal skin)
+Points are accumulated in each of the above categories, and added to give both a regional and total score. In addition, the authors recommend adding a visual analog scale for pain or using the dermatology life quality index (DLQI, or the 'skindex') when assessing HS.
+
+
+## Treatment
+Treatment depends upon presentation and severity of the disease. Due to the poorly studied nature of the disease, the effectiveness of drugs and therapies were unclear. Clear and sensitive communication from health care professionals, social and psychological interventions can help managing the emotional impact of the condition and aid necessary lifestyle changes. In May 2023,  the European Commission (EC) approved Cosentyx (secukinumab) for active moderate to severe hidradenitis suppurativa in adults.
+Other possible treatments include the following:
+
+
+### Cryotherapy
+Cryotherapy has demonstrated efficacy against the disease, with 88% of persistent lesions resolving in a clinical trial of 23 patients.
+
+
+### Lifestyle
+Warm baths may be tried in those with mild disease. Weight loss and the cessation of smoking are also recommended.
+
+
+### Medication
+Antibiotics: taken by mouth, these are used for their anti-inflammatory properties rather than to treat infection. Most effective is a combination of rifampicin and clindamycin given concurrently for 2–3 months. Popular antibiotics also include tetracycline and minocycline. Topical clindamycin has been shown to have an effect in double-blind placebo controlled studies.  In a retrospective review and telephone survey, intravenous ertapenem therapy showed clinical improvement with 80.3% of subjects reporting medium to high satisfaction and 90.8% would recommend ertapenem to other patients.
+Corticosteroid injections, also known as intralesional steroids, can be particularly useful for localized disease, if the drug can be prevented from escaping via the sinuses.
+Antiandrogen therapy, hormonal therapy with antiandrogenic medications such as spironolactone, flutamide, cyproterone acetate, ethinylestradiol, finasteride, dutasteride, and metformin, have been found to be effective in clinical studies. However, the quality of available evidence is low and does not presently allow for robust evidence-based recommendations.
+Intravenous infusion or subcutaneous injection of anti-inflammatory (TNF inhibitors; anti-TNF-alpha) drugs such as infliximab, and etanercept This use of these drugs is not currently Food and Drug Administration (FDA) approved and is somewhat controversial, so may not be covered by insurance.
+Biologics: Studies have supported that various biologics have a positive effect on HS lesions. Specifically adalimumab at weekly intervals is useful. Adalimumab and Secukinumab are both approved by the FDA for the treatment of HS as of 2023.
+Topical isotretinoin is usually ineffective in people with HS, and is more commonly known as a medication for the treatment of acne vulgaris. Individuals affected by HS who responded to isotretinoin treatment tended to have milder cases of the condition.
+Zinc and Nicotinamide, at doses of 90 mg and 30 mg respectively, have shown efficacy against mild to moderate hidradenitis suppurativa in a controlled retrospective clinical trial.
+
+
+### Surgery
+When the process becomes chronic, wide surgical excision is the procedure of choice. 
+Wounds in the affected area do not heal by secondary intention, and immediate or delayed application of a split-thickness skin graft is an option.
+Another option is covering the defect with a perforator flap. With this technique, the (mostly totally excised) defect is covered with tissue from an area nearby. For example, the axilla with a fully excised defect of 15 × 7 cm can be covered with a thoracodorsal artery perforator flap.. A less invasive excision procedure called Skin-Tissue-sparing Excision with Electrosurgical Peeling or "STEEP" has also been developed for treating moderate to severe disease.
+
+
+### Laser hair removal
+The 1064-nm wavelength laser for hair removal may aid in the treatment of HS. A randomized control study has shown improvement in HS lesions with the use of a Nd:YAG laser.
+
+
+## Prognosis
+In stage III disease, as classified by the Hurley's staging system, fistulae left undiscovered, undiagnosed, or untreated, can rarely lead to the development of squamous cell carcinoma in the anus or other affected areas. Other stage III chronic sequelae may also include anemia, multilocalized infections, amyloidosis, and arthropathy. Stage III complications have been known to lead to sepsis, but clinical data are still uncertain.
+
+
+### Potential complications
+Contractures and reduced mobility of the lower limbs and axillae due to fibrosis and scarring occur. Severe lymphedema may develop in the lower limbs.
+Local and systemic infections (meningitis, bronchitis, pneumonia, etc.), are seen, which may even progress to sepsis.
+higher risk for diabetes mellitus
+Interstitial keratitis
+Anal, rectal, or urethral fistulae
+Normochromic or hypochromic anemia
+People with HS may be at increased risk for autoimmune disorders including ankylosing spondylitis, rheumatoid arthritis, and psoriatic arthritis.
+Squamous cell carcinoma has been found on rare occasions in chronic hidradenitis suppurativa of the anogenital region. The mean time to the onset of this type of lesion is 10 years or more and the tumors are usually highly aggressive.
+Tumors of the lung and oral cavity, and liver cancer
+Hypoproteinemia and amyloidosis, which can lead to kidney failure and death
+Seronegative and usually asymmetric arthropathy: pauciarticular arthritis, polyarthritis/polyarthralgia syndrome
+
+
+### Impact on mental health
+HS is a painful and socially isolating condition which leads to a negative impact on mental health as well. 21% of people with HS have depression and 12% have anxiety. People with HS also have a higher risk of attempting suicide.
+
+
+## Epidemiology
+
+
+### Prevalence
+Estimates of the prevalence of HS vary worldwide and there is no accepted generalization. In the USA, the prevalence is estimated to be 0.1% while in Europe it is thought to be 1% or more.
+
+
+#### Gender
+In North America and Europe, women are three times more likely to have HS. However, in South Korea, men are twice as likely to have HS.
+
+
+#### Age
+HS is the most prevalent in people in their 40s and 50s.
+
+
+## History
+From 1833 to 1839, in a series of three publications, Velpeau identified and described a disease now known as hidradenitis suppurativa.
+In 1854, Verneuil described hidradenitis suppurativa as hidrosadénite Phlegmoneuse. This is how HS obtained its alternate name "Verneuil's disease".
+In 1922, Schiefferdecker hypothesized a pathogenic link between "acne inversa" and human sweat glands.
+In 1956, Pillsbury et al. coined the term follicular occlusion triad for the common association of hidradenitis suppurativa, acne conglobata and dissecting cellulitis of the scalp. Modern clinical research still employs Pillsbury's terminology for these conditions' descriptions.
+In 1975, Plewig and Kligman, following Pillsbury's research path, modified the "acne triad", replacing it with the "acne tetrad: acne triad, plus pilonidal sinus". Plewig and Kligman's research follows in Pillsbury's footsteps, offering explanations of the symptoms associated with hidradenitis suppurativa.
+In 1989, Plewig and Steger's research led them to rename hidradenitis suppurativa, calling it "acne inversa" – which is not still used today in medical terminology, although some individuals still use this outdated term.
+A surgeon from Paris, Velpeau described an unusual inflammatory process with formation of superficial axillary, submammary, and perianal abscesses, in a series of three publications from 1833 to 1839. One of his colleagues, also located in Paris, named Verneuil, coined the term hidrosadénite phlegmoneuse about 15 years later. This name for the disease reflects the former pathogenetic model of acne inversa, which is considered inflammation of sweat glands as the primary cause of hidradenitis suppurativa. In 1922, Schiefferdecker suspected a pathogenic association between acne inversa and apocrine sweat glands. In 1956, Pillsbury postulated follicular occlusion as the cause of acne inversa, which they grouped together with acne conglobata and perifolliculitis capitis abscendens et suffodiens ("dissecting cellulitis of the scalp") as the "acne triad". Plewig and Kligman added another element to their acne triad, pilonidal sinus. Plewig et al. noted that this new "acne tetrad" includes all the elements found in the original "acne triad", in addition to a fourth element, pilonidal sinus. In 1989, Plewig and Steger introduced the term "acne inversa", indicating a follicular source of the disease and replacing older terms such as "Verneuil disease".
+
+
+### Other names
+Hidradenitis suppurativa has been referred to by multiple names in the literature, as well as in various cultures.  Some of these are also used to describe different diseases, or specific instances of this disease.
+
+Acne conglobata – not really a synonym – this is a similar process, but in classic acne areas of chest and back
+Acne inversa – a proposed new term which has not gained widespread favor.
+Apocrine acne – an outdated term based on the disproven concept that apocrine glands are primarily involved, though many do have apocrine gland infection
+Apocrinitis – another outdated term based on the same thesis
+Fox-den disease – a term not used in medical literature, based on the deep fox den–like sinuses
+Hidradenitis supportiva – a misspelling
+Pyodermia fistulans significa – now considered archaic
+Verneuil's disease – recognizing the surgeon whose name is most often associated with the disorder as a result of his 1854–1865 studies
+
+
+### Histology
+
+
+## Society and culture
+
+
+### Experiences of people with HS
+HS can have a strong negative impact on people's lives, as well as physical and mental health. People with HS often feel stigmatised and embarrassed by their condition. Many try to hide the symptoms which can lead to impaired relationships and social isolation. A multidisciplinary approach by healthcare professionals, social support networks and psychological interventions can contribute to a better quality of life.
+Compared to other skin diseases, HS has one of the highest Dermatology Life Quality Index (DLQI) scores.
+
+
+## References
+
+
+## External links
+Hidradenitis suppurativa at American Academy of Dermatology Association
+Hidradenitis suppurativa at British Association of Dermatologists
+Hidradenitis Suppurativa Foundation

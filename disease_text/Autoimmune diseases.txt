@@ -1,0 +1,235 @@
+An autoimmune disease is a condition that results from an anomalous response of the adaptive immune system, wherein it mistakenly targets and attacks healthy, functioning parts of the body as if they were foreign organisms. It is estimated that there are more than 80 recognized autoimmune diseases, with recent scientific evidence suggesting the existence of potentially more than 100 distinct conditions. Nearly any body part can be involved.
+Autoimmune diseases are a separate class from autoinflammatory diseases. Both are characterized by an immune system malfunction which may cause similar symptoms, such as rash, swelling, or fatigue, but the cardinal cause or mechanism of the diseases are different. A key difference is a malfunction of the innate immune system in autoinflammatory diseases, whereas in autoimmune diseases there is a malfunction of the adaptive immune system.
+Symptoms of autoimmune diseases can significantly vary, primarily based on the specific type of the disease and the body part that it affects. Symptoms are often diverse and can be fleeting, fluctuating from mild to severe, and typically comprise low-grade fever, fatigue, and general malaise. However, some autoimmune diseases may present with more specific symptoms such as joint pain, skin rashes (e.g., urticaria), or neurological symptoms.
+The exact causes of autoimmune diseases remain unclear and are likely multifactorial, involving both genetic and environmental influences.  While some diseases like lupus exhibit familial aggregation, suggesting a genetic predisposition, other cases have been associated with infectious triggers or exposure to environmental factors, implying a complex interplay between genes and environment in their etiology.
+Some of the most common diseases that are generally categorized as autoimmune include celiac disease, type 1 diabetes, Graves' disease, inflammatory bowel diseases (such as Crohn's disease and ulcerative colitis), multiple sclerosis, alopecia areata, Addison's disease, pernicious anemia, psoriasis, rheumatoid arthritis, and systemic lupus erythematosus. Diagnosing autoimmune diseases can be challenging due to their diverse presentations and the transient nature of many symptoms.
+Treatment modalities for autoimmune diseases vary based on the type of disease and its severity.  Therapeutic approaches primarily aim to manage symptoms, reduce immune system activity, and maintain the body's ability to fight diseases. Nonsteroidal anti-inflammatory drugs (NSAIDs) and immunosuppressants are commonly used to reduce inflammation and control the overactive immune response. In certain cases, intravenous immunoglobulin may be administered to regulate the immune system. Despite these treatments often leading to symptom improvement, they usually do not offer a cure and long-term management is often required.
+In terms of prevalence, a UK study found that 10% of the population were affected by an autoimmune disease. Women are more commonly affected than men. Autoimmune diseases predominantly begin in adulthood, although they can start at any age. The initial recognition of autoimmune diseases dates back to the early 1900s, and since then, advancements in understanding and management of these conditions have been substantial, though much more is needed to fully unravel their complex etiology and pathophysiology.
+
+
+## Signs and symptoms
+
+Autoimmune diseases represent a vast and diverse category of disorders that, despite their differences, share some common symptomatic threads. These shared symptoms occur as a result of the body's immune system mistakenly attacking its own cells and tissues, causing inflammation and damage. However, due to the broad range of autoimmune diseases, the specific presentation of symptoms can significantly vary based on the type of disease, the organ systems affected, and individual factors such as age, sex, hormonal status, and environmental influences.
+An individual may simultaneously have more than one autoimmune disease (known as polyautoimmunity), further complicating the symptomatology.
+
+
+### Common symptoms
+Symptoms that are commonly associated with autoimmune diseases include:
+
+fatigue. This is the most common complaint of people with autoimmune disease. A 2015 US survey found that 98% of people with autoimmune diseases experienced fatigue, 89% said it was a "major issue", 68% said "fatigue is anything but normal. It is profound and prevents [them] from doing the simplest everyday tasks." and 59% said it was "probably the most debilitating symptom of having an AD."
+low-grade fever
+malaise (a general feeling of discomfort or unease)
+muscle aches
+joint pain
+skin rashes
+Specific autoimmune diseases have a wide range of other symptoms, with examples including dry mouth, dry eyes, tingling and numbness in parts of the body, unexpected weight loss or gain, and diarrhoea.
+
+
+### Patterns of symptom occurrence
+These symptoms often reflect the body's systemic inflammatory response. However, their occurrence and intensity can fluctuate over time, leading to periods of heightened disease activity, referred to as flare-ups, and periods of relative inactivity, known as remissions.
+The specific presentation of symptoms largely depends on the location and type of autoimmune response. For instance, in rheumatoid arthritis, an autoimmune disease primarily affecting the joints, symptoms typically include joint pain, swelling, and stiffness. On the other hand, type 1 diabetes, which results from an autoimmune attack on the insulin-producing cells of the pancreas, primarily presents with symptoms related to high blood sugar, such as increased thirst, frequent urination, and unexplained weight loss.
+
+
+### Commonly affected  body areas
+Commonly affected areas in autoimmune diseases include blood vessels, connective tissues, joints, muscles, red blood cells, skin, and endocrine glands such as the thyroid gland (in diseases like Hashimoto's thyroiditis and Graves' disease) and the pancreas (in type 1 diabetes). The impacts of these diseases can range from localized damage to certain tissues, alteration in organ growth and function, to more systemic effects when multiple tissues throughout the body are affected.
+
+
+### Value of tracking symptom occurrence
+The appearance of these signs and symptoms can not only provide clues for the diagnosis of an autoimmune condition, often in conjunction with tests for specific biological markers, but also help monitor disease progression and response to treatment. Ultimately, due to the diverse nature of autoimmune diseases, a multidimensional approach is often needed for the management of these conditions, taking into consideration the variety of symptoms and their impacts on individuals' lives.
+
+
+## Types
+
+While it is estimated that over 80 recognized types of autoimmune diseases exist, this section provides an overview of some of the most common and well-studied forms.
+
+
+### Coeliac disease
+Coeliac disease is an immune reaction to eating gluten, a protein found in wheat, barley, and rye.  For those with the disease, eating gluten triggers an immune response in the small intestine, leading to damage on the villi, small fingerlike projections that line the small intestine and promote nutrient absorption. This explains the increased risk of gastrointestinal cancers, as the gastrointestinal tract includes the esophagus, stomach, small intestine, large intestine, rectum, and anus, all areas that the ingested gluten would traverse in digestion. The incidence of gastrointestinal cancer can be partially reduced or eliminated if a patient removes gluten from their diet. Additionally, coeliac disease is correlated with lymphoproliferative disorders.
+
+
+### Graves' disease
+Graves' disease is a condition characterized by development of autoantibodies to thyroid-stimulating hormone (TSH) receptors (TRAb). The binding of TRAb autoantibodies to TSH receptor results in unregulated production and release of thyroid hormone, which can lead to stimulatory effects such as rapid heart rate, weight loss, nervousness, and irritability. Other symptoms more specific to Graves' disease include bulging eyes and swelling of the lower legs.
+
+
+### Inflammatory bowel disease
+Inflammatory bowel disease (IBD) encompasses conditions characterized by chronic inflammation of the digestive tract, including Crohn's disease and ulcerative colitis. In both cases, individuals with IBD lose immune tolerance for normal bacteria present in the gut microbiome. Symptoms include severe diarrhea, abdominal pain, fatigue, and weight loss. IBD is associated with cancers of the gastrointestinal tract and some lymphoproliferative cancers.
+
+
+### Multiple sclerosis
+Multiple sclerosis (MS) is a neurodegenerative disease in which the immune system attacks myelin, a protective covering of nerve fibers in the central nervous system, causing communication problems between the brain and the rest of the body. Symptoms can include fatigue, difficulty walking, numbness or tingling, muscle weakness, and problems with coordination and balance. MS is associated with an increased risk of central nervous system cancer, primarily in the brain.
+
+
+### Rheumatoid arthritis
+Rheumatoid arthritis (RA) primarily targets the joints, causing persistent inflammation that results in joint damage and pain. It is often symmetrical, meaning that if one hand or knee has it, the other one does too. RA can also affect the heart, lungs, and eyes. Additionally, the chronic inflammation and over-activation of the immune system creates an environment that favors further malignant transformation of other cells, perhaps explaining the associations with cancer of the lungs and skin as well as the increased risk of other hematologic cancers, none of which are directly affected by the inflammation of joints.
+
+
+### Psoriasis and psoriatic arthritis
+Psoriasis is a skin condition characterized by the rapid buildup of skin cells, leading to scaling on the skin's surface. Inflammation and redness around the scales is common. Some individuals with psoriasis also develop psoriatic arthritis, which causes joint pain, stiffness, and swelling.
+
+
+### Sjögren's syndrome
+Sjögren syndrome (SjS, SS) is a long-term autoimmune disease that affects the body's moisture-producing glands (lacrimal and salivary), and often seriously affects other organ systems, such as the lungs, kidneys, and nervous system.
+
+
+### Systemic lupus erythematosus
+Systemic lupus erythematosus (SLE), referred to simply as lupus, is a systemic autoimmune disease that affects multiple organs, including the skin, joints, kidneys, and the nervous system. It is characterized by a widespread loss of immune tolerance. The disease is characterized by periods of flares and remissions, and symptoms range from mild to severe. Women, especially those of childbearing age, are disproportionately affected.
+
+
+### Type 1 diabetes
+Type 1 diabetes is a condition resulting from the immune system attacking insulin-producing beta cells in the pancreas, leading to high blood sugar levels. Symptoms include increased thirst, frequent urination, and unexplained weight loss. It is most commonly diagnosed in children and young adults.
+
+
+### Undifferentiated connective tissue disease
+Undifferentiated connective tissue disease (UCTD) occurs when people have features of connective tissue disease, such as blood test results and external characteristics, but do not fulfill the diagnostic criteria established for any one connective tissue disease. Some 30–40% transition to a specific connective tissue disease over time.
+
+
+## Causes
+The exact causes of autoimmune diseases remain largely unknown; however, research has suggested that a combination of genetic, environmental, and hormonal factors, as well as certain infections, may contribute to the development of these disorders.
+The human immune system is equipped with several mechanisms to maintain a delicate balance between defending against foreign invaders and protecting its own cells. To achieve this, it generates both T cells and B cells, which are capable of reacting with self-proteins. However, in a healthy immune response, self-reactive cells are generally either eliminated before they become active, rendered inert via a process called anergy, or their activities are suppressed by regulatory cells.
+
+
+### Genetics
+A familial tendency to develop autoimmune diseases suggests a genetic component. Some conditions, like lupus and multiple sclerosis, often occur in several members of the same family, indicating a potential hereditary link. Additionally, certain genes have been identified that increase the risk of developing specific autoimmune diseases.
+
+
+#### Genetic predisposition
+Evidence suggests a strong genetic component in the development of autoimmune diseases. For instance, conditions such as lupus and multiple sclerosis frequently appear in multiple members of the same family, signifying a potential hereditary link. Furthermore, certain genes have been identified that augment the risk of developing specific autoimmune diseases.
+Experimental methods like genome-wide association studies (GWAS) have proven instrumental in pinpointing genetic risk variants potentially responsible for autoimmune diseases. For example, these studies have been used to identify risk variants for diseases such as type 1 diabetes and rheumatoid arthritis.
+In twin studies, autoimmune diseases consistently demonstrate a higher concordance rate among identical twins compared with fraternal twins. For instance, the rate in multiple sclerosis is 35% in identical twins compared to 6% in fraternal twins.
+
+
+#### Balancing infection and autoimmunity
+There is increasing evidence that certain genes selected during evolution offer a balance between susceptibility to infection and the capacity to avoid autoimmune diseases. For example, variants in the ERAP2 gene provide some resistance to infection even though they increase the risk of autoimmunity (positive selection). In contrast, variants in the TYK2 gene protect against autoimmune diseases but increase the risk of infection (negative selection). This suggests the benefits of infection resistance may outweigh the risks of autoimmune diseases, particularly given the historically high risk of infection.
+Several experimental methods such as the genome-wide association studies (GWAS) have been used to identify genetic risk variants that may be responsible for diseases such as type 1 diabetes and rheumatoid arthritis.
+
+
+### Environmental factors
+A significant number of environmental factors have been implicated in the development and progression of various autoimmune diseases, either directly or as catalysts. Current research suggests that up to seventy percent of autoimmune diseases could be attributed to environmental influences, which encompass an array of elements such as chemicals, infectious agents, dietary habits, and gut dysbiosis. However, a unifying theory that definitively explains the onset of autoimmune diseases remains elusive, emphasizing the complexity and multifaceted nature of these conditions.
+Various environmental triggers are identified, some of which include:
+
+Impaired oral tolerance
+Gut dysbiosis
+Increased gut permeability
+Heightened immune reactivity
+Chemicals, which are either a part of the immediate environment or found in drugs, are key players in this context. Examples of such chemicals include hydrazines, hair dyes, trichloroethylene, tartrazines, hazardous wastes, and industrial emissions.
+Ultraviolet (UV) radiation has been implicated as a potential causative factor in the development of autoimmune diseases, such as dermatomyositis. Furthermore, exposure to pesticides has been linked with an increased risk of developing rheumatoid arthritis. Vitamin D, on the other hand, appears to play a protective role, particularly in older populations, by preventing immune dysfunctions.
+Infectious agents are also being increasingly recognized for their role as T cell activators — a crucial step in triggering autoimmune diseases. The exact mechanisms by which they contribute to disease onset remain to be fully understood. For instance, certain autoimmune conditions like Guillain-Barre syndrome and rheumatic fever are thought to be triggered by infections. Furthermore, analysis of large-scale data has revealed a significant link between SARS-CoV-2 infection (the causative agent of COVID-19) and an increased risk of developing a wide range of new-onset autoimmune diseases.
+
+
+### Sex
+Women typically make up some 80% of autoimmune disease patients. Whilst many proposals have been made for the cause of this high weighting, no clear explanation is available. A possible role for hormonal factors has been suggested. For example, some autoimmune diseases tend to flare during pregnancy (possibly as an evolutionary mechanism to increase health protection for the child), when hormone levels are high, and improve after menopause, when hormone levels decrease. Women may also naturally have autoimmune disease trigger events in puberty and pregnancy. Under-reporting by men may also be a factor, as men may interact less with the health system than women.
+
+
+### Infections
+Certain viral and bacterial infections have been linked to autoimmune diseases. For instance, research suggests that the bacterium that causes strep throat, Streptococcus pyogenes, might trigger rheumatic fever, an autoimmune response affecting the heart. Similarly, some studies propose a link between the Epstein–Barr virus, responsible for mononucleosis, and the subsequent development of multiple sclerosis or lupus.
+
+
+### Dysregulated immune response
+Another area of interest is the immune system's ability to distinguish between self and non-self, a function that is compromised in autoimmune diseases. In healthy individuals, immune tolerance prevents the immune system from attacking the body's own cells. When this process fails, the immune system may produce antibodies against its own tissues, leading to an autoimmune response.
+
+
+### Negative selection and the role of the thymus
+The elimination of self-reactive T cells occurs primarily through a mechanism known as "negative selection" within the thymus, an organ responsible for the maturation of T cells. This process serves as a key line of defense against autoimmunity. If these protective mechanisms fail, a pool of self-reactive cells can become functional within the immune system, contributing to the development of autoimmune diseases.
+
+
+### Molecular mimicry
+Some infectious agents, like Campylobacter jejuni, bear antigens that resemble, but are not identical to, the body's self-molecules. This phenomenon, known as molecular mimicry, can lead to cross-reactivity, where the immune response to such infections inadvertently results in the production of antibodies that also react with self-antigens. An example of this is Guillain–Barré syndrome, in which antibodies generated in response to a C. jejuni infection also react with the gangliosides in the myelin sheath of peripheral nerve axons.
+
+
+## Diagnosis
+Diagnosing autoimmune disorders can be complex due to the wide range of diseases within this category and their often overlapping symptoms. Accurate diagnosis is crucial for determining appropriate treatment strategies. Generally, the diagnostic process involves a combination of medical history evaluation, physical examination, laboratory tests, and, in some cases, imaging or biopsies.
+
+
+### Medical history and examination
+The first step in diagnosing autoimmune disorders typically involves a thorough evaluation of the patient's medical history and a comprehensive physical examination. Clinicians often pay close attention to the patient's symptoms, family history of autoimmune diseases, and any exposure to environmental factors that might trigger an autoimmune response. The physical examination can reveal signs of inflammation or organ damage, which are common features of autoimmune disorders.
+
+
+### Laboratory tests
+Laboratory testing plays a pivotal role in the diagnosis of autoimmune diseases. These tests can identify the presence of certain autoantibodies or other immune markers that indicate a self-directed immune response.
+
+Autoantibody testing: Many autoimmune diseases are characterized by the presence of autoantibodies. Blood tests can identify these antibodies, which are directed against the body's own tissues. For example, antinuclear antibody (ANA) testing is commonly used in the diagnosis of systemic lupus erythematosus (SLE) and other autoimmune diseases.
+Complete Blood Count (CBC): A CBC can provide valuable information about the number and characteristics of different blood cells, which can be affected in some autoimmune diseases.
+C-Reactive Protein (CRP) and Erythrocyte Sedimentation Rate (ESR): These tests measure the levels of inflammation in the body, which is often elevated in autoimmune disorders.
+Organ-specific tests: Certain autoimmune diseases target specific organs, so tests to evaluate the function of these organs can aid in diagnosis. For example, thyroid function tests are used in diagnosing autoimmune thyroid disorders, while a biopsy can diagnose celiac disease by identifying damage to the small intestine.
+
+
+### Imaging studies
+In some cases, imaging studies may be used to assess the extent of organ involvement and damage. For example, chest x-rays or CT scans can identify lung involvement in diseases like rheumatoid arthritis or systemic lupus erythematosus, while an MRI can reveal inflammation or damage in the brain and spinal cord in multiple sclerosis.
+
+
+### Differential diagnosis
+Given the variety and nonspecific nature of symptoms that can be associated with autoimmune diseases, differential diagnosis—determining which of several diseases with similar symptoms is causing a patient's illness—is an important part of the diagnostic process. This often involves ruling out other potential causes of symptoms, such as infections, malignancies, or genetic disorders.
+
+
+### Multidisciplinary approach
+Given the systemic nature of many autoimmune disorders, a multidisciplinary approach may be necessary for their diagnosis and management. This can involve rheumatologists, endocrinologists, gastroenterologists, neurologists, dermatologists, and other specialists, depending on the organs or systems affected by the disease.
+In summary, the diagnosis of autoimmune disorders is a complex process that requires a thorough evaluation of clinical, laboratory, and imaging data. Due to the diverse nature of these diseases, an individualized approach, often involving multiple specialists, is crucial for an accurate diagnosis.
+
+
+## Treatment
+Treatment depends on the type and severity of the condition. The majority of the autoimmune diseases are chronic and there is no definitive cure, but symptoms can be alleviated and controlled with treatment.
+Standard treatment methods include:
+
+Vitamin or hormone supplements for what the body is lacking due to the disease (insulin, vitamin B12, thyroid hormone, etc.)
+Blood transfusions if the disease is blood related
+Physical therapy if the disease impacts bones, joints, or muscles
+Traditional treatment options include immunosuppressant drugs to reduce the immune response against the body's own tissues, such as:
+
+Non-steroidal anti-inflammatory drugs (NSAIDs) to reduce inflammation
+Glucocorticoids to reduce inflammation
+Disease-modifying anti-rheumatic drugs (DMARDs) to decrease the damaging tissue and organ effects of the inflammatory autoimmune response
+Because immunosuppressants weaken the overall immune response, relief of symptoms must be balanced with preserving the patient's ability to combat infections, which could potentially be life-threatening.
+Non-traditional treatments are being researched, developed, and used, especially when traditional treatments fail. These methods aim to either block the activation of pathogenic cells in the body, or alter the pathway that suppresses these cells naturally. These treatments aim to be less toxic to the patient and have more specific targets. Such options include:
+
+Monoclonal antibodies that can be used to block pro-inflammatory cytokines
+Antigen-specific immunotherapy which allows immune cells to specifically target the abnormal cells that cause autoimmune disease
+Co-stimulatory blockade that works to block the pathway that leads to the autoimmune response
+Regulatory T cell therapy that utilizes this special type of T cell to suppress the autoimmune response
+Thymoquinone, a compound found the flower Nigella sativa, has been studied for potential in treating several autoimmune diseases due to its effects on inflammation.
+Manage Autoimmune Disorders with Yoga: Yoga, an ancient practice that integrates physical postures, breath control, and meditation, has shown promise in managing autoimmune disorders. Research indicates that regular yoga practice can reduce stress, a known trigger for autoimmune flare-ups, by promoting relaxation and mental clarity.
+
+
+## Epidemiology
+The first estimate of US prevalence for autoimmune diseases as a group was published in 1997 by Jacobson, et al. They reported US prevalence to be around 9 million, applying prevalence estimates for 24 diseases to a US population of 279 million. Jacobson's work was updated by Hayter & Cook in 2012. This study used Witebsky's postulates, as revised by Rose & Bona, to extend the list to 81 diseases and estimated overall cumulative US prevalence for the 81 autoimmune diseases at 5.0%, with 3.0% for males and 7.1% for females.
+The estimated community prevalence, which takes into account the observation that many people have more than one autoimmune disease, was 4.5% overall, with 2.7% for males and 6.4% for females. National Health and Nutrition Examination Surveys conducted in the US from the 1980s to 2020 showed an increase of antinuclear antibodies, a common biomarker for autoimmune diseases. This shows that there has been an increase in the prevalence of autoimmune diseases pointing to a stronger influence of environment factors as a risk factor for autoimmune diseases.
+A 2024 estimate was that 1 in 15 people in the U.S. had at least one autoimmune disease.
+
+
+## Research
+In both autoimmune and inflammatory diseases, the condition arises through aberrant reactions of the human adaptive or innate immune systems. In autoimmunity, the patient's immune system is activated against the body's own proteins. In chronic inflammatory diseases, neutrophils and other leukocytes are constitutively recruited by cytokines and chemokines, resulting in tissue damage.
+Mitigation of inflammation by activation of anti-inflammatory genes and the suppression of inflammatory genes in immune cells is a promising therapeutic approach. There is a body of evidence that once the production of autoantibodies has been initialized, autoantibodies have the capacity to maintain their own production.
+
+
+### Stem-cell therapy
+
+Stem cell transplantation is being studied and has shown promising results in certain cases.
+Medical trials to replace the pancreatic β cells that are destroyed in type 1 diabetes are in progress.
+
+
+### Altered glycan theory
+According to this theory, the effector function of the immune response is mediated by the glycans (polysaccharides) displayed by the cells and humoral components of the immune system. Individuals with autoimmunity have alterations in their glycosylation profile such that a proinflammatory immune response is favored. It is further hypothesized that individual autoimmune diseases will have unique glycan signatures.
+
+
+### Hygiene hypothesis
+According to the hygiene hypothesis, high levels of cleanliness expose children to fewer antigens than in the past, causing their immune systems to become overactive and more likely to misidentify own tissues as foreign, resulting in autoimmune or allergic conditions such as asthma.
+
+
+### Vitamin D influence on immune response
+Vitamin D is known as an immune regulator that assists in the adaptive and innate immune response. A deficiency in vitamin D, from hereditary or environmental influence, can lead to a more inefficient and weaker immune response and seen as a contributing factor to the development of autoimmune diseases. With vitamin D present, vitamin D response elements (VDRE) are encoded and expressed via pattern recognition receptors (PRR) responses and the genes associated with those responses. The specific DNA target sequence expressed is known as 1,25-(OH)2D3. The expression of 1,25-(OH)2D3 can be induced by macrophages, dendritic cells, T-cells, and B-cells. In the presence of 1,25-(OH)2D3, the immune system's production of inflammatory cytokines are suppressed and more tolerogenic regulatory T-cells are expressed. This is due to vitamin D's influence on cell maturation, specifically T-cells, and their phenotype expression. Lack of 1,25-(OH)2D3 expression can lead to less tolerant regulatory T-cells, larger presentation of antigens to less tolerant T-cells, and increased inflammatory response.
+
+
+## See also
+Epigenetics of autoimmune disorders
+List of autoimmune diseases
+Immune dysregulation
+
+
+## References
+
+
+## Further reading
+
+
+## External links
+Autoimmune disorders at Curlie
+ Media related to Autoimmune diseases and disorders at Wikimedia Commons

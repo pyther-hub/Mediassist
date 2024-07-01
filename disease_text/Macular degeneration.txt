@@ -1,0 +1,230 @@
+Macular degeneration, also known as age-related macular degeneration (AMD or ARMD), is a medical condition which may result in blurred or no vision in the center of the visual field. Early on there are often no symptoms. Over time, however, some people experience a gradual worsening of vision that may affect one or both eyes. While it does not result in complete blindness, loss of central vision can make it hard to recognize faces, drive, read, or perform other activities of daily life. Visual hallucinations may also occur.
+Macular degeneration typically occurs in older people, and is caused by damage to the macula of the retina.  Genetic factors and smoking may play a role. The condition is diagnosed through a complete eye exam. Severity is divided into early, intermediate, and late types. The late type is additionally divided into "dry" and "wet" forms, with the dry form making up 90% of cases.
+The difference between the two forms is categorized by the change in the macula. Those with dry form AMD have drusen, cellular debris in their macula that gradually damages light-sensitive cells and leads to vision loss. In wet form AMD, blood vessels grow under the macula, causing blood and fluid to leak into the retina.
+Exercising, eating well, and not smoking may reduce the risk of macular degeneration. There is no cure or treatment that restores the vision already lost. In the wet form, anti-VEGF medication injected into the eye or, less commonly, laser coagulation or photodynamic therapy may slow worsening. Dietary antioxidant vitamins, minerals, and carotenoids do not appear to affect the onset; however, dietary supplements may slow the progression in those who already have the disease.
+Age-related macular degeneration is a main cause of central blindness among the working-aged population worldwide. As of 2022, it affects more than 200 million people globally with the prevalence expected to increase to 300 million people by 2040 as the proportion of elderly persons in the population increases. It affects females more frequently than males, and it is more common in those of European or North American ancestry. In 2013, it was the fourth most common cause of blindness, after cataracts, preterm birth, and glaucoma. It most commonly occurs in people over the age of fifty and in the United States is the most common cause of vision loss in this age group. About 0.4% of people between 50 and 60 have the disease, while it occurs in 0.7% of people 60 to 70, 2.3% of those 70 to 80, and nearly 12% of people over 80 years old.
+
+
+## Signs and symptoms
+
+Early or intermediate AMD may be asymptomatic, or it may present with blurred or decreased vision in one or both eyes. This may manifest initially as difficulty with reading or driving (especially in poorly lit areas). Other symptoms of AMD include distortion of vision and blind spots (especially in and around the central visual field).
+Other signs and symptoms of macular degeneration include:
+
+Distorted vision in the form of metamorphopsia, in which a grid of straight lines appears wavy and parts of the grid may appear blank: Patients often first notice this when looking at things like miniblinds in their home or telephone poles while driving. There may also be central scotomas, shadows or missing areas of vision
+Slow recovery of visual function after exposure to bright light (photostress test)
+Visual acuity drastically decreasing (two levels or more), e.g.: 20/20 to 20/80
+Blurred vision: Those with nonexudative (dry) macular degeneration may be asymptomatic or notice a gradual loss of central vision, whereas those with exudative (wet) macular degeneration often notice a rapid onset of vision loss (often caused by leakage and bleeding of abnormal blood vessels).
+Trouble discerning colors, specifically dark ones from dark ones and light ones from light ones
+A loss in contrast sensitivity
+Formed visual hallucinations and flashing lights have also been associated with severe visual loss secondary to wet AMD 
+Macular degeneration by itself will not lead to total blindness. For that matter, only a small number of people with visual impairment are totally blind. In almost all cases, some vision remains, mainly peripheral. Other complicating conditions may lead to such an acute condition (severe stroke or trauma, untreated glaucoma, etc.), but few macular degeneration patients experience total visual loss.
+The area of the macula constitutes only about 2.1% of the retina, and the remaining 97.9% (the peripheral field) remains unaffected by the disease. Even though the macula provides such a small fraction of the visual field, almost half of the visual cortex is devoted to processing macular information.
+In addition, people with dry macular degeneration often do not experience any symptoms but can experience gradual onset of blurry vision in one or both eyes. People with wet macular degeneration may experience acute onset of visual symptoms.
+
+
+## Risk factors
+Key risk factors are age, race/ethnicity, smoking, and family history. Advanced age is the strongest predictor of AMD, particularly over 50.
+
+
+### Race and ethnicity
+
+As illustrated by the Figure in this section, derived from data presented by the National Eye Institute of the United States, among those over 80 years of age, White individuals are more than 6-fold more likely to develop AMD than Black or Hispanic individuals. Thus, white background is a major risk factor for AMD.
+In Caucasian (White) skin, there is a specific group of polymorphic genes (with single nucleotide alterations) that encode for enzymes and transcription factors responsible for the early steps (including the first step, formation of L-DOPA from the amino acid tyrosine) of the melanin synthesis pathway.  Many of these enzymes and transcription factors are reviewed by Markiewicz and Idowu. Also, as reviewed by Sturm et al. “increasing intracellular concentrations of either tyrosine or L-DOPA both result in an increase in melanogenesis” or formation of the black pigment melanin.  Thus there appears to be an association between reduced L-DOPA production and white skin.  As suggested by the Figure and information in this section, reduced L-DOPA, resulting in white skin, appears to be associated with an increased risk of macular degeneration for white individuals over the age of 80.
+
+
+### Environment and lifestyle
+Smoking: Smoking tobacco increases the risk of AMD by two to three times that of someone who has never smoked, and may be the most important modifiable factor in its prevention. A review of previous studies found "a strong association between current smoking and AMD. ... Cigarette smoking is likely to have toxic effects on the retina."
+Hypertension (high blood pressure): In the ALIENOR study 2013, early and late AMD were not significantly associated with systolic or diastolic blood pressure (BP), hypertension, or use of antihypertensive medications, but elevated pulse pressure [(PP) systolic BP minus diastolic BP] was significantly associated with an increased risk of late AMD.
+Atherosclerosis
+High cholesterol: Elevated cholesterol may increase the risk of AMD
+Obesity: Abdominal obesity is a risk factor, especially among men
+Fat intake: Consuming high amounts of certain fats, including saturated fats, trans fats, and omega-6 fatty acids, likely contributes to AMD, while monounsaturated fats are potentially protective. In particular, omega-3 fatty acids may decrease the risk of AMD.
+Exposure to UV light from sunlight is maybe associated with an increased risk of developing AMD, although evidence is weaker than other causes.
+A digital screen does not radiate harmful energy against human eyes, but staring at the screen for a long time without pauses does increase eye strain. There is no evidence to support the claim that exposure to digital screens contributes to the risk of macular degeneration.
+
+
+### Genetics
+AMD is a highly heritable condition. Recurrence ratios for siblings of an affected individual are three- to six-fold higher than in the general population. Genetic linkage analysis has identified 5 sets of gene variants at three locations on different chromosomes (1, 6 and 10) as explaining at least 50% of the risk. These genes have roles regulating the immune response, inflammatory processes and homeostasis of the retina.  Variants of these genes give rise to different kinds of dysfunction in these processes. Over time, this results in accumulation of intracellular and extracellular metabolic debris.  This can cause scarring of the retina or breakdown of its vascularization.
+The list of genetic variations association with AMD include complement factors, apolipoprotein E, fibroblast growth factor 2, DNA excision repair protein, and age-related maculopathy susceptibility protein 2.
+Although genetic testing can lead to the identification of genetic variation which can predispose to AMD, the complex pathogenesis of the condition prevents the use of these tests in routine practice. Nevertheless, they can be useful in selecting patients for clinical trials and analysing their response to treatment. The three loci where identified gene variants are found are designated:
+
+Complement Factor H (CFH) on chromosome 1 at location 1q31.3
+HTRA serine peptidase 1/Age Related Maculopathy Susceptibility 2 (HTRA1/ARMS2) on chromosome 10 at location 10q26
+Complement Factor B/Complement Component 2 (CFB/CC2) on chromosome 6 at 6p21.3
+
+
+#### Specific genes
+Polymorphisms in genes for complement system proteins: Variation in the genes for the complement system proteins factor H (CFH), factor B (CFB) and factor 3 (C3), among others, are strongly associated with a person's risk for developing AMD. CFH is involved in inhibiting the inflammatory response. The mutation in CFH (Y402H) results in reduced ability of the protein to localise to and protect tissues such as the retina from complement overactivation. Absence of the complement factor H-related genes R3 and R1 protects against AMD. Two independent studies in 2007 showed a certain common mutation Arg80Gly in the C3 gene, which is a central protein of the complement system, is strongly associated with the occurrence of AMD. The authors of both papers consider their study to underscore the influence of the complement pathway in the pathogenesis of this disease.
+In two 2006 studies, another gene that has implications for the disease, called HTRA1 (encoding a secreted serine protease), was identified.
+Six mutations of the gene SERPING1 (Serpin Peptidase Inhibitor, Clade G (C1 Inhibitor), Member 1)  are associated with AMD. Mutations in this gene can also cause hereditary angioedema.
+Fibulin-5 mutation: Rare forms of the disease are caused by genetic defects in fibulin-5, in an autosomal dominant manner. In 2004, Stone et al. performed a screen on 402 AMD patients and revealed a statistically significant correlation between mutations in fibulin-5 and incidence of the disease.
+Mitochondrial-related gene polymorphisms such as that in the MT-ND2 molecule, predicts wet AMD.
+
+
+## Pathophysiology
+
+The pathogenesis of age-related macular degeneration is not well known, although some theories have been put forward, including oxidative stress, mitochondrial dysfunction, and inflammatory processes.
+The imbalance between the production of damaged cellular components and degradation leads to the accumulation of harmful products, for example, intracellular lipofuscin and extracellular drusen. Incipient atrophy is demarcated by areas of retinal pigment epithelium (RPE) thinning or depigmentation that precede geographic atrophy in the early stages of AMD. In advanced stages of AMD, atrophy of the RPE (geographic atrophy) and/or development of new blood vessels (neovascularization) result in the death of photoreceptors and central vision loss.
+In the dry (nonexudative) form, drusen accumulates between the retina and the choroid, causing atrophy and scarring to the retina. In the wet (exudative) form, which is more severe, blood vessels grow up from the choroid (neovascularization) behind the retina which can leak exudate and fluid and also cause hemorrhaging.
+Early work demonstrated a family of immune mediators was plentiful in drusen. Complement factor H (CFH) is an important inhibitor of this inflammatory cascade, and a disease-associated polymorphism in the CFH gene strongly associates with AMD. Thus an AMD pathophysiological model of chronic low grade complement activation and inflammation in the macula has been advanced. Lending credibility to this has been the discovery of disease-associated genetic polymorphisms in other elements of the complement cascade including complement component 3 (C3).
+A powerful predictor of AMD is found on chromosome 10q26 at LOC 387715. An insertion/deletion polymorphism at this site reduces expression of the ARMS2 gene though destabilization of its mRNA through deletion of the polyadenylation signal. ARMS2 protein may localize to the mitochondria and participate in energy metabolism, though much remains to be discovered about its function.
+Other gene markers of progression risk includes tissue inhibitor of metalloproteinase 3 (TIMP3), suggesting a role for extracellular matrix metabolism in AMD progression. Variations in cholesterol metabolising genes such as the hepatic lipase, cholesterol ester transferase, lipoprotein lipase and the ATP-binding cassette A1 correlate with disease progression. The early stigmata of disease, drusen, are rich in cholesterol, offering face validity to the results of genome-wide association studies.
+
+
+### Stages
+In AMD there is a progressive accumulation of characteristic yellow deposits, called drusen (buildup of extracellular proteins and lipids), in the macula (a part of the retina), between the retinal pigment epithelium and the underlying choroid. This accumulation is believed to damage the retina over time. Amyloid beta, which builds up in Alzheimer's disease brains, is one of the proteins that accumulate in AMD, which is a reason why AMD is sometimes called "Alzheimer's of the eye" or "Alzheimer's of the retina".
+AMD can be divided into 3 stages: early, intermediate, and late, based partially on the extent (size and number) of drusen.
+AMD-like pathology begins with small yellow deposits (drusen) in the macula, between the retinal pigment epithelium and the underlying choroid. Most people with these early changes (referred to as age-related maculopathy) still have good vision. People with drusen may or may not develop AMD. In fact, the majority of people over age 60 have drusen with no adverse effects. The risk of developing symptoms is higher when the drusen are large and numerous, and associated with the disturbance in the pigmented cell layer under the macula. Large and soft drusen are thought to be related to elevated cholesterol deposits.
+
+
+#### Early AMD
+Early AMD is diagnosed based on the presence of medium-sized drusen, about the width of an average human hair. Early AMD is usually asymptomatic.
+
+
+#### Intermediate AMD
+Intermediate AMD is diagnosed by large drusen and/or any retinal pigment abnormalities. Intermediate AMD may cause some vision loss, but, like early AMD, it is usually asymptomatic.
+Recently, subgroups of intermediate AMD have been identified, which have a very high risk of progression toward late AMD. This subgroup (depending on the precise definitions) is termed nascent GA and/or iRORA (incomplete retinal pigment epithelium and outer retinal atrophy). These 'high-risk' subgroups of intermediate AMD can be used to inform patients of theirs prognosis. In addition, these can be applied in clinical trials as endpoints.
+
+
+#### Late AMD
+In late AMD, enough retinal damage occurs that, in addition to drusen, people will also begin to experience symptomatic central vision loss. The damage can either be the development of atrophy or the onset of neovascular disease. Late AMD is further divided into two subtypes based on the types of damage: Geographic atrophy and Wet AMD (also called Neovascular AMD).
+
+
+=#### Dry AMD=
+Dry AMD (also called nonexudative AMD) is a broad designation, encompassing all forms of AMD that are not neovascular (wet AMD).  This includes early and intermediate forms of AMD, as well as the advanced form of dry AMD known as geographic atrophy.  Dry AMD patients tend to have minimal symptoms in the earlier stages; visual function loss occurs more often if the condition advances to geographic atrophy. Dry AMD accounts for 80–90% of cases and tends to progress slowly. In 10–20% of people, dry AMD progresses to the wet type.
+
+
+#### Geographic atrophy
+
+Geographic atrophy (also called atrophic AMD) is an advanced form of AMD in which progressive and irreversible loss of retinal cells leads to a loss of visual function. There are multiple layers that make up the retina, and in geographic atrophy, there are three specific layers that undergo atrophy: the choriocapillaris, retinal pigment epithelium, and the overlying photoreceptors.
+The three layers that undergo atrophy in geographic atrophy are all adjacent to each other. The photoreceptors are the most superficial and they are the cells that are responsible for converting energy from the light from the outside world, into an electrical signal to be sent to the brain. There are several functions of the retinal pigment epithelium. One of the main functions of the retinal pigment epithelium is to minimize oxidative stress. It does so by absorbing light, and thus preventing it from getting to the underlying layers. The layers underlying the retinal pigment epithelium are very vascularlized so they have very high oxygen tension. Thus, if light was to get to those layers, many free radicals would form and cause damage to nearby tissues. The deepest layer that undergoes atrophy in geographic atrophy is called the choriocappilaris. It is a capillary network that provides nutrients to the retinal pigment epithelium.
+The pathophysiology of geographic atrophy is still uncertain. Some studies questioned whether it was due to a deficient retinal pigment epithelium, leading to increased oxidative stress. Other studies have looked for inflammatory causes of damage. Thus far, the medical community is still not certain. Recent studies have begun to look at each layer individually. They found that decreased blood flow in the choriocapillaris precedes atrophy of the retinal pigment epithelium and the overlying photoreceptors. Since the choriocapillaris is a vascular layer, this may be used as an argument for why geographic atrophy could be a disease due to decreased blood flow.
+
+
+=#### Wet AMD=
+Neovascular or exudative AMD, the "wet" form of advanced AMD, causes vision loss due to abnormal blood vessel growth (choroidal neovascularization) in the choriocapillaris, through Bruch's membrane. It is usually, but not always, preceded by the dry form of AMD. The proliferation of abnormal blood vessels in the retina is stimulated by vascular endothelial growth factor (VEGF). Because these blood vessels are abnormal, these are also more fragile than typical blood vessels, which ultimately leads to blood and protein leakage below the macula. Bleeding, leaking, and scarring from these blood vessels eventually cause irreversible damage to the photoreceptors and rapid vision loss if left untreated.
+
+
+## Diagnosis
+
+Diagnosis of age-related macular degeneration depends on signs in the macula, not necessarily vision. Early diagnosis of AMD can prevent further visual deterioration and potentially improve vision.
+Diagnosis of dry (or early stage) AMD may include the following clinical examinations as well as procedures and tests:
+
+The transition from dry to wet AMD can happen rapidly, and if it is left untreated can lead to legal blindness in as little as six months. To prevent this from occurring and to initiate preventive strategies earlier in the disease process, dark adaptation testing may be performed. A dark adaptometer can detect subclinical AMD at least three years earlier than it is clinically evident.
+There is a loss of contrast sensitivity, so that contours, shadows, and color vision are less vivid. The loss in contrast sensitivity can be quickly and easily measured by a contrast sensitivity test like Pelli Robson performed either at home or by an eye specialist.
+When viewing an Amsler grid, some straight lines appear wavy and some patches appear blank
+When viewing a Snellen chart, at least 2 lines decline
+In dry macular degeneration, which occurs in 85–90 percent of AMD cases, drusen spots can be seen in Fundus photography
+Using an electroretinogram, points in the macula with a weak or absent response compared to a normal eye may be found
+Farnsworth-Munsell 100 hue test and Maximum Color Contrast Sensitivity test (MCCS) for assessing color acuity and color contrast sensitivity
+Optical coherence tomography is now used by most ophthalmologists in the diagnosis and the follow-up evaluation of the response to treatment with antiangiogenic drugs.
+Diagnosis of wet (or late stage) AMD may include the following in addition to the above tests:
+
+Preferential hyperacuity perimetry changes (for wet AMD). Preferential hyperacuity perimetry is a test that detects drastic changes in vision and involves the macula being stimulated with distorted patterns of dots and the patient identification of where in the visual field this occurs.
+In wet macular degeneration, angiography can visualize the leakage of bloodstream behind the macula. Fluorescein angiography allows for the identification and localization of abnormal vascular processes.
+
+
+### Histology
+Pigmentary changes in the retina –  In addition to the pigmented cells in the iris (the colored part of the eye), there are pigmented cells beneath the retina. As these cells break down and release their pigment, dark clumps of released pigment and later, areas that are less pigmented may appear
+Exudative changes: hemorrhages in the eye, hard exudates, subretinal/sub-RPE/intraretinal fluid
+Drusen, tiny accumulations of extracellular material that build up on the retina. While there is a tendency for drusen to be blamed for the progressive loss of vision, drusen deposits can be present in the retina without vision loss. Some patients with large deposits of drusen have normal visual acuity. If normal retinal reception and image transmission are sometimes possible in a retina when high concentrations of drusen are present, then, even if drusen can be implicated in the loss of visual function, there must be at least one other factor that accounts for the loss of vision.
+
+
+## Management
+Treatment of AMD varies depending on the category of the disease at the time of diagnosis. In general, treatment is aimed at slowing down the progression of AMD. As of 2018, there are no treatments to reverse the effects of AMD. Early-stage and intermediate-stage AMD is managed by modifying known risk factors such as smoking cessation, management of hypertension and atherosclerosis and making dietary modifications. For intermediate-stage AMD, management also includes antioxidant and mineral supplementation. Advanced-stage AMD is managed based on the presence of choroidal neovascularization (CNV): dry AMD (no CNV present) or wet AMD (CNV present). No effective treatments exist for dry AMD. The CNV present in wet AMD is managed with vascular endothelial growth factor (VEGF) inhibitors. Daily use of an Amsler grid or other home visual monitoring tools can be used to monitor for development of distorted vision, which may be a sign of disease progression.
+
+
+### Dietary supplements
+Dietary supplements may be suggested for people with AMD, with the goal of reducing damage to the cells in the retina with antioxidants. The formulations commonly suggested are known as AREDS. The specific vitamins and minerals in AREDS-1 are vitamin C (500 mg), zinc (80 mg), vitamin E (400 IU), copper (2 mg) and beta-carotene (15 mg). In the AREDS-2 formulation, lutein (10 mg) and zeaxanthin (2 mg) replaced beta-carotene due to the risk of lung cancer in smokers taking beta-carotene. There is some evidence to indicate that people with bilateral early or intermediate AMD, or intermediate AMD in one eye and advanced AMD in the other eye may benefit from vitamin and mineral supplementation. AREDS supplementation may help slow the progression to more severe forms of AMD and there is some evidence of improved visual acuity at 5 years. There is no evidence that micronutrient supplementation prevents AMD progression in those with severe disease or prevents disease onset in those without AMD.
+With regards to AREDS-1 compared with AREDS-2 formulations, there is only weak evidence comparing the effectiveness of each formulation and the effectiveness of lutein and zeaxanthin as a replacement in the AREDS-2 formulation.
+
+
+### Dry AMD
+Pegcetacoplan (Syfovre) and avacincaptad pegol (Izervay) are approved for medical use in the United States. In 2023 it was reported that the aging pigment lipofuscin can be broken down with the help of melanin and drugs through a newly discovered mechanism. The pigment lipofuscin plays a central role in the development of dry AMD and Stargardt's disease. The clinical development of this mechanism, which has the potential to clear Bruch's membrane and to reduce formation of Drusen,  is in preparation.
+
+
+### Wet AMD
+Ranibizumab, aflibercept, brolucizumab, and faricimab are approved VEGF inhibitors for the treatment of CNV in wet AMD. All three drugs are administered via intravitreal injection, meaning they are injected directly into the eye. Bevacizumab is another VEGF inhibitor that has been shown to have similar efficacy and safety as the previous two drugs, however, is not currently indicated for AMD. AMD can also be treated with laser coagulation therapy.
+A randomized control trial found that bevacizumab and ranibizumab had similar efficacy, and reported no significant increase in adverse events with bevacizumab. A 2014 Cochrane review found that the systemic safety of bevacizumab and ranibizumab are similar when used to treat neovascular AMD, except for gastrointestinal disorders. Bevacizumab however is not FDA approved for treatment of macular degeneration. A controversy in the UK involved the off-label use of cheaper bevacizumab over the approved, but expensive, ranibizumab. Ranibizumab is a smaller fragment, Fab fragment, of the parent bevacizumab molecule specifically designed for eye injections. Other approved antiangiogenic drugs for the treatment of neo-vascular AMD include pegaptanib and aflibercept.
+These anti-VEGF agents may be administered monthly or adaptively. For adaptive anti-VEGF treatment, two approaches are conventionally applied. In the case of pro re nata, the patient comes at fixed intervals, but treatment is only administered if an activity is detected (i.e., presence of fluid). In the case of treat-and-extend, the patients always receive treatment, but the interval to the next visit is extended if the lesion was inactive.
+Recently, researchers have started to apply AI algorithms to predict the future need for treatment.
+The American Academy of Ophthalmology practice guidelines do not recommend laser coagulation therapy for macular degeneration, but state that it may be useful in people with new blood vessels in the choroid outside of the fovea who don't respond to drug treatment.  There is strong evidence that laser coagulation will result in the disappearance of drusen but does not affect choroidal neovascularisation.  A 2007 Cochrane review on found that laser photocoagulation of new blood vessels in the choroid outside of the fovea is effective and economical method, but that the benefits are limited for vessels next to or below the fovea.
+Photodynamic therapy has also been used to treat wet AMD. The drug verteporfin is administered intravenously; light of a certain wavelength is then applied to the abnormal blood vessels. This activates the verteporfin destroying the vessels.
+Cataract surgery could improve visual outcomes for people with AMD, though there have been concerns about surgery increasing the progression of AMD. A randomized controlled trial found that people who underwent immediate cataract surgery (within two weeks) had improved visual acuity and better quality of life outcomes than those who underwent delayed cataract surgery (6 months).
+Radiotherapy has been proposed as a treatment for wet AMD but the evidence to support the use of modern stereotactic radiotherapy combined with anti-VEGF is currently uncertain and is awaiting the results of ongoing studies.
+Nucleoside reverse transcription inhibitors like they are used in anti-HIV therapy was associated with a reduced risk of developing atrophic macular degeneration. This is because Alu elements undergo L1 (protein)-mediated reverse transcription in the cytoplasm resulting in DNA synthesis. First clinical trials are being prepared as of January 2021.
+
+
+### Adaptive devices
+
+Because peripheral vision is not affected, persons with macular degeneration can learn to use their remaining vision to partially compensate. Assistance and resources are available in many countries and every state in the U.S. Classes for "independent living" are given and some technology can be obtained from a state department of rehabilitation.
+Adaptive devices can help people read. These include magnifying glasses, special eyeglass lenses, computer screen readers, electronic glasses, and TV systems that enlarge the reading material.
+Computer screen readers such as JAWS or Thunder work with standard Windows computers.
+Also, Apple devices provide a wide range of features (voice-over, screen readers, Braille etc.).
+Video cameras can be fed into standard or special-purpose computer monitors, and the image can be zoomed in and magnified. These systems often include a movable table to move the written material.
+Accessible publishing provides larger fonts for printed books, patterns to make tracking easier, audiobooks and DAISY books with both text and audio.
+
+
+## Epidemiology
+
+The prevalence of any age-related macular degeneration is higher in Europeans than in Asians and Africans. There is no difference in prevalence between Asians and Africans. The incidence of age-related macular degeneration and its associated features increases with age and is low in people <55 years of age. Smoking is the strongest modifiable risk factor. As of 2008, age-related macular degeneration accounts for more than 54% of all vision loss in the white population in the US. An estimated 8 million Americans are affected with early age-related macular degeneration, of whom over 1 million will develop advanced age-related macular degeneration within the next 5 years. In the UK, age-related macular degeneration is the cause of blindness in almost 42% of those who go blind aged 65–74 years, almost two-thirds of those aged 75–84 years, and almost three-quarters of those aged 85 years or older.
+
+
+## Research
+
+
+### Association with other age-related diseases
+Studies indicate drusen associated with AMD are similar in molecular composition to amyloid beta (Aβ) plaques and deposits in other age-related diseases such as Alzheimer's disease and atherosclerosis. This suggests that similar pathways may be involved in the etiologies of AMD and other age-related diseases.
+
+
+### Genetic testing
+Genetic testing can help identify whether a patient with AMD is at a greater risk of developing the condition and can inform disease progression. Genetic testing can also allow researchers to identify whether patients are more or less likely to respond to treatments, such anti-VEGF medication or complement inhibitors. However, there remain several challenges to using predictive tools which incorporate genetic variation in clinical practice. As well as our limited understanding of the way that different genetic variants and environmental factors interact to influence AMD risk, the single nucleotide polymorphisms which are common in the population have small effects on individual patients with AMD. Therefore, there is increasing interest in understanding the functional consequences of rare mutations, which often have more pronounced effects. Genetic testing to guide clinical management is not currently recommended.
+
+
+### Genome editing
+CRISPR-Cas9 genome editing may be used to treat wet age-related macular degeneration caused by VEGFA. Scientists described an approach in which engineered lentiviruses are injected into the affected anatomical regions for transient editing that could reduce the area of choroidal neovascularization by 63% without inducing undesired off-target edits or anti-Cas9 immune responses.
+
+
+### RPE, L-DOPA and Melanin in amelioration of wet AMD
+
+The retinal pigment epithelium (RPE) (see diagram) has an essential role in the eye. It secretes a large variety of factors including at least 22 proteins important in maintaining the structure, function and micro-environments on the two sides of the RPE. (The two sides of the RPE include the choroid side, where blood vessels form and bring nourishment to the eye, and the photoreceptor side, with rods and cones that receive light signals.) In particular, the RPE secretes vascular endothelial growth factor (VEGF) at its basement membrane, with the VEGF reaching the choriocapillaris to maintain proper blood vessel formation in the choroid region.
+Many factors, including genetic factors, hypoxia, oxidative stress and inflammatory stressors, may cause pathologic over-production of VEGF by the RPE. This over-production causes excess blood vessel formation in the choroid region (the choriocapillaris), which is a major cause of wet AMD.
+It was recently discovered that the aging pigment lipofuscin can be broken down with the help of melanin and drugs through a newly discovered mechanism (chemical excitation). The pigment lipofuscin plays a central role in the development of dry AMD and geographic atrophy. This breakdown can be supported by medication. This discovery can be translated into the development of a therapy to treat dry AMD.
+
+
+### Artificial intelligence for prediction
+Research is exploring if artificial intelligence can help in predicting wet AMD early enough to make prevention possible. A study tested an AI model for predicting whether people with wet AMD in one eye would develop it in the other within six months. Compared to doctors and optometrists the AI model predicted the development more accurately.
+
+
+## Other types
+There are a few other (rare) kinds of macular degeneration with similar symptoms but unrelated in etiology to Wet or Dry age-related macular degeneration. They are all genetic disorders that may occur in childhood or middle age.
+
+Vitelliform macular dystrophy
+Sorsby's fundus dystrophy is an autosomal dominant, retinal disease characterized by sudden acuity loss resulting from untreatable submacular neovascularisation
+Stargardt's disease (juvenile macular degeneration, STGD) is an autosomal recessive retinal disorder characterized by juvenile-onset macular dystrophy, alterations of the peripheral retina, and subretinal deposition of lipofuscin-like material.
+Similar symptoms with a very different etiology and different treatment can be caused by epiretinal membrane or macular pucker or any other condition affecting the macula, such as central serous retinopathy.
+
+
+## Notable cases
+Judi Dench
+Joan Plowright
+Peter Sallis
+
+
+## See also
+
+Ophthalmology
+Macula of retina
+Visual impairment
+Gene therapy for color blindness
+Gene therapy of the human retina
+Stem cell therapy for macular degeneration
+epiretinal membrane = macular pucker
+
+
+## References
+
+
+## External links
+
+Macular degeneration at Curlie

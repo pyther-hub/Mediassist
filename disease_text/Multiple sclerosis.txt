@@ -1,0 +1,302 @@
+Multiple sclerosis (MS) is an autoimmune disease in which the insulating covers of nerve cells in the brain and spinal cord are damaged. This damage disrupts the ability of parts of the nervous system to transmit signals, resulting in a range of signs and symptoms, including physical, mental, and sometimes psychiatric problems. Specific symptoms can include double vision, vision loss, eye pain, muscle weakness, and loss of sensation or coordination. MS takes several forms, with new symptoms either occurring in isolated attacks (relapsing forms) or building up over time (progressive forms). In the relapsing forms of MS, between attacks, symptoms may disappear completely, although some permanent neurological problems often remain, especially as the disease advances. In the progressive forms of MS, bodily function slowly deteriorates and disability worsens once symptoms manifest and will steadily continue to do so if the disease is left untreated.
+While the cause is unclear, the underlying mechanism is thought to be either destruction by the immune system or failure of the myelin-producing cells. Proposed causes for this include immune dysregulation, genetics, and environmental factors, such as viral infections. MS is usually diagnosed based on the presenting signs and symptoms and the results of supporting medical tests.
+No cure for multiple sclerosis is known. Current treatments are aimed at mitigating inflammation and resulting symptoms from acute flares and prevention of further attacks with disease-modifying medications. Physical therapy and occupational therapy, along with patient-centered symptom management, can help with people's ability to function. The long-term outcome is difficult to predict; better outcomes are more often seen in women, those who develop the disease early in life, those with a relapsing course, and those who initially experienced few attacks.
+Multiple sclerosis is the most common immune-mediated disorder affecting the central nervous system. Nearly one million people in the United States had MS in 2022, and in 2020, about 2.8 million people were affected globally, with rates varying widely in different regions and among different populations. The disease usually begins between the ages of 20 and 50 and is twice as common in women as in men. MS was first described in 1868 by French neurologist Jean-Martin Charcot.
+The name "multiple sclerosis" is short for multiple cerebro-spinal sclerosis, which refers to the numerous glial scars (or sclerae – essentially plaques or lesions) that develop on the white matter of the brain and spinal cord.
+
+
+## Signs and symptoms
+
+As MS lesions can affect any part of the central nervous system, a person with MS can have almost any neurological symptom or sign referable to the central nervous system.
+Fatigue is one of the most common symptoms of MS. Some 65% of people with MS  experience fatigue symptomatology, and of these some 15–40% report fatigue as their most disabling MS symptom.
+Autonomic, visual, motor, and sensory problems are also among the most common symptoms.
+The specific symptoms are determined by the locations of the lesions within the nervous system, and may include focal loss of sensitivity and/or changes in sensation in the limbs, such as feeling tingling, pins and needles, or numbness; limb motor weakness/pain, blurred vision, pronounced reflexes, muscle spasms, difficulty with ambulation, difficulties with coordination and balance (ataxia); problems with speech or swallowing, visual problems (optic neuritis manifesting as eye pain & vision loss, or nystagmus manifesting as double vision), fatigue, and bladder and bowel difficulties (such as urinary and/or fecal incontinence or retention), among others. When multiple sclerosis is more advanced, walking difficulties can occur and the risk of falling increases.
+Difficulties thinking and emotional problems such as depression or unstable mood are also common. The primary deficit in cognitive function that people with MS experience is slowed information-processing speed, with memory also commonly affected, and executive function less commonly. Intelligence, language, and semantic memory are usually preserved, and the level of cognitive impairment varies considerably between people with MS.
+Uhthoff's phenomenon, a worsening of symptoms due to exposure to higher-than-usual temperatures, and Lhermitte's sign, an electrical sensation that runs down the back when bending the neck, are particularly characteristic of MS, although may not always be present. Another presenting manifestation that is rare but highly suggestive of a demyelinating process such as MS is bilateral internuclear ophthalmoplegia, where the patient experiences double vision when attempting to move their gaze to the right & left.
+Some 60% or more of MS patients find their symptoms, particularly including fatigue, are affected by changes in their body heat.
+
+
+### Measures of disability
+The main measure of disability and severity is the expanded disability status scale (EDSS), with other measures such as the multiple sclerosis functional composite being increasingly used in research. EDSS is also correlated with falls in people with MS. While it is a popular measure, EDSS has been criticized for some of its limitations, such as relying too much on walking.
+
+
+## Disease course
+
+
+### Prodromal phase
+MS may have a prodromal phase in the years leading up to MS manifestation, characterized by psychiatric issues, cognitive impairment, and increased use of healthcare.
+
+
+### Onset
+The condition begins in 85% of cases as a clinically isolated syndrome (CIS) over a number of days with 45% having motor or sensory problems, 20% having optic neuritis, and 10% having symptoms related to brainstem dysfunction, while the remaining 25% have more than one of the previous difficulties. Regarding optic neuritis as the most common presenting symptom, people with MS notice sub-acute loss of vision, often associated with pain worsening on eye movement, and reduced colour vision. Early diagnosis of MS associated optic neuritis helps timely  initiation of MS targeted treatments. However for correct choice of treatment, it is crucial to adhere to established diagnostic criteria for optic neuritis due to the broad range of alternative causes, such as neuromyelitis optica spectrum disorder (NMOSD), and other autoimmune or infectious conditions. The course of symptoms occurs in two main patterns initially: either as episodes of sudden worsening that last a few days to months (called relapses, exacerbations, bouts, attacks, or flare-ups) followed by improvement (85% of cases) or as a gradual worsening over time without periods of recovery (10–15% of cases). A combination of these two patterns may also occur or people may start in a relapsing and remitting course that then becomes progressive later on.
+
+
+### Relapses
+Relapses are usually not predictable, occurring without warning. Exacerbations rarely occur more frequently than twice per year. Some relapses, however, are preceded by common triggers and they occur more frequently during spring and summer. Similarly, viral infections such as the common cold, influenza, or gastroenteritis increase their risk. Stress may also trigger an attack.
+Many events have been found not to affect rates of relapse requiring hospitalization including vaccination, breast feeding, physical trauma, and Uhthoff's phenomenon.
+
+
+### Pregnancy
+Many women with MS who become pregnant experience lower symptoms and fewer relapses. During the first months after delivery the risk increases. Overall, pregnancy does not seem to influence long-term disability.
+
+
+## Causes
+Multiple sclerosis is an autoimmune disease with a combination of genetic and environmental causes underlying it. Both T-cells and B-cells are involved, although T-cells are often considered to be the driving force of the disease. The causes of the disease are not fully understood. The Epstein-Barr Virus (EBV) has been shown to be directly present in the brain of most cases of multiple sclerosis and the virus is transcriptionally active in the infected cells. EBV nuclear antigens are believed to be involved in the pathogenesis of multiple sclerosis, but not all people with MS have signs of EBV infection. Dozens of human peptides have been identified in different cases of the disease, and while some have plausible links to infectious organisms or known environmental factors, others do not.
+
+
+### Immune dysregulation
+Failure of both central and peripheral nervous system clearance of autoreactive immune cells is implicated in the development of MS. The thymus is responsible for the immune system's central tolerance, where autoreactive T-cells are killed without being released into circulation. Via a similar mechanism, autoreactive B-cells in the bone marrow are killed. Some autoreactive T-cells & B-cells are able to escape these defense mechanisms, which is where peripheral immune tolerance defenses take action by preventing them from causing disease. However, these additional lines of defense can still fail. Further detail on immune dysregulation's role in MS is provided in the pathophysiology section of this article as well as here.
+
+
+### Infectious agents
+Early evidence suggested the association of several viruses with human demyelinating encephalomyelitis, and the occurrence of demyelination in animals caused by some viral infections. One such virus, Epstein-Barr herpes virus (EBV), can cause infectious mononucleosis and infects about 95% of adults, though only a small proportion of those infected with EBV later develop MS. A study of more than 10 million US military members compared 801 people who developed MS to 1,566 matched controls who did not develop MS. The study found a 32-fold increased risk of developing MS after infection with EBV. It did not find an increased risk after infection with other viruses, including the similar   cytomegalovirus. The finding strongly suggests that EBV plays a role in the onset of MS, although EBV alone may be insufficient to cause it.
+The nuclear antigen of EBV, which is the most consistent marker of EBV infection across all strains, has been identified as a direct source of autoreactivity in the human body. These antigens appear to be more likely to promote autoimmune responses in a person who also has a vitamin D deficiency. The exact nature of this relationship is poorly understood.
+
+
+### Genetics
+
+MS is not considered a hereditary disease, but several genetic variations have been shown to increase the risk. Some of these genes appear to have higher levels of expression in microglial cells than expected by chance. The probability of developing the disease is higher in relatives of an affected person, with a greater risk among those more closely related. An identical twin of an affected individual has a 30% chance of developing MS, 5% for a nonidentical twin, 2.5% for a sibling, and an even lower chance for a half sibling. If both parents are affected, the risk in their children is 10 times that of the general population. MS is also more common in some ethnic groups than others.
+Specific genes that have been linked with MS include differences in the human leukocyte antigen (HLA) system—a group of genes on chromosome 6 that serves as the major histocompatibility complex (MHC). That differences in the HLA region are related to susceptibility has been known since the 1980s, and this same region has also been implicated in the development of other autoimmune diseases, such as diabetes type I and systemic lupus erythematosus. The most consistent finding is the association between higher risk of developing multiple sclerosis and the MHC allele DR15, which is present in 30% of the U.S. population and Northern European population. Other loci have shown a protective effect, such as HLA-C554 and HLA-DRB1*11. HLA differences account for an estimated 20 to 60% of the genetic predisposition. Modern genetic methods (genome-wide association studies) have revealed at least 200 variants outside the HLA locus that modestly increase the probability of MS.
+
+
+### Geography
+
+The prevalence of MS from a geographic standpoint resembles a gradient, with MS being more common in people who live farther from the equator (e.g. those who live in northern regions of the world), although exceptions exist. The cause of this geographical pattern is not clear, although exposure to ultraviolet B (UVB) radiation and vitamin D levels have been proposed as potential explanations. As such, those who live in northern regions of the world are thought to have less exposure to UVB radiation and subsequently lower levels of vitamin D, which is a known risk factor for developing MS. Inversely, those who live in areas of relatively higher sun exposure and subsequently increased UVB radiation have a decreased risk of developing MS. While the north–south gradient of incidence is decreasing, as of 2010 it is still present.
+MS is more common in regions with northern European populations, so the geographic variation may simply reflect the global distribution of these high-risk populations.
+A relationship between season of birth and MS lends support to this idea, with fewer people born in the Northern Hemisphere in November compared to May being affected later in life.
+Environmental factors may play a role during childhood, with several studies finding that people who move to a different region of the world before the age of 15 acquire the new region's risk of MS. If migration takes place after age 15, the persons retain the risk of their home country. Some evidence indicates that the effect of moving may still apply to people older than 15.
+There are some exceptions to the above mentioned geographic pattern. These include ethnic groups that are at low risk and that live far from the equator such as the Sami, Amerindians, Canadian Hutterites, New Zealand Māori, and Canada's Inuit, as well as groups that have a relatively high risk and that live closer to the equator such as Sardinians, inland Sicilians, Palestinians, and Parsi.
+
+
+### Impact of heat or cold
+MS symptoms may increase if body temperature is high or low. Fatigue is particularly effected.
+
+
+### Other
+Smoking may be an independent risk factor for MS. Stress may be a risk factor, although the evidence to support this is weak. Association with occupational exposures and toxins—mainly organic solvents—has been evaluated, but no clear conclusions have been reached. Vaccinations were studied as causal factors; most studies, though, show no association. Several other possible risk factors, such as diet and hormone intake, have been evaluated, but evidence on their relation with the disease is "sparse and unpersuasive". Gout occurs less than would be expected and lower levels of uric acid have been found in people with MS. This has led to the theory that uric acid is protective, although its exact importance remains unknown. Obesity during adolescence and young adulthood is a risk factor for MS.
+
+
+## Pathophysiology
+
+Multiple sclerosis is an autoimmune disease, primarily mediated by T-cells. The three main characteristics of MS are the formation of lesions in the central nervous system (also called plaques), inflammation, and the destruction of myelin sheaths of neurons. These features interact in a complex and not yet fully understood manner to produce the breakdown of nerve tissue, and in turn, the signs and symptoms of the disease. Damage is believed to be caused, at least in part, by attack on the nervous system by a person's own immune system.
+
+
+### Immune dysregulation
+As briefly detailed in the causes section of this article, MS is currently thought to stem from a failure of the body's immune system to kill off autoreactive T-cells & B-cells. Currently, the T-cell subpopulations that are thought to drive the development of MS are autoreactive CD8+ T-cells, CD4+ helper T-cells, and TH17 cells. These autoreactive T-cells produce substances called cytokines that induce an inflammatory immune response in the CNS, leading to the development of the disease. More recently, however, the role of autoreactive B-cells has been elucidated. Evidence of their contribution to the development of MS is implicated through the presence of oligoclonal IgG bands (antibodies produced by B-cells) in the CSF of patients with MS. The presence of these oligoclonal bands has been used as supportive evidence in clinching a diagnosis of MS. As similarly described before, B-cells can also produce cytokines that induce an inflammatory immune response via activation of autoreactive T-cells. As such, higher levels of these autoreactive B-cells is associated with increased number of lesions & neurodegeneration as well as worse disability.
+Another cell population that is becoming increasingly implicated in MS are microglia. These cells are resident to & keep watch over the CNS, responding to pathogens by shifting between pro- & anti-inflammatory states. Microglia have been shown to be involved in the formation of MS lesions and have been shown to be involved in other diseases that primarily affect the CNS white matter. Although, because of their ability to switch between pro- & anti-inflammatory states, microglia have also been shown to be able to assist in remyelination & subsequent neuron repair. As such, microglia are thought to be participating in both acute & chronic MS lesions, with 40% of phagocytic cells in early active MS lesions being proinflammatory microglia.
+
+
+### Lesions
+
+The name multiple sclerosis refers to the scars (sclerae – better known as plaques or lesions) that form in the nervous system. These lesions most commonly affect the white matter in the optic nerve, brain stem, basal ganglia, and spinal cord, or white matter tracts close to the lateral ventricles. The function of white matter cells is to carry signals between grey matter areas, where the processing is done, and the rest of the body. The peripheral nervous system is rarely involved.
+
+To be specific, MS involves the loss of oligodendrocytes, the cells responsible for creating and maintaining a fatty layer—known as the myelin sheath—which helps the neurons carry electrical signals (action potentials). This results in a thinning or complete loss of myelin, and as the disease advances, the breakdown of the axons of neurons. When the myelin is lost, a neuron can no longer effectively conduct electrical signals. A repair process, called remyelination, takes place in early phases of the disease, but the oligodendrocytes are unable to completely rebuild the cell's myelin sheath. Repeated attacks lead to successively less effective remyelinations, until a scar-like plaque is built up around the damaged axons. These scars are the origin of the symptoms and during an attack magnetic resonance imaging (MRI) often shows more than 10 new plaques. This could indicate that some number of lesions exist, below which the brain is capable of repairing itself without producing noticeable consequences. Another process involved in the creation of lesions is an abnormal increase in the number of astrocytes due to the destruction of nearby neurons. A number of lesion patterns have been described.
+
+
+### Inflammation
+Apart from demyelination, the other sign of the disease is inflammation. Fitting with an immunological explanation, the inflammatory process is caused by T cells, a kind of lymphocytes that plays an important role in the body's defenses. T cells gain entry into the brain as a result of disruptions in the blood–brain barrier. The T cells recognize myelin as foreign and attack it, explaining why these cells are also called "autoreactive lymphocytes".
+The attack on myelin starts inflammatory processes, which trigger other immune cells and the release of soluble factors like cytokines and antibodies. A further breakdown of the blood-brain barrier, in turn, causes a number of other damaging effects, such as swelling, activation of macrophages, and more activation of cytokines and other destructive proteins. Inflammation can potentially reduce transmission of information between neurons in at least three ways. The soluble factors released might stop neurotransmission by intact neurons. These factors could lead to or enhance the loss of myelin, or they may cause the axon to break down completely.
+
+
+### Blood–brain barrier
+The blood–brain barrier (BBB) is a part of the capillary system that prevents the entry of T cells into the central nervous system. It may become permeable to these types of cells secondary to an infection by a virus or bacteria. After it repairs itself, typically once the infection has cleared, T cells may remain trapped inside the brain. Gadolinium cannot cross a normal BBB, so gadolinium-enhanced MRI is used to show BBB breakdowns.
+
+
+### MS fatigue
+The pathophysiology and mechanisms causing MS fatigue are not well understood. MS fatigue can be affected by body heat, and this may differentiate MS fatigue from other primary fatigue. Fatigability (loss of strength) may increase perception of fatigue, but the two measures warrant independent assessment in clinical studies.
+
+
+## Diagnosis
+
+ 
+Multiple sclerosis is typically diagnosed based on the presenting signs and symptoms, in combination with supporting medical imaging and laboratory testing. It can be difficult to confirm, especially early on, since the signs and symptoms may be similar to those of other medical problems.
+
+
+### McDonald criteria
+The McDonald criteria, which focus on clinical, laboratory, and radiologic evidence of lesions at different times and in different areas, is the most commonly used method of diagnosis with the Schumacher and Poser criteria being of mostly historical significance. The McDonald criteria states that patients with multiple sclerosis should have lesions which are disseminated in time (DIT) and disseminated in space (DIS), i.e. lesions which have appeared in different areas in the brain and at different times. Below is an abbreviated outline of the 2017 McDonald Criteria for diagnosis of MS.
+
+At least 2 clinical attacks with MRI showing 2 or more lesions characteristic of MS.
+At least 2 clinical attacks with MRI showing 1 lesion characteristic of MS with clear historical evidence of a previous attack involving a lesion at a distinct location in the CNS.
+At least 2 clinical attacks with MRI showing 1 lesion characteristic of MS, with DIT established by an additional clinical attack at a distinct CNS site or by MRI showing an old MS lesion.
+1 clinical attack with MRI showing at least 2 lesions characteristic of MS, with DIT established by an additional attack, by MRI showing old MS lesion(s), or presence of oligoclonal bands in CSF.
+1 clinical attack with MRI showing 1 lesion characteristic of MS, with DIS established by an additional attack at a different CNS site or by MRI showing old MS lesion(s), and DIT established by an additional attack, by MRI showing old MS lesion(s), or presence of oligoclonal bands in CSF.
+As of 2017, no single test (including biopsy) can provide a definitive diagnosis.
+
+
+### MRI
+Magnetic resonance imaging (MRI) of the brain and spine may show areas of demyelination (lesions or plaques). Gadolinium can be administered intravenously as a contrast agent to highlight active plaques, and by elimination, demonstrate the existence of historical lesions not associated with symptoms at the moment of the evaluation.
+Central vein signs (CVSs) have been proposed as a good indicator of MS in comparison with other conditions causing white lesions. One small study found fewer CVSs in older and hypertensive people. Further research on CVS as a biomarker for MS is ongoing.
+
+
+### Cerebrospinal fluid (lumbar puncture)
+Testing of cerebrospinal fluid obtained from a lumbar puncture can provide evidence of chronic inflammation in the central nervous system. The cerebrospinal fluid is tested for oligoclonal bands of IgG on electrophoresis, which are inflammation markers found in 75–85% of people with MS.
+
+
+### Differential diagnosis
+Several diseases present similarly to MS. Medical professionals use a patient's specific presentation, history, and exam findings to make an individualized differential. Red flags are findings that suggest an alternate diagnosis, although they do not rule out MS. Red flags include a patient younger than 15 or older than 60, less than 24 hours of symptoms, involvement of multiple cranial nerves, involvement of organs outside of the nervous system, and atypical lab and exam findings.
+In an emergency setting, it is important to rule out a stroke or bleeding in the brain. Intractable vomiting, severe optic neuritis, or bilateral optic neuritis raises suspicion for neuromyelitis optica spectrum disorder (NMOSD). Infectious diseases that may look similar to multiple sclerosis include HIV, Lyme disease, and syphilis. Autoimmune diseases include neurosarcoidosis, lupus, Guillain-Barré syndrome, acute disseminated encephalomyelitis, and Behçet's disease. Psychiatric conditions such as anxiety or conversion disorder may also present in a similar way. Other rare diseases on the differential include CNS lymphoma, congenital leukodystrophies, and anti-MOG-associated myelitis.
+
+
+## Types and variants
+
+Several phenotypes (commonly termed "types"), or patterns of progression, have been described. Phenotypes use the past course of the disease in an attempt to predict the future course. They are important not only for prognosis, but also for treatment decisions.
+The International Advisory Committee on Clinical Trials of MS describes four types of MS (revised in 2013) in what is known as the Lublin classification:
+
+Clinically isolated syndrome (CIS)
+Relapsing-remitting MS (RRMS)
+Primary progressive MS (PPMS)
+Secondary progressive MS (SPMS)
+CIS can be characterised as a single lesion seen on MRI which is associated with signs and/or symptoms found in MS. Due to the McDonald criteria, it does not completely fit the criteria to be diagnosed as MS, hence being named "clinically isolated syndrome". CIS can be seen as the first episode of demyelination in the central nervous system. To be classified as CIS, the attack must last at least 24 hours and be caused by inflammation or demyelination of the central nervous system. Patients who suffer from CIS may or may not go on to develop MS, but 30 to 70% of persons who experience CIS will later develop MS.
+RRMS is characterized by unpredictable relapses followed by periods of months to years of relative quiet (remission) with no new signs of disease activity. Deficits that occur during attacks may either resolve or leave problems, the latter in about 40% of attacks and being more common the longer a person has had the disease. This describes the initial course of 80% of individuals with MS.
+PPMS occurs in roughly 10–20% of individuals with the disease, with no remission after the initial symptoms. It is characterized by progression of disability from onset, with no, or only occasional and minor, remissions and improvements. The usual age of onset for the primary progressive subtype is later than of the relapsing-remitting subtype. It is similar to the age that secondary progressive usually begins in RRMS, around 40 years of age.
+SPMS occurs in around 65% of those with initial RRMS, who eventually have progressive neurologic decline between acute attacks without any definite periods of remission. Occasional relapses and minor remissions may appear. The most common length of time between disease onset and conversion from RRMS to SPMS is 19 years.
+
+
+### Special courses
+Independently of the types published by the MS associations, regulatory agencies such as the FDA often consider special courses, trying to reflect some clinical trials results on their approval documents. Some examples could be "highly active MS" (HAMS), "active secondary MS" (similar to the old progressive-relapsing) and "rapidly progressing PPMS".
+Also, deficits always resolving between attacks is sometimes referred to as "benign" MS, although people still build up some degree of disability in the long term. On the other hand, the term malignant multiple sclerosis is used to describe people with MS having reached significant level of disability in a short period.
+An international panel has published a standardized definition for the course HAMS.
+
+
+### Variants
+Atypical variants of MS have been described; these include tumefactive multiple sclerosis, Balo concentric sclerosis, Schilder's diffuse sclerosis, and Marburg multiple sclerosis. Debate remains on whether they are MS variants or different diseases. Some diseases previously considered MS variants, such as Devic's disease, are now considered outside the MS spectrum.
+
+
+## Management
+
+Although no cure for multiple sclerosis has been found, several therapies have proven helpful. Several effective treatments can decrease the number of attacks and the rate of progression. The primary aims of therapy are returning function after an attack, preventing new attacks, and preventing disability. Starting medications is generally recommended in people after the first attack when more than two lesions are seen on MRI.
+The first approved medications used to treat MS were modestly effective, though were poorly tolerated and had many adverse effects. Several treatment options with better safety and tolerability profiles have been introduced, improving the prognosis of MS.
+As with any medical treatment, medications used in the management of MS have several adverse effects. Alternative treatments are pursued by some people, despite the shortage of supporting evidence of efficacy.
+
+
+### Initial management of acute flare
+During symptomatic attacks, administration of high doses of intravenous corticosteroids, such as methylprednisolone, is the usual therapy, with oral corticosteroids seeming to have a similar efficacy and safety profile. Although effective in the short term for relieving symptoms, corticosteroid treatments do not appear to have a significant impact on long-term recovery. The long-term benefit is unclear in optic neuritis as of 2020. The consequences of severe attacks that do not respond to corticosteroids might be treatable by plasmapheresis.
+
+
+### Chronic management
+
+
+#### Relapsing remitting multiple sclerosis
+Multiple disease-modifying medications were approved by regulatory agencies for RRMS; they are modestly effective at decreasing the number of attacks. Interferons and glatiramer acetate are first-line treatments and are roughly equivalent, reducing relapses by approximately 30%. Early-initiated long-term therapy is safe and improves outcomes.
+Treatment of CIS with interferons decreases the chance of progressing to clinical MS. Efficacy of interferons and glatiramer acetate in children has been estimated to be roughly equivalent to that of adults. The role of some newer agents such as fingolimod, teriflunomide, and dimethyl fumarate, is not yet entirely clear. Making firm conclusions about the best treatment is difficult, especially regarding the long‐term benefit and safety of early treatment, given the lack of studies directly comparing disease-modifying therapies or long-term monitoring of patient outcomes.
+The relative effectiveness of different treatments is unclear, as most have only been compared to placebo or a small number of other therapies. Direct comparisons of interferons and glatiramer acetate indicate similar effects or only small differences in effects on relapse rate, disease progression, and MRI measures. There is high confidence that natalizumab, cladribine, or alemtuzumab are decreasing relapses over a period of two years for people with RRMS. Natalizumab and interferon beta-1a (Rebif) may reduce relapses compared to both placebo and interferon beta-1a (Avonex) while Interferon beta-1b (Betaseron), glatiramer acetate, and mitoxantrone may also prevent relapses. Evidence on relative effectiveness in reducing disability progression is unclear. There is moderate confidence that a two-year treatment with natalizumab slows disability progression for people with RRMS. All medications are associated with adverse effects that may influence their risk to benefit profiles.
+Ublituximab was approved for medical use in the United States in December 2022.
+
+
+### Medications
+Overview of medications available for MS.
+
+
+#### Progressive multiple sclerosis
+In 2011, mitoxantrone was the first medication approved for secondary progressive MS. In this population, tentative evidence supports mitoxantrone moderately slowing the progression of the disease and decreasing rates of relapses over two years.
+New approved medications continue to emerge in modern medicine. In March 2017, the FDA approved ocrelizumab as a treatment for primary progressive MS in adults, the first drug to gain that approval, with requirements for several Phase IV clinical trials. It is also used for the treatment of relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease in adults. According to a 2021 Cochrane review, ocrelizumab may reduce worsening of symptoms for primary progressive MS and probably increases unwanted effects but makes little or no difference to the number of serious unwanted effects.
+In 2019, siponimod and cladribine were approved in the United States for the treatment of secondary progressive multiple sclerosis (SPMS). Subsequently, ozanimod was approved in 2020, and ponesimod was approved in 2021, which were both approved for management of CIS, relapsing MS, and SPMS in the U.S., and RRMS in Europe.
+
+
+#### Adverse effects
+
+The disease-modifying treatments have several adverse effects. One of the most common is irritation at the injection site for glatiramer acetate and the interferons (up to 90% with subcutaneous injections and 33% with intramuscular injections). Over time, a visible dent at the injection site, due to the local destruction of fat tissue, known as lipoatrophy, may develop. Interferons may produce flu-like symptoms; some people taking glatiramer experience a post-injection reaction with flushing, chest tightness, heart palpitations, and anxiety, which usually lasts less than thirty minutes. More dangerous but much less common are liver damage from interferons, systolic dysfunction (12%), infertility, and acute myeloid leukemia (0.8%) from mitoxantrone, and progressive multifocal leukoencephalopathy occurring with natalizumab (occurring in 1 in 600 people treated).
+Fingolimod may give rise to hypertension and slowed heart rate, macular edema, elevated liver enzymes, or a reduction in lymphocyte levels. Tentative evidence supports the short-term safety of teriflunomide, with common side effects including: headaches, fatigue, nausea, hair loss, and limb pain. There have also been reports of liver failure and PML with its use and it is dangerous for fetal development. Most common side effects of dimethyl fumarate are flushing and gastrointestinal problems. While dimethyl fumarate may lead to a reduction in the white blood cell count there were no reported cases of opportunistic infections during trials.
+
+
+### Associated symptoms
+Both medications and neurorehabilitation have been shown to improve some symptoms, though neither changes the course of the disease. Some symptoms have a good response to medication, such as bladder spasticity, while others are little changed. Equipment such as catheters for neurogenic bladder dysfunction or mobility aids can be helpful in improving functional status.
+A multidisciplinary approach is important for improving quality of life; however, it is difficult to specify a 'core team' as many health services may be needed at different points in time. Multidisciplinary rehabilitation programs increase activity and participation of people with MS but do not influence impairment level. Studies investigating information provision in support of patient understanding and participation suggest that while interventions (written information, decision aids, coaching, educational programmes) may increase knowledge, the evidence of an effect on decision making and quality of life is mixed and low certainty. There is limited evidence for the overall efficacy of individual therapeutic disciplines, though there is good evidence that specific approaches, such as exercise, and psychological therapies are effective. Cognitive training, alone or combined with other neuropsychological interventions, may show positive effects for memory and attention though firm conclusions are not possible given small sample numbers, variable methodology, interventions and outcome measures. The effectiveness of palliative approaches in addition to standard care is uncertain, due to lack of evidence. The effectiveness of interventions, including exercise, specifically for the prevention of falls in people with MS is uncertain, while there is some evidence of an effect on balance function and mobility. Cognitive behavioral therapy has shown to be moderately effective for reducing MS fatigue. The evidence for the effectiveness of non-pharmacological interventions for chronic pain is insufficient to recommend such interventions alone, however their use in combination with medications may be reasonable.
+
+
+### Non-pharmaceutical
+There is some evidence that aquatic therapy is a beneficial intervention.
+The spasticity associated with MS can be difficult to manage because of the progressive and fluctuating course of the disease. Although there is no firm conclusion on the efficacy in reducing spasticity, PT interventions can be a safe and beneficial option for patients with multiple sclerosis. Physical therapy including vibration interventions, electrical stimulation, exercise therapy, standing therapy, and radial shock wave therapy (RSWT), were beneficial for limiting spasticity, helping limit excitability, or increasing range of motion.
+
+
+### Alternative treatments
+Over 50% of people with MS may use complementary and alternative medicine, although percentages vary depending on how alternative medicine is defined. Regarding the characteristics of users, they are more frequently women, have had MS for a longer time, tend to be more disabled and have lower levels of satisfaction with conventional healthcare. The evidence for the effectiveness for such treatments in most cases is weak or absent. Treatments of unproven benefit used by people with MS include dietary supplementation and regimens, vitamin D, relaxation techniques such as yoga, herbal medicine (including medical cannabis), hyperbaric oxygen therapy, self-infection with hookworms, reflexology, acupuncture, and mindfulness. Evidence suggests vitamin D supplementation, irrespective of the form and dose, provides no benefit for people with MS; this includes for measures such as relapse recurrence, disability, and MRI lesions while effects on health‐related quality of life and fatigue are unclear. There is insufficient evidence supporting high-dose biotin and some evidence for increased disease activity and higher risk of relapse with its use. A recent review of the effectiveness of Cannabis and Cannabinoids (2022) found that compared with placebo nabiximols probably reduce the severity of spasticity in the short term.
+
+
+## Prognosis
+The availability of treatments that modify the course of multiple sclerosis beginning in the 1990s, known as disease-modifying therapies (DMTs), has improved prognosis. These treatments can reduce relapses and slow progression, but there is no cure.
+The prognosis of MS depends on the subtype of the disease, and there is considerable individual variation in the progression of the disease. In relapsing MS, the most common subtype, a 2016 cohort study found that after a median of 16.8 years from onset, one in ten needed a walking aid, and almost two in ten transitioned to secondary progressive MS, a form characterized by more progressive decline. With treatments available in the 2020s, relapses can be eliminated or substantially reduced. However, "silent progression" of the disease still occurs.
+In addition to secondary progressive MS (SPMS), a small proportion of people with MS (10–15%) experience progressive decline from the onset, known as primary progressive MS (PPMS). Most treatments have been approved for use in relapsing MS; there are fewer treatments with lower efficacy for progressive forms of MS. The prognosis for progressive MS is worse, with faster accumulation of disability, though with considerable individual variation. In untreated PPMS, the median time from onset to requiring a walking aid is estimated as seven years. In SPMS, a 2014 cohort study reported that people required a walking aid after an average of five years from onset of SPMS, and were chair or bed-bound after an average of fifteen years.
+After diagnosis of MS, characteristics that predict a worse course are male sex, older age, and greater disability at the time of diagnosis; female sex is associated with a higher relapse rate. Currently, no biomarker can accurately predict disease progression in every patient. Spinal cord lesions, abnormalities on MRI, and more brain atrophy are predictive of a worse course, though brain atrophy as a predictor of disease course is experimental and not used in clinical practice. Early treatment leads to a better prognosis, but a higher relapse frequency when treated with DMTs is associated with a poorer prognosis. A 60-year longitudinal population study conducted in Norway found that those with MS had a life expectancy seven years shorter than the general population. Median life expectancy for RRMS patients was 77.8 years and 71.4 years for PPMS, compared to 81.8 years for the general population. Life expectancy for men was five years shorter than for women.
+
+
+## Epidemiology
+
+MS is the most common autoimmune disorder of the central nervous system. The latest estimation of the total number of people with MS was 2.8 million globally, with a prevalence of 36 per 100,000 people. Moreover, prevalence varies widely in different regions around the world. In Africa, there are five people per 100,000 diagnosed with MS, compared to South East Asia where the prevalence is nine per 100,000, 112 per 100,000 in the Americas, and 133 per 100,000 in Europe.
+Increasing rates of MS may be explained simply by better diagnosis. Studies on populational and geographical patterns have been common and have led to a number of theories about the cause.
+MS usually appears in adults in their late twenties or early thirties but it can rarely start in childhood and after 50 years of age. The primary progressive subtype is more common in people in their fifties. Similarly to many autoimmune disorders, the disease is more common in women, and the trend may be increasing. As of 2020, globally it is about two times more common in women than in men, and the ratio of women to men with MS is as high as 4:1 in some countries. In children, it is even more common in females than males, while in people over fifty, it affects males and females almost equally.
+
+
+## History
+
+
+### Medical discovery
+
+Robert Carswell (1793–1857), a British professor of pathology, and Jean Cruveilhier (1791–1873), a French professor of pathologic anatomy, described and illustrated many of the disease's clinical details, but did not identify it as a separate disease. Specifically, Carswell described the injuries he found as "a remarkable lesion of the spinal cord accompanied with atrophy". Under the microscope, Swiss pathologist Georg Eduard Rindfleisch (1836–1908) noted in 1863 that the inflammation-associated lesions were distributed around blood vessels.
+The French neurologist Jean-Martin Charcot (1825–1893) was the first person to recognize multiple sclerosis as a distinct disease in 1868. Summarizing previous reports and adding his own clinical and pathological observations, Charcot called the disease sclerose en plaques.
+
+
+### Diagnosis history
+The first attempt to establish a set of diagnostic criteria was also due to Charcot in 1868. He published what now is known as the "Charcot Triad", consisting in nystagmus, intention tremor, and telegraphic speech (scanning speech). Charcot also observed cognition changes, describing his patients as having a "marked enfeeblement of the memory" and "conceptions that formed slowly".
+Diagnosis was based on Charcot triad and clinical observation until Schumacher made the first attempt to standardize criteria in 1965 by introducing some fundamental requirements: Dissemination of the lesions in time (DIT) and space (DIS), and that "signs and symptoms cannot be explained better by another disease process". The DIT and DIS requirement was later inherited by the Poser and McDonald criteria, whose 2017 revision is in use.
+During the 20th century, theories about the cause and pathogenesis were developed and effective treatments began to appear in the 1990s. Since the beginning of the 21st century, refinements of the concepts have taken place.  The 2010 revision of the McDonald criteria allowed for the diagnosis of MS with only one proved lesion (CIS).
+In 1996, the US National Multiple Sclerosis Society (NMSS) (Advisory Committee on Clinical Trials) defined the first version of the clinical phenotypes that is in use. In this first version they provided standardized definitions for four MS clinical courses: relapsing-remitting (RR), secondary progressive (SP), primary progressive (PP), and progressive relapsing (PR). In 2010, PR was dropped and CIS was incorporated. Three years later, the 2013 revision of the "phenotypes for the disease course" were forced to consider CIS as one of the phenotypes of MS, making obsolete some expressions like "conversion from CIS to MS". Other organizations have proposed later new clinical phenotypes, like HAMS (Highly Active MS).
+
+
+### Historical cases
+
+There are several historical accounts of people who probably had MS and lived before or shortly after the disease was described by Charcot.
+A young woman called Halldora who lived in Iceland around 1200 suddenly lost her vision and mobility but recovered them seven days after. Saint Lidwina of Schiedam (1380–1433), a Dutch nun, may be one of the first clearly identifiable people with MS. From the age of 16 until her death at 53, she had intermittent pain, weakness of the legs and vision loss: symptoms typical of MS. Both cases have led to the proposal of a "Viking gene" hypothesis for the dissemination of the disease.
+Augustus Frederick d'Este (1794–1848), son of Prince Augustus Frederick, Duke of Sussex and Lady Augusta Murray and a grandson of George III of the United Kingdom, almost certainly had MS. D'Este left a detailed diary describing his 22 years living with the disease. His diary began in 1822 and ended in 1846, although it remained unknown until 1948. His symptoms began at age 28 with a sudden transient visual loss (amaurosis fugax) after the funeral of a friend. During his disease, he developed weakness of the legs, clumsiness of the hands, numbness, dizziness, bladder disturbance and erectile dysfunction. In 1844, he began to use a wheelchair. Despite his illness, he kept an optimistic view of life. Another early account of MS was kept by the British diarist W. N. P. Barbellion, pen name of Bruce Frederick Cummings (1889–1919), who maintained a detailed log of his diagnosis and struggle. His diary was published in 1919 as The Journal of a Disappointed Man. Charles Dickens, a keen observer, described possible bilateral optic neuritis with reduced contrast vision and Uhthoff phenomenon in the main female character of Bleak House (1852–1853), Esther Summerville.
+
+
+## Research
+
+
+### Epstein-Barr virus
+As of 2022, the pathogenesis of MS as it relates to Epstein-Barr virus (EBV) is actively investigated, as are disease-modifying therapies; understanding of how risk factors combine with EBV to initiate MS is sought. Whether EBV is the only cause of MS might be better understood if an EBV vaccine is developed and shown to prevent MS as well.
+Even though a variety of studies showed the connection between an EBV infection and a later development of multiple sclerosis, the mechanisms behind this correlation are not completely clear, and several theories have been proposed to explain the relationship between the two diseases. It is thought that the involvement of EBV-infected B-cells (B lymphocytes) and the involvement of anti-EBNA antibodies, which appear to be significantly higher in multiple sclerosis patients, play a crucial role in the development of the disease. This is supported by the fact that treatment against B-cells, e.g. ocrelizumab, reduces the symptoms of multiple sclerosis: annual relapses appear less frequently and the disability progression is slower. A 2022 Stanford University study has shown that during an EBV infection, molecular mimicry can occur, where the immune system will produce antibodies against the EBNA1 protein, which at the same time is able to bind to GlialCAM in the myelin. Additionally, they observed a phenomenon which is uncommon in healthy individuals but often detected in multiple sclerosis patients – B-cells are trafficking to the brain and spinal cord, where they are producing oligoclonal antibody bands. A majority of these oligoclonal bands do have an affinity to the viral protein EBNA1, which is cross-reactive to GlialCAM. These antibodies are abundant in approximately 20–25% of multiple sclerosis patients and worsen the autoimmune demyelination which leads consequently to an pathophysiologocal exacerbation of the disease. Furthermore, the intrathecal oligoclonal expansion with a constant somatic hypermutation is unique in multiple sclerosis when compared to other neuroinflammatory diseases. In the study there was also the abundance of antibodies with IGHV 3–7 genes measured, which appears to be connected to the disease progress. Antibodies which are IGHV3–7-based are binding with a high affinity to EBNA1 and GlialCAM. This process is actively thriving the demyelination. It is probable that B-cells, expressing IGHV 3–7 genes entered the CSF and underwent affinity maturation after facing GlialCAM, which led consequently to the production of high affinity anti-GlialCAM antibodies. This was additionally shown in the EAE mouse model where immunization with EBNA1 lead to a strong B-cell response against GlialCAM, which worsened the EAE.
+
+
+### Human endogenous retroviruses
+Two members of the human endogenous retroviruses-W (HERV-W) family, namely, ERVWE1 and MS-associated retrovirus (MSRV), may be co-factors in MS immunopathogenesis. HERVs constitute up to 8% of the human genome; most are epignetically silent, but can be reactivated by exogenous viruses, proinflammatory conditions and/or oxidative stress.
+
+
+### Medications
+Medications that influence voltage-gated sodium ion channels are under investigation as a potential neuroprotective strategy because of hypothesized role of sodium in the pathological process leading to axonal injury and accumulating disability. There is insufficient evidence of an effect of sodium channel blockers for people with MS.
+
+
+### Pathogenesis
+MS is a clinically defined entity with several atypical presentations. Some auto-antibodies have been found in atypical MS cases, giving birth to separate disease families and restricting the previously wider concept of MS.
+Anti-AQP4 autoantibodies were found in neuromyelitis optica (NMO), which was previously considered a MS variant. A spectrum of diseases named NMOSD (NMO spectrum diseases) or anti-AQP4 diseases has been accepted. Some cases of MS were presenting anti-MOG autoantibodies, mainly overlapping with the Marburg variant. Anti-MOG autoantibodies were found to be also present in ADEM, and a second spectrum of separated diseases is being considered. This spectrum is named inconsistently across different authors, but it is normally something similar to anti-MOG demyelinating diseases.
+A third kind of auto-antibodies is accepted. They are several anti-neurofascin auto-antibodies which damage the Ranvier nodes of the neurons. These antibodies are more related to the peripheral nervous demyelination, but they were also found in chronic progressive PPMS and combined central and peripheral demyelination (CCPD, which is considered another atypical MS presentation).
+In addition to the significance of auto-antibodies in MS, four different patterns of demyelination have been reported, opening the door to consider MS as a heterogeneous disease.
+
+
+### Biomarkers
+
+Since disease progression is the result of degeneration of neurons, the roles of proteins showing loss of nerve tissue such as neurofilaments, tau, and N-acetylaspartate are under investigation.
+Improvement in neuroimaging techniques such as positron emission tomography (PET) or MRI carry a promise for better diagnosis and prognosis predictions. Regarding MRI, there are several techniques that have already shown some usefulness in research settings and could be introduced into clinical practice, such as double-inversion recovery sequences, magnetization transfer, diffusion tensor, and functional magnetic resonance imaging. These techniques are more specific for the disease than existing ones, but still lack some standardization of acquisition protocols and the creation of normative values. This is particularly the case for proton magnetic resonance spectroscopy, for which a number of methodological variations observed in the literature may underlie continued inconsistencies in central nervous system metabolic abnormalities, particularly in N-acetyl aspartate, myoinositol, choline, glutamate, GABA, and GSH, observed for multiple sclerosis and its subtypes. There are other techniques under development that include contrast agents capable of measuring levels of peripheral macrophages, inflammation, or neuronal dysfunction, and techniques that measure iron deposition that could serve to determine the role of this feature in MS, or that of cerebral perfusion.
+
+
+### COVID-19
+The hospitalization rate was found to be higher among individuals with MS and COVID-19 infection, at 10%, while the pooled infection rate is estimated at 4%. The pooled prevalence of death in hospitalized individuals with MS is estimated as 4%.
+
+
+### Other emerging theories
+One emerging hypothesis, referred to as the hygiene hypothesis, suggests that early-life exposure to infectious agents helps to develop the immune system and reduces susceptibility to allergies and autoimmune disorders. The hygiene hypothesis has been linked with MS and microbiome hypotheses.
+It has also been proposed that certain bacteria found in the gut use molecular mimicry to infiltrate the brain via the gut–brain axis, initiating an inflammatory response and increasing blood-brain barrier permeability. Vitamin D levels have also been correlated with MS; lower levels of vitamin D correspond to an increased risk of MS, suggesting a reduced prevalence in the tropics – an area with more Vitamin D-rich sunlight – strengthening the impact of geographical location on MS development. MS mechanisms begin when peripheral autoreactive effector CD4+ T cells get activated and move into the CNS. Antigen-presenting cells localize the reactivation of autoreactive effector CD4-T cells once they have entered the CNS, attracting more T cells and macrophages to form the inflammatory lesion. In MS patients, macrophages and microglia assemble at locations where demyelination and neurodegeneration are actively occurring, and microglial activation is more apparent in the normal-appearing white matter of MS patients. Astrocytes generate neurotoxic chemicals like nitric oxide and TNFα, attract neurotoxic inflammatory monocytes to the CNS, and are responsible for astrogliosis, the scarring that prevents the spread of neuroinflammation and kills neurons inside the scarred area.
+In 2024, scientists shared research on their findings of ancient migration to northern Europe from the Yamnaya area of culture, tracing MS-risk gene variants dating back around 5,000 years. The MS-risk gene variants protected ancient cattle herders from animal diseases, but modern lifestyles, diets and better hygiene, have allowed the gene to develop, resulting in the higher risk of MS today.
+
+
+## See also
+List of multiple sclerosis organizations
+List of people with multiple sclerosis
+
+
+## References
+
+
+## External links
+
+Multiple sclerosis at Curlie

@@ -1,0 +1,186 @@
+Hashimoto's thyroiditis, also known as chronic lymphocytic thyroiditis and Hashimoto's disease, is an autoimmune disease in which the thyroid gland is gradually destroyed. A slightly broader term is autoimmune thyroiditis, identical other than that it is also used to describe a similar condition without a goiter.
+Early on, symptoms may not be noticed. Over time, the thyroid may enlarge, forming a painless goiter. Some people eventually develop hypothyroidism with accompanying weight gain, fatigue, constipation, depression, hair loss, and general pains. After many years the thyroid typically shrinks in size. Potential complications include thyroid lymphoma. Furthermore, because it is common for untreated patients of Hashimoto's to develop hypothyroidism, further complications can include, but are not limited to, high cholesterol, heart disease, heart failure, high blood pressure, myxedema, and potential pregnancy problems.
+Hashimoto's thyroiditis is thought to be due to a combination of genetic and environmental factors. Risk factors include a family history of the condition and having another autoimmune disease. Diagnosis is confirmed with blood tests for TSH, T4, and antithyroid autoantibodies. Other conditions that can produce similar symptoms include Graves' disease and nontoxic nodular goiter.
+Hashimoto's thyroiditis is typically treated with levothyroxine. If hypothyroidism is not present, some may recommend no treatment, while others may treat to try to reduce the size of the goiter. Those affected should avoid eating large amounts of iodine; however, sufficient iodine is required especially during pregnancy. Surgery is rarely required to treat the goiter.
+Hashimoto's thyroiditis affects about 5% of Caucasians at some point in their lives. It is the most common cause of hypothyroidism in iodine-sufficient areas of the world. It typically begins between the ages of 30 and 50 and is much more common in women than men. Rates of the disease appear to be increasing. It was first described by the Japanese physician Hakaru Hashimoto in 1912. In 1957, it was recognized as an autoimmune disorder.
+
+
+## Signs and symptoms
+ 
+
+Many symptoms are attributed to the development of Hashimoto's thyroiditis.  The most common symptoms include: fatigue, weight gain, pale or puffy face, feeling cold, joint and muscle pain, constipation, dry and thinning hair, heavy menstrual flow or irregular periods, depression, panic disorder, a slowed heart rate, and problems getting pregnant and miscarriages.
+Some patients in the early stage of the disease may experience symptoms of hyperthyroidism due to the release of thyroid hormones from intermittent thyroid destruction.
+Hashimoto's disease is about seven times more common in women than in men. It can occur in teens and young women, but more commonly appears in middle age, particularly for men. People who develop Hashimoto's disease often have family members who have thyroid or other autoimmune diseases, and sometimes have other autoimmune diseases themselves.
+Early stages of autoimmune thyroiditis may have a normal physical exam with or without a goiter. A goiter is a diffuse, often symmetric, swelling of the thyroid gland visible in the anterior neck that may develop. The thyroid gland may become firm, large, and lobulated in Hashimoto's thyroiditis, but changes in the thyroid can also be nonpalpable. Enlargement of the thyroid is due to lymphocytic infiltration and fibrosis, rather than tissue hypertrophy. While their role in the initial destruction of the follicles is unclear, antibodies against thyroid peroxidase   or thyroglobulin are relevant, as they serve as markers for detecting the disease and its severity. They are thought to be the secondary products of the T cell-mediated destruction of the gland.
+As lymphocytic infiltration progresses, patients may exhibit signs of hypothyroidism in multiple bodily systems, including, but not limited to, a larger goiter, weight gain, cold intolerance, fatigue, myxedema, constipation, menstrual disturbances, pale or dry skin, and dry, brittle hair, depression, ataxia, and muscle weakness.
+Patients with goiters who have had autoimmune thyroiditis for many years might see their goiter shrink in the later stages of the disease due to destruction of the thyroid.
+While rare, more serious complications of the hypothyroidism resulting from autoimmune thyroiditis are pericardial effusion, pleural effusion, both of which require further medical attention, and myxedema coma, which is an endocrine emergency.
+
+
+### Relationship to other autoimmune conditions
+Graves disease may occur before or after the development of autoimmune thyroiditis. Patients may also have coexisting autoimmune conditions of other organs. These may include Addison disease, type 1 diabetes, Sjogren's syndrome, Celiac disease, and rheumatoid arthritis. Autoimmune thyroiditis has also been seen in patients with autoimmune polyendocrine syndromes type 1 and 2.
+
+
+## Genetics
+Thyroid autoimmunity can be familial.  Many patients report a family history of autoimmune thyroiditis or Graves disease. Twin studies have revealed a concordance of Hashimoto's disease in monozygotic twins.
+
+
+## Risk factors
+The strong genetic component is borne out in studies on monozygotic twins, with a concordance of 38–55%, with an even higher concordance of circulating thyroid antibodies not in relation to clinical presentation (up to 80% in monozygotic twins). Neither result was seen to a similar degree in dizygotic twins, offering strong favour for high genetic aetiology.
+
+
+### Medications that influence thyroid function
+Certain medications or drugs have been associated with altering and interfering with thyroid function. Of these drugs, there are two main mechanisms of interference that they can have.
+One of the mechanisms of interference is when a drug alters thyroid hormone serum transfer proteins. Estrogen, tamoxifen, heroin, methadone, clofibrate, 5-flurouracile, mitotane, and perphenazine all increase thyroid binding globulin (TBG) concentration. Androgens, anabolic steroids such as danazol, glucocorticoids, and slow release nicotinic acid all decrease TBG concentrations. Furosemide, fenoflenac, mefenamic acid, salicylates, phenytoin, diazepam, sulphonylureas, free fatty acids, and heparin all interfere with thyroid hormone binding to TBG and/or transthyretin.
+The other mechanism that medications can utilize to interfere with thyroid function would be to alter extra-thryoidal metabolism of thyroid hormone. Propylthiouracil, glucocorticoids, propranolol, iondinated contrast agents, amiodarone, and clomipramine all inhibit conversion of T4 and T3. Phenobarbital, rifampin, phenytoin and carbamazepine all increase hepatic metabolism. Finally, cholestryamine, colestipol, aluminium hydroxide, ferrous sulphate, and sucralfate are all drugs that decrease T4 absorption or enhance excretion.
+
+
+### HLA genes
+The first gene locus associated with autoimmune thyroid disease was major histocompatibility complex (MHC) region on chromosome 6p21. It encodes HLAs. Specific HLA alleles have a higher affinity to autoantigenic thyroidal peptides and can contribute to autoimmune thyroid disease development. Specifically, in Hashimoto's disease, aberrant expression of HLA II on thyrocytes has been demonstrated. They can present thyroid autoantigens and initiate autoimmune thyroid disease. Susceptibility alleles are not consistent in Hashimoto's disease. In Caucasians, various alleles are reported to be associated with the disease, including DR3, DR5 and DQ7.
+
+
+### CTLA-4 genes
+This gene is the second major immune-regulatory gene related to autoimmune thyroid disease. CTLA-4 gene polymorphisms may contribute to the reduced inhibition of T-cell proliferation and increase susceptibility to autoimmune response. CTLA-4 is a major thyroid autoantibody susceptibility gene. A linkage of the CTLA-4 region to the presence of thyroid autoantibodies was demonstrated by a whole-genome linkage analysis. CTLA-4 was confirmed as the main locus for thyroid autoantibodies.
+
+
+### Protein tyrosine phosphatase nonreceptor-type 22 gene
+PTPN22 is the most recently identified immune-regulatory gene associated with autoimmune thyroid disease. It is located on chromosome 1p13 and expressed in lymphocytes. It acts as a negative regulator of T-cell activation. Mutation in this gene is a risk factor for many autoimmune diseases. Weaker T-cell signaling may lead to impaired thymic deletion of autoreactive T cells, and increased PTPN22 function may result in inhibition of regulatory T cells, which protect against autoimmunity.
+
+
+### Immune-related genes
+IFN-γ promotes cell-mediated cytotoxicity against thyroid mutations causing increased production of IFN-γ were associated with the severity of hypothyroidism. Severe hypothyroidism is associated with mutations leading to lower production of IL-4 (Th2 cytokine suppressing cell-mediated autoimmunity), lower secretion of TGF-β (inhibitor of cytokine production), and mutations of FoxP3, an essential regulatory factor for the Tregs development. Development of Hashimoto's disease was associated with mutation of the gene for TNF-α (stimulator of the IFN-γ production), causing its higher concentration.
+Preventable environmental factors, including high iodine intake, selenium deficiency, and infectious diseases and certain drugs, have been implicated in the development of autoimmune thyroid disease in genetically predisposed individuals.
+
+
+### Iodine
+Excessive iodine intake is a well-established environmental factor for triggering thyroid autoimmunity. Thyroid autoantibodies are found to be more prevalent in geographical areas with a higher dietary iodine levels. Several mechanisms by which iodine may promote thyroid autoimmunity have been proposed. Iodine exposure leads to higher iodination of thyroglobulin, increasing its immunogenicity by creating new iodine-containing epitopes or exposing cryptic epitopes. It may facilitate presentation by APC, enhance the binding affinity of the T-cell receptor, and activate specific T-cells.
+Iodine exposure has been shown to increase the level of reactive oxygen species. They enhance the expression of the intracellular adhesion molecule-1 on the thyroid follicular cells, which could attract the immunocompetent cells into the thyroid gland.
+Iodine is toxic to thyrocytes since highly reactive oxygen species may bind to membrane lipids and proteins. It causes thyrocyte damage and the release of autoantigens. Iodine also promotes follicular cell apoptosis and has an influence on immune cells (augmented maturation of dendritic cells, increased number of T cells, stimulated B-cell immunoglobulin production).
+Data from the Danish Investigation of Iodine Intake and Thyroid Disease shows that within two cohorts (males, females) with moderate and mild iodine deficiency, the levels of both thyroid peroxidase and thyroglobulin antibodies are higher in females, and prevalence rates of both antibodies increase with age.
+
+
+### Sex
+Study of healthy Danish twins divided to three groups (monozygotic and dizygotic same sex, and opposite sex twin pairs) estimated that genetic contribution to thyroid peroxidase antibodies susceptibility was 61% in males and 72% in females, and contribution to thyroglobulin antibodies susceptibility was 39% in males and 75% in females.
+The high female predominance in thyroid autoimmunity may be associated with the X chromosome. It contains sex and immune-related genes responsible for immune tolerance.
+A higher incidence of thyroid autoimmunity was reported in patients with a higher rate of X-chromosome monosomy in peripheral white blood cells.
+Another potential mechanism might be skewed X-chromosome inactivation, leading to the escape of X-linked self-antigens from presentation in the thymus and loss of T-cell tolerance.
+Having other autoimmune diseases is a risk factor for developing Hashimoto's thyroiditis, and the opposite is also true. Autoimmune diseases most commonly associated to Hashimoto's thyroiditis include celiac disease, type 1 diabetes, vitiligo, and alopecia.
+The genes implicated vary in different ethnic groups and the incidence is increased in people with chromosomal disorders, including Turner, Down, and Klinefelter syndromes usually associated with autoantibodies against thyroglobulin and thyroperoxidase. Progressive depletion of these cells as the cytotoxic immune response leads to higher degrees of primary hypothyroidism, presenting with low T3/T4 levels, and compensatory elevations of TSH.
+
+
+## Pathophysiology
+The mechanism of autoimmune thyroiditis is not well understood, but is thought to develop as a result of a complex interaction of genetics and environmental factors. Thyroid autoantibodies appear mostly with the presence of lymphocytes in the targeted organ. Lymphocytes produce antibodies targeting three different thyroid proteins: Thyroid peroxidase Antibodies (TPOAb), Thyroglobulin Antibodies (TgAb), and Thyroid stimulating hormone receptor Antibodies (TRAb).
+The antibody attacks ultimately lead to hypothyroidism, which is caused by replacement of follicular cells with parenchymatous tissue.
+The two antibodies most commonly implicated in autoimmune thyroiditis are antibodies against thyroid peroxidase (TPOAb) and thyroglobulin (TgAb). They are hypothesized to develop as a result of thyroid damage, where T-lymphocytes are sensitized to residual thyroid peroxidase and thyroglobulin, rather than as the cause of thyroid damage. However, they may exacerbate further thyroid destruction by binding the complement system and triggering apoptosis of thyroid cells. Environmental factors that may predispose patients to this type of immune dysregulation include toxins, medications, dietary factors, and infectious agents.
+Some patients who are healthy or asymptomatic may be positive for more than one of these antibodies.  Doctors who attend to such patients will most likely monitor these patients as there is a chance that they will develop some type of dysfunction with time.
+Gross morphological changes within the thyroid are seen in the general enlargement, which is far more locally nodular and irregular than more diffuse patterns (such as that of hyperthyroidism). While the capsule is intact and the gland itself is still distinct from surrounding tissue, microscopic examination can provide a more revealing indication of the level of damage.
+
+
+### Pathology
+
+Gross pathology of a thyroid with autoimmune thyroiditis may show an symmetrically enlarged thyroid. It is often paler in color, in comparison to normal thyroid tissue which is reddish-brown. Microscopic examination will show infiltration of lymphocytes and plasma cells. The lymphocytes are predominately T-lymphocytes with a representation of both CD4 positive and CD8 positive cells. The plasma cells are polyclonal, with present germinal centers resembling the structure of a lymph node. Fibrous tissue may be found throughout the affected thyroid as well. Generally, pathological findings of the thyroid are related to the amount of existing thyroid function - the more infiltration and fibrosis, the less likely a patient will have normal thyroid function. In late stages of the disease, the thyroid may be atrophic.
+Histologically, the hypersensitivity is seen as diffuse parenchymal infiltration by lymphocytes, particularly plasma B-cells, which can often be seen as secondary lymphoid follicles (germinal centers, not to be confused with the normally present colloid-filled follicles that constitute the thyroid). Atrophy of the colloid bodies is lined by Hürthle cells, cells with intensely eosinophilic, granular cytoplasm, a metaplasia from the normal cuboidal cells that constitute the lining of the thyroid follicles. Severe thyroid atrophy presents often with denser fibrotic bands of collagen that remains within the confines of the thyroid capsule.
+It is also characterized by invasion of the thyroid tissue by leukocytes, mainly T-lymphocytes. A rare but serious complication is thyroid lymphoma, generally the B-cell type, non-Hodgkin lymphoma.
+
+
+## Diagnosis
+
+Diagnosis is usually made by detecting elevated levels of antithyroid peroxidase antibodies in the serum, but seronegative (without circulating autoantibodies) thyroiditis is also possible. An ultrasound may be useful in detecting Hashimoto thyroiditis, especially in those with seronegative thyroiditis, due to key features detected in the ultrasound of a person with Hashimoto's thyroiditis, such as "echogenicity, heterogeneity, hypervascularity, and presence of small cysts."
+Various tests can be chosen depending on the presenting symptoms. For patients with autoimmune thyroiditis, while it is known that many patients may have circulating antibodies before they present with any symptoms, patients may present to their doctors for evaluation with symptoms of hypothyroidism. Physicians will often start by assessing reported symptoms and performing a thorough physical exam, including a neck exam.
+Given the relatively nonspecific symptoms of initial hypothyroidism, Hashimoto's thyroiditis is often misdiagnosed as depression, cyclothymia, premenstrual syndrome, chronic fatigue syndrome, fibromyalgia, and less frequently, as erectile dysfunction or an anxiety disorder. On gross examination, a hard goiter that is not painful to the touch often presents; other symptoms seen with hypothyroidism, such as periorbital myxedema, depend on the current state of progression of the response, especially given the usually gradual development of clinically relevant hypothyroidism. Testing for thyroid-stimulating hormone (TSH), free T3, free T4, and the antithyroglobulin antibodies (anti-Tg), antithyroid peroxidase antibodies (anti-TPO, or TPOAb) and antimicrosomal antibodies can help obtain an accurate diagnosis. Earlier assessment of the person may present with elevated levels of thyroglobulin owing to transient thyrotoxicosis, as inflammation within the thyroid causes damage to the integrity of thyroid follicle storage of thyroglobulin; TSH secretion from the anterior pituitary increases in response to a decrease in negative feedback inhibition secondary to decreased serum thyroid hormones. Typically, T4 is the preferred thyroid hormone test for hypothyroidism. This exposure of the body to substantial amounts of previously isolated thyroid enzymes is thought to contribute to the exacerbation of tolerance breakdown, giving rise to the more pronounced symptoms seen later in the disease. Lymphocytic infiltration of the thyrocyte-associated tissues often leads to the histologically significant finding of germinal center development within the thyroid gland.
+Hashimoto's when presenting as mania is known as Prasad's syndrome after Ashok Prasad, the psychiatrist who first described it.
+
+
+### Laboratory values
+The initial diagnostic evaluation will start with plasma thyroid-stimulating hormone (TSH) concentration. If elevated, it signifies hypothyroidism. The elevation is usually a marked increase over the normal range and is generally greater than 20 mg/dl. Free T4 levels will usually be lowered, but sometimes might be normal.
+Doctors may check thyroglobulin antibodies (TgAb) whenever a thyroglobulin test is performed to see if the antibody is interfering. TgAb may also be ordered in regular intervals after a person has been diagnosed with thyroid cancer, and just like TPOAb, it can be associated with Hashimoto's thyroiditis. The most common complement of lab values in patients with autoimmune thyroiditis are high TSH, low T4, and positive TPO antibodies.
+
+
+### Ultrasound
+
+When patients have normal laboratory values but symptoms of autoimmune thyroiditis, ultrasound plays a role in diagnosis. Images obtained with ultrasound can evaluate the size of the thyroid and further support the diagnosis of autoimmune thyroiditis, reveal the presence of nodules, or provide clues to the diagnosis of other thyroid conditions. A nuclear medicine Thyroid uptake and scan can also be helpful in diagnosing thyroid function.
+
+
+## Treatment
+
+
+### Managing hormone levels
+
+Hypothyroidism caused by Hashimoto's thyroiditis is treated with thyroid hormone replacement agents such as levothyroxine, triiodothyronine, or desiccated thyroid extract. A tablet taken once a day generally keeps the thyroid hormone levels normal. In most cases, the treatment needs to be taken for the rest of the person's life. If hypothyroidism is caused by Hashimoto's thyroiditis,  the TSH levels may be recommended to be kept under 3.0 mIU/l.
+The standard of care is levothyroxine therapy, which is an oral medication structured like endogenous T4. Levothyroxine can be dosed based upon weight, most commonly, or TSH elevation. Usually the dose prescribed ranges from 1.6 mcg/kg to 1.8 mcg/kg, but can be adjusted based upon each patient. For example, the dose may be lowered for elderly patients or patients with certain cardiac conditions, but should be increased in pregnant patients. It should be administered on a consistent schedule. Some patients elect combination therapy with both levothyroxine and liothyronine, which is a synthetic T3, however studies of combination therapy are limited.
+Side effects of thyroid replacement therapy are associated with iatrogenic hyperthyroidism. Symptoms to watch out for include, but are not limited to, anxiety, tremor, weight loss, heat sensitivity, diarrhea, and shortness of breath. More worrisome symptoms include atrial fibrillation and bone density loss.
+
+
+### Monitoring
+TSH is the laboratory value of choice for monitoring response to treatment with levothyroixine. When treatment is first initiated, TSH levels may be monitored as often as a frequency of every 6–8 weeks. Each time the dose is adjusted, TSH levels may be measured at that frequency until the correct dose is determined. Once titrated to a proper dose, TSH levels will be monitored yearly.
+
+
+### Surgery considerations
+Surgery is not the initial treatment of choice for autoimmune disease, and uncomplicated Hashimoto's thyroidits is not an indication for thyroidectomy. Patients generally may discuss surgery with their doctor if they are experiencing significant pressure symptoms, or cosmetic concerns, or have nodules present on ultrasound. One well-conducted study of patients with troublesome general symptoms and with anti-thyroperoxidase (anti-TPO) levels greater than 1000 IU/ml (normal <100 IU/ml) showed that total thyroidectomy caused the symptoms to resolve, but there were post-operative complications in 14%.
+
+
+## Prognosis
+Overt, symptomatic thyroid dysfunction is the most common complication, with about 5% of people with subclinical hypothyroidism and chronic autoimmune thyroiditis progressing to thyroid failure every year. Transient periods of thyrotoxicosis (over-activity of the thyroid) sometimes occur, and rarely the illness may progress to full hyperthyroid Graves' disease with active orbitopathy (bulging, inflamed eyes). Rare cases of fibrous autoimmune thyroiditis present with severe shortness of breath and difficulty swallowing, resembling aggressive thyroid tumors, but such symptoms always improve with surgery or corticosteroid therapy. Although primary thyroid B-cell lymphoma affects fewer than one in 1000 persons, it is more likely to affect those with long-standing autoimmune thyroiditis, as there is a 67- to 80-fold increased risk of developing primary thyroid lymphoma in patients with Hashimoto's thyroiditis.
+
+
+## Epidemiology
+Hashimoto's thyroiditis disorder is thought to be the most common cause of primary hypothyroidism in North America. Within person, place, and time descriptive trends of epidemiology, it becomes more clear on how Hashimoto's thyroiditis develops in and impacts differing populations.
+Autoimmune thyroiditis is the most common cause of hypothyroidism in settings of sufficient iodine. It is estimated to affect 2% of the world's population. It may affect up to 5% of the United States' population. Anyone may develop this disease, but autoimmune thyroiditis affects women more often than men by about 10 times. The difference in prevalence amongst genders is due to the effects of sex hormones. Incidence peaks in the fifth decade of life, but patients are usually diagnosed between age 30–50.
+
+
+### High iodine consumption
+Autoimmune thyroiditis has a higher prevalence in societies that have a higher intake of iodine in their diet, such as the United States and Japan. It is the most common cause of hypothyroidism in areas of sufficient iodine. Also, the rate of lymphocytic infiltration increased in areas where the iodine intake was once low, but increased due to iodine supplementation.
+
+
+### Age
+It has been shown that "the prevalence of positive tests for thyroid antibodies increases with age, with a frequency as high as 33 percent in women 70 years old or older." Incidence peaks in the fifth decade of life and the prevalence increases with age.
+
+
+### Personal characteristic trends
+Overall, Hashimoto's thyroiditis affects up to 2% of the general population. About 5% of Caucasians will develop Hashimoto's at some point in their lives. In the US, the African-American population experiences it less commonly but has greater associated mortality.  It is also less frequent in  Asian populations. About 1.0 to 1.5 in 1000 people have this disease at any time. It occurs between 8 and 15 times more often in women than in men. Some research suggests a connection to the role of the placenta as an explanation for the sex difference. Though it may occur at any age, including in children, it is most often observed in women between 30 and 60 years of age. The highest prevalence from one study was found in the elderly members of the community.
+Those that already have an autoimmune disease are at greater risk of developing Hashimoto's as the diseases generally coexist with each other. Common diseases seen coexisting with Hashimoto's include celiac disease, multiple sclerosis, type 1 diabetes, vitiligo, and rheumatoid arthritis.
+Congenital hypothyroidism affects 1 in 3500-4000 newborns at birth and is a version of intellectual disability that can be treated if caught early, but can be hard to diagnose given that symptoms are minimal at a young age. Congenital hypothyroidism is generally caused by defects of the thyroid gland, but for most cases in Europe, Asia, and Africa, the iodine intake can cause hypothyroidism in newborns.
+
+
+### Geographic influence of dietary trends
+Diets consisting of low or high iodine intake determine a population's risk of developing thyroid-related disorders. It is more common in regions of high iodine dietary intake, and among people who are genetically susceptible. Geography plays a large role in which regions have access to diets with low or high iodine. Iodine levels in both water and salt should be heavily monitored in order to protect at-risk populations from developing hypothyroidism.
+Geographic trends of hypothyroidism vary across the world as different places have different ways of defining disease and reporting cases. Populations that are spread out or defined poorly may skew data in unexpected ways.
+Iodine deficiency disorder (IDD) is combated using an increase in iodine in a person's diet. When a dramatic change occurs in a person's diet, they become more at-risk of developing hypothyroidism and other thyroid disorders. Combatting IDD with high salt intakes should be done carefully and cautiously as risk for Hashimoto's may increase. If making modifications to one's diet, it is important to use a clinician's discretion to ensure that the dietary changes are the best option as recommendations can vary person to person.
+
+
+### Secular trends
+The secular trends of hypothyroidism reveal how the disease has changed over the course of time given changes in technology and treatment options. Even though ultrasound technology and treatment options have improved, the incidence of hypothyroidism has increased according to data focused on the US and Europe. Between 1993 and 2001, per 1000 women, the disease was found varying between 3.9 and 4.89. Between 1994 and 2001, per 1000 men, the disease increased from 0.65 to 1.01.
+Changes in the definition of hypothyroidism and treatment options modify the incidence and prevalence of the disease overall. Treatment using levothyroxine is individualized, and therefore allows the disease to be more manageable with time but does not work as a cure for the disease.
+
+
+## History
+Also known as Hashimoto's disease, Hashimoto's thyroiditis is named after Japanese physician Hakaru Hashimoto (1881−1934) of the medical school at Kyushu University, who first described the symptoms of persons with struma lymphomatosa, an intense infiltration of lymphocytes within the thyroid, in 1912 in the German journal called Archiv für Klinische Chirurgie. This paper was made up of 30 pages and 5 illustrations all describing the histological changes in the thyroid tissue. Furthermore, all results in his first study were collected from four women. These results explained the pathological characteristics observed in these women especially the infiltration of lymphoid and plasma cells as well as the formation of lymphoid follicles with germinal centers, fibrosis, degenerated thyroid epithelial cells and leukocytes in the lumen. He described these traits to be histologically similar to those of Mikulic's disease. As mentioned above, once he discovered these traits in this new disease, he named the disease struma lymphomatosa. This disease emphasized the lymphoid cell infiltration and formation of the lymphoid follicles with germinal centers, neither of which had ever been previously reported.
+Despite Dr. Hashimoto's discovery and publication, the disease was not recognized as distinct from Reidel's thyroiditis, which was a common disease at that time in Europe. Although many other articles were reported and published by other researchers, Hashimoto's struma lymphomatosa was only recognized as an early phase of Reidel's thyroiditis in the early 1900s. It was not until 1931 that the disease was recognized as a disease in its own right, when researchers Allen Graham et al. from Cleveland reported its symptoms and presentation in the same detailed manner as Hakaru.
+In 1956, Drs. Rose and Witebsky were able to demonstrate how immunization of certain rodents with extracts of other rodents' thyroid resembled the disease Hakaru and other researchers were trying to describe. These doctors were also able to describe anti-thyroglobulin antibodies in blood serum samples from these same animals.
+Later on in the same year, researchers from the Middlesex Hospital in London were able to perform human experiments on patients who presented with similar symptoms. They purified anti-thyroglobulin antibody from their serum and were able to conclude that these sick patients had an immunological reaction to human thyroglobulin. From this data, it was proposed that Hashimoto's struma could be an autoimmune disease of the thyroid gland.
+In 1957, it was recognized as an autoimmune disorder and was the first organ-specific autoimmune disorder identified.
+Following this recognition, the same researchers from Middlesex Hospital published an article in 1962 in The Lancet that included a portrait of Hakaru Hashimoto. The disease became more well known from that moment, and Hashimoto's disease started to appear more frequently in textbooks.
+Since those discoveries, a number of autoimmune diseases have been discovered, with several of them having to do with thyroid-specific antibodies.
+
+
+## Pregnancy
+Pregnant women who are positive for Hashimoto's thyroiditis may have decreased thyroid function or the gland may fail entirely. If a woman is TPOAb-positive, clinicians can inform her of the risks for herself and her infant if the disease goes untreated. "Thyroid peroxidase antibodies (TPOAb) are detected in 10% of pregnant women", which presents risks to those pregnancies. Women who have low thyroid function that has not been stabilized are at greater risk of having an infant with: low birth weight, neonatal respiratory distress, hydrocephalus, hypospadias, miscarriage, and preterm delivery. The embryo transplantion rate and successful pregnancy outcomes are improved when Hashimoto's is treated. Recommendations are to treat pregnant women only if they are TPOAb-positive throughout the entirety of their pregnancies and to screen all pregnant women for thyroid levels. Close cooperation between the endocrinologist and obstetrician benefits the woman and the infant. The Endocrine Society recommends screening in pregnant women who are considered high-risk for thyroid autoimmune disease.
+Thyroid peroxides antibodies testing is recommended for women who have ever been pregnant regardless of pregnancy outcome. "[P]revious pregnancy plays a major role in development of autoimmune overt hypothyroidism in premenopausal women, and the number of previous pregnancies should be taken into account when evaluating the risk of hypothyroidism in a young women [sic]."
+Hormonal changes and trophoblast expression of key immunomodulatory molecules lead to immunosuppression and fetal tolerance. Main players in regulation of the immune response are Tregs. Both cell-mediated and humoral immune responses are attenuated, resulting in immune tolerance and suppression of autoimmunity. It has been reported that during pregnancy, levels of thyroid peroxidase and thyroglobulin antibodies decrease. After giving birth, Tregs rapidly decrease and immune responses are re-established. It may lead to the occurrence or aggravation of the autoimmune thyroid disease. In up to 50% of females with thyroid peroxidase antibodies in the early pregnancy, thyroid autoimmunity in the postpartum period exacerbates in the form of postpartum thyroiditis. Higher secretion of IFN-γ and IL-4, and lower plasma cortisol concentration during pregnancy has been reported in females with postpartum thyroiditis than in healthy females. It indicates that weaker immunosuppression during pregnancy could contribute to the postpartum thyroid dysfunction.
+
+
+### Fetal microchimerism
+Several years after the delivery, the chimeric male cells can be detected in the maternal peripheral blood, thyroid, lung, skin, or lymph nodes. The fetal immune cells in the maternal thyroid gland may become activated and act as a trigger that may initiate or exaggerate the autoimmune thyroid disease. In Hashimoto's disease patients, fetal microchimeric cells were detected in thyroid in significantly higher numbers than in healthy females.
+
+
+## Other organisms
+Hashimoto's disease is also known in chickens (Gallus domesticus), rats (Rattus rattus), mice (Mus musculus), dogs (Canis familiaris), and marmosets (Callitrichidae).
+
+
+## See also
+Hashimoto's encephalopathy
+Myxedematous psychosis
+Hashitoxicosis
+
+
+## References

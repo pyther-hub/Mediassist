@@ -1,0 +1,216 @@
+Hodgkin lymphoma (HL) is a type of lymphoma in which cancer originates from a specific type of white blood cell called lymphocytes, where multinucleated Reed–Sternberg cells (RS cells) are present in the patient's lymph nodes. The condition was named after the English physician Thomas Hodgkin, who first described it in 1832. Symptoms may include fever, night sweats, and weight loss. Often, nonpainful enlarged lymph nodes occur in the neck, under the arm, or in the groin. Persons affected may feel tired or be itchy.
+The two major types of Hodgkin lymphoma are classic Hodgkin lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma. About half of cases of Hodgkin lymphoma are due to Epstein–Barr virus (EBV) and these are generally the classic form. Other risk factors include a family history of the condition and having HIV/AIDS. Diagnosis is conducted by confirming the presence of cancer and identifying RS cells in lymph node biopsies. The virus-positive cases are classified as a form of the Epstein–Barr virus-associated lymphoproliferative diseases.
+Hodgkin lymphoma may be treated with chemotherapy, radiation therapy, and stem-cell transplantation. The choice of treatment often depends on how advanced the cancer has become and whether or not it has favorable features. If the disease is detected early, a cure is often possible. In the United States, 88% of people diagnosed with Hodgkin lymphoma survive for five years or longer. For those under the age of 20, rates of survival are 97%. Radiation and some chemotherapy drugs, however, increase the risk of other cancers, heart disease, or lung disease over the subsequent decades.
+In 2015, about 574,000 people globally had Hodgkin lymphoma, and 23,900 (4.2%) died. In the United States, 0.2% of people are affected at some point in their life. Most people are diagnosed with the disease between the ages of 20 and 40.
+
+
+## Signs and symptoms
+People with Hodgkin lymphoma may present with these symptoms:
+
+Lymphadenopathy: The most common symptom of Hodgkin is the painless enlargement of one or more lymph nodes. The nodes may also feel rubbery and swollen when examined. The nodes of the neck, armpits and groin (cervical and supraclavicular) are most frequently involved (80–90% of the time, on average). The lymph nodes of the chest are often affected, and these may be noticed on a chest radiograph.
+Systemic symptoms: About one-third of people with Hodgkin disease may also present with systemic symptoms, including:
+Itchy skin
+Night sweats
+Unexplained weight loss of at least 10% of the person's total body mass in six months or less
+Low-grade fever.
+Fatigue (lassitude)
+Systemic symptoms such as fever, night sweats, and weight loss are known as B symptoms; thus, presence of these indicate that the person's stage is, for example, 2B instead of 2A.
+Splenomegaly: Enlargement of the spleen is often present in people with Hodgkin lymphoma. The enlargement is seldom massive, and the size of the spleen may fluctuate during the course of treatment.
+Hepatomegaly: Enlargement of the liver, due to liver involvement, is infrequent in people with Hodgkin lymphoma.
+Hepatosplenomegaly: The enlargement of both the liver and spleen can be caused by the same disease.
+Pain following alcohol consumption: Classically, involved nodes are painful after alcohol consumption, though this phenomenon is very uncommon, occurring in only two to three percent of people with Hodgkin lymphoma, thus having a low sensitivity. On the other hand, its positive predictive value is high enough for it to be regarded as a pathognomonic sign of Hodgkin lymphoma. The pain typically has an onset within minutes after ingesting alcohol, and is usually felt as coming from the vicinity where there is an involved lymph node. The pain has been described as either sharp and stabbing or dull and aching.
+Back pain: Nonspecific back pain (pain that cannot be localised or its cause determined by examination or scanning techniques) has been reported in some cases of Hodgkin lymphoma. The lower back is most often affected.
+Cyclical fever: People may also present with a cyclical high-grade fever known as the Pel–Ebstein fever, or more simply "P-E fever". However, there is debate as to whether the P-E fever truly exists.
+Nephrotic syndrome can occur in individuals with Hodgkin lymphoma and is most commonly caused by minimal change disease.
+May present with airway obstruction, pleural/pericardial effusion, hepatocellular dysfunction, or bone-marrow infiltration.
+
+
+## Diagnosis
+Hodgkin lymphoma must be distinguished from noncancerous causes of lymph node swelling (such as various infections) and from other types of cancer. Definitive diagnosis is by lymph node biopsy (usually excisional biopsy with microscopic examination). Blood tests are also performed to assess function of major organs and safety for chemotherapy. Positron emission tomography (PET) is used to detect small deposits that do not show on CT scanning. PET scans are also useful in functional imaging (by using a radiolabeled glucose to image tissues of high metabolism). In some cases, a gallium scan may be used instead of a PET scan.
+
+
+### Types
+The two main types of Hodgkin lymphoma are classic Hodgkin lymphoma and nodular lymphocyte-predominant Hodgkin lymphoma. The prevalence of classic Hodgkin lymphoma and nodular-lymphocyte Hodgkin lymphoma are about 90 and 10%, respectively. The morphology, phenotype, molecular features, and, therefore, the clinical behaviour and presentation of the two types differ.
+
+
+#### Classic
+Classic Hodgkin lymphoma (excluding nodular lymphocyte predominant Hodgkin lymphoma) can be subclassified into four pathologic subtypes based upon Reed–Sternberg cell morphology and the composition of the reactive cell infiltrate seen in the lymph node biopsy specimen (the cell composition around the Reed–Sternberg cell(s)). Presence of EBV in Reed-Sternberg cells is most commonly found in the subtypes lymphocyte depleted HL (>70%) and mixed cellularity HL (70%), whilst being less prevalent in lymphocyte-rich HL (40%) and relatively uncommon by comparison in nodular sclerosing HL.
+
+For the other forms, although the traditional B-cell markers (such as CD20) are not expressed on all cells, Reed–Sternberg cells are usually of B cell origin. Although Hodgkin's is now frequently grouped with other B-cell malignancies, some T-cell markers (such as CD2 and CD4) are occasionally expressed. However, this may be an artifact of the ambiguity inherent in the diagnosis.
+Hodgkin cells produce interleukin-21 (IL-21), which was once thought to be exclusive to T-cells. This feature may explain the behavior of classic Hodgkin lymphoma, including clusters of other immune cells gathered around HL cells (infiltrate) in cultures.
+
+
+#### Nodular lymphocyte predominant
+Nodular lymphocyte predominant Hodgkin lymphoma (NLPHL) is another subtype of Hodgkin lymphoma distinct from classic Hodgkin lymphoma and is characterized by the presence of popcorn cells which express CD20. Due to these differences, among others, NLPHL is often treated differently from classic Hodgkin lymphoma, including using rituximab in combination with AVBD chemotherapy, though individual cases vary and clinical trials are ongoing.
+
+
+### Staging
+The staging is the same for both Hodgkin and non-Hodgkin lymphomas.
+After Hodgkin lymphoma is diagnosed, a person will be staged: that is, they will undergo a series of tests and procedures that will determine what areas of the body are affected. These procedures may include documentation of their histology, a physical examination, blood tests, chest X-ray radiographs, computed tomography (CT)/positron emission tomography (PET)/magnetic resonance imaging (MRI) scans of the chest, abdomen and pelvis, and usually a bone marrow biopsy. PET scan is now used instead of the gallium scan for staging. On the PET scan, sites involved with lymphoma light up very brightly enabling accurate and reproducible imaging. In the past, a lymphangiogram or surgical laparotomy (which involves opening the abdominal cavity and visually inspecting for tumors) were performed. Lymphangiograms or laparotomies are very rarely performed, having been supplanted by improvements in imaging with the CT scan and PET scan.
+On the basis of this staging, the person will be classified according to a staging classification (the Ann Arbor staging classification scheme is a common one):
+
+Stage I is involvement of a single lymph node region (I) (mostly the cervical region) or single extralymphatic site (Ie);
+Stage II is involvement of two or more lymph node regions on the same side of the diaphragm (II) or of one lymph node region and a contiguous extralymphatic site (IIe);
+Stage III is involvement of lymph node regions on both sides of the diaphragm, which may include the spleen (IIIs) or limited contiguous extralymphatic organ or site (IIIe, IIIes);
+Stage IV is disseminated involvement of one or more extralymphatic organs.
+The absence of systemic symptoms is signified by adding "A" to the stage; the presence of systemic symptoms is signified by adding "B" to the stage. For localised extranodal extension from mass of nodes that does not advance the stage, subscript "E" is added. Splenic involvement is signified by adding "S" to the stage. The inclusion of "bulky disease" is signified by "X".
+
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+		
+			
+			
+		
+
+
+### Pathology
+
+
+#### Macroscopy
+Affected lymph nodes (most often, laterocervical lymph nodes) are enlarged, but their shape is preserved because the capsule is not invaded. Usually, the cut surface is white-grey and uniform; in some histological subtypes (e.g. nodular sclerosis) a nodular aspect may appear.
+A fibrin ring granuloma may be seen.
+
+
+#### Microscopy
+
+Microscopic examination of the lymph node biopsy reveals complete or partial effacement of the lymph node architecture by scattered large malignant cells known as Reed-Sternberg cells (RSC) (typical and variants) admixed within a reactive cell infiltrate composed of variable proportions of lymphocytes, histiocytes, eosinophils, and plasma cells. The Reed–Sternberg cells are identified as large often bi-nucleated cells with prominent nucleoli and an unusual CD45−, CD30+, CD15+/− immunophenotype. In approximately 50% of cases, the Reed–Sternberg cells are infected by the Epstein–Barr virus.
+Characteristics of classic Reed–Sternberg cells include large size (20–50 micrometres), abundant, amphophilic, finely granular/homogeneous cytoplasm; two mirror-image nuclei (owl eyes) each with an eosinophilic nucleolus and a thick nuclear membrane (chromatin is distributed close to the nuclear membrane). Almost all of these cells have an increased copy number of chromosome 9p/9p24.1.
+Variants:
+
+Hodgkin cell (atypical mononuclear RSC) is a variant of RS cell, which has the same characteristics but is mononucleated.
+Lacunar RSC is large, with a single hyperlobulated nucleus, multiple, small nucleoli and eosinophilic cytoplasm which is retracted around the nucleus, creating an empty space ("lacunae").
+Pleomorphic RSC has multiple irregular nuclei.
+"Popcorn" RSC (lympho-histiocytic variant) is a small cell, with a very lobulated nucleus, small nucleoli.
+"Mummy" RSC has a compact nucleus with no nucleolus and basophilic cytoplasm.
+Hodgkin lymphoma can be sub-classified by histological type. The cell histology in Hodgkin lymphoma is not as important as it is in non-Hodgkin lymphoma: the treatment and prognosis in classic Hodgkin lymphoma usually depends on the stage of disease rather than the histotype.
+
+
+## Management
+The current approach for treatment aims to reduce the acute and long-term toxicities associated with Hodgkin lymphoma (e.g. cardiac damage and secondary cancers) and increase overall survival.
+People with early stage disease (IA or IIA) can be treated effectively with radiation therapy or chemotherapy. The choice of treatment depends on the age, sex, bulk and the histological subtype of the disease.
+Adding localised radiation therapy after the chemotherapy regimen may provide a longer progression-free survival compared with chemotherapy treatment alone. People with later disease (III, IVA, or IVB) are treated with combination chemotherapy alone. People of any stage with a large mass in the chest are usually treated with combined chemotherapy and radiation therapy.
+
+The common non-Hodgkin treatment, rituximab (which is a monoclonal antibody against CD20) is not routinely used to treat Hodgkin lymphoma due to the lack of CD20 surface antigens in most cases. The use of rituximab in Hodgkin lymphoma, including the lymphocyte predominant subtype has been recently reviewed. The evidence is very uncertain about the effect of Nivolumab for patients with a Hodgkin's lymphoma e.g. on the overall survival.
+Increased age is an adverse risk factor for Hodgkin lymphoma, but in general elderly people (≥ 60 years of age) without major comorbidities are sufficiently fit to tolerate therapy with curative intent. Despite this, treatment outcome in the elderly patient is not comparable to that of younger people and the disease is a different entity in older people where different considerations enter into treatment decisions.
+Recently, two novel targeted drugs have been developed for relapsing and refractory HL patients; Brentuximab vedotin, a CD30 antibody conjugated with a cytotoxic component MMAE, and the checkpoint inhibitors, Nivolumab and Pembrolizumab. This has been an important step in the treatment  for the few, but still existing refractory patients.
+For Hodgkin lymphomas, radiation oncologists typically use external beam radiation therapy (sometimes shortened to EBRT or XRT). Radiation oncologists deliver external beam radiation therapy to the lymphoma from a machine called a linear accelerator which produces high energy X-rays and electrons. People usually describe treatments as painless and similar to getting an X-ray. Treatments last less than 30 minutes each.
+For lymphomas, there are a few different ways radiation oncologists target the cancer cells. Involved site radiation is when the radiation oncologists give radiation only to those parts of the person's body known to have the cancer. Very often, this is combined with chemotherapy. Radiation therapy directed above the diaphragm to the neck, chest or underarms is called mantle field radiation. Radiation to below the diaphragm to the abdomen, spleen or pelvis is called inverted-Y field radiation. Total nodal irradiation is when the therapist gives radiation to all the lymph nodes in the body to destroy cells that may have spread.
+
+
+### Adverse effects
+The high cure rates and long survival of many people with Hodgkin lymphoma has led to a high concern with late adverse effects of treatment, including cardiovascular disease and second malignancies such as acute leukemias, lymphomas, and solid tumors within the radiation therapy field. Most people with early-stage disease are now treated with abbreviated chemotherapy and involved site radiation therapy rather than with radiation therapy alone. Clinical research strategies are exploring reduction of the duration of chemotherapy and dose and volume of radiation therapy in an attempt to reduce late morbidity and mortality of treatment while maintaining high cure rates. Hospitals are also treating those who respond quickly to chemotherapy with no radiation.
+In childhood cases of Hodgkin lymphoma, long-term endocrine adverse effects are a major concern, mainly gonadal dysfunction and growth retardation. Gonadal dysfunction seems to be the most severe endocrine long-term effect, especially after treatment with alkylating agents or pelvic radiotherapy.
+It is possible that patients undergoing a chemotherapy need a platelet transfusion. If a stem cell transplantation is necessary for the treatment of a relapse, graft-versus-host diseases might occur.
+
+
+### Supportive treatment
+Adding physical exercises to the standard treatment for adult patients with haematological malignancies like Hodgkin lymphoma may result in little to no difference in the mortality, the quality of life and the physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect on anxiety and serious adverse events. 
+
+
+## Prognosis
+Treatment of Hodgkin's disease has been improving over the past few decades. Recent trials that have made use of new types of chemotherapy have indicated higher survival rates than have previously been seen. In a 2007 European trial, the five-year survival rate for those people with a favorable prognosis (FFP) was 98%, while that for people with worse outlooks was at least 85%.
+In 1998, an international effort identified seven prognostic factors that accurately predict the success rate of conventional treatment in people with locally extensive or advanced-stage Hodgkin lymphoma. Freedom from progression (FFP) at five years was directly related to the number of factors present in a person. The five-year FFP for people with zero factors is 84%. Each additional factor lowers the five-year FFP rate by 7%, such that the five-year FFP for a person with five or more factors is 42%.
+The adverse prognostic factors identified in the international study are:
+
+Age ≥ 45 years
+Stage IV disease
+Hemoglobin < 10.5 g/dl
+Lymphocyte count < 600/μL or < 8%
+Male
+Albumin < 4.0 g/dl
+White blood count ≥ 15,000/μL
+Other studies have reported the following to be the most important adverse prognostic factors: mixed-cellularity or lymphocyte-depleted histologies, male sex, large number of involved nodal sites, advanced stage, age of 40 years or more, the presence of B symptoms, high erythrocyte sedimentation rate, and bulky disease (widening of the mediastinum by more than one third, or the presence of a nodal mass measuring more than 10 cm in any dimension.)
+More recently, the use of positron emission tomography (PET) early after commencing chemotherapy has demonstrated to have powerful prognostic ability. This enables assessment of an individual's response to chemotherapy as the PET activity switches off rapidly in people who are responding. In this study, after two cycles of ABVD chemotherapy, 83% of people were free of disease at 3 years if they had a negative PET versus only 28% in those with positive PET scans. This prognostic method improves on FFP estimates based on the seven conventional factors. Several trials are underway to see if PET-based risk adapted response can be used to improve a person's outcomes by changing chemotherapy early in people who are not responding.
+The evidence is very uncertain about the effect of negative (= good prognosis) or positive (= bad prognosis) interim PET scan results for patients with a Hodgkin's lymphoma on the progression-free survival. Negative interim PET scan results may result in an increase in progression-free survival compared if the adjusted result was measured. Negative interim PET scan results probably result in a large increase in the overall survival compared to those with a positive interim PET scan result,
+
+
+## Epidemiology
+
+Unlike some other lymphomas, whose number of new cases per year increases with age, Hodgkin lymphoma has a bimodal curve for the number of cases; that is, it occurs most frequently in two separate age groups, the first being young adulthood (age 15–35) and the second being in those over 55 years old although these peaks may vary slightly with nationality. Overall, it is more common in males, except for the nodular sclerosis variant, which is slightly more common in females. The annual number of cases of Hodgkin lymphoma is 2.7 per 100,000 per persons per year, and the disease accounts for slightly less than 1% of all cancers worldwide.
+In 2010, globally it resulted in about 18,000 deaths down from 19,000 in 1990. In 2012, there were an estimated 65,950 cases and 25,469 deaths from Hodgkin lymphoma worldwide, with 28,852 and 37,098 cases occurring in developed and developing countries, respectively. However, the age-standardized rates were higher in developed regions, with the greatest rates in the Americas (1.5 per 100,000), East Mediterranean Region (1.5 per 100,000), and Europe (2.0 per 100,000). The East Mediterranean Region also has the highest age-standardized mortality rate of 1.0 per 100,000, which is mainly attributed to lifestyle and environmental risk factors associated with transitional economies such as smoking, obesity, physical inactivity, and reproductive behaviors, as well as availability of diagnostic practices and awareness of the disease.
+The number of cases of Hodgkin lymphoma is increased in people with HIV infection. In contrast to many other lymphomas associated with HIV infection it occurs most commonly in people with higher CD4 T cell counts.
+
+
+### Canada
+Hodgkin lymphoma accounts for 0.6% of all male cancer cases, and 0.4% of all female cancer cases in Canada. In 2017, approximately 990 Canadians will be diagnosed with Hodgkin lymphoma, and 140 will die of the disease.
+
+
+### UK
+Hodgkin lymphoma accounts for less than 1% of all cancer cases and deaths in the UK. Around 1,800 people were diagnosed with the disease in 2011, and around 330 people died in 2012.
+
+
+### United States
+In 2016, there were 8,389 new cases and 1,000 mortalities attributed to Hodgkin lymphoma, a decrease from the 8,625 new cases and 1,120 mortalities in 2015. As of January 1, 2016, the 5-year limited duration prevalence of Hodgkin lymphoma was 37,513 representing 0.71% of all diagnosed cancers in the U.S.
+
+
+## History
+
+Hodgkin lymphoma was first described in an 1832 report by Thomas Hodgkin, although Hodgkin noted that perhaps an earlier reference to the condition was provided by Marcello Malpighi in 1666. While occupied as museum curator at Guy's Hospital, London, Hodgkin studied seven people with painless lymph node enlargement. Of the seven cases, two were under the care of Richard Bright, one was of Thomas Addison, and one was of Robert Carswell. Carswell's report of the seventh case was accompanied by numerous illustrations that aided early descriptions of the disease.
+Hodgkin's report on the seven cases, entitled "On some morbid appearances of the absorbent glands and spleen", was presented to the Medical and Chirurgical Society of London in January 1832 and was subsequently published in the society's journal, Medical-Chirurgical Society Transactions. Hodgkin's paper went largely unnoticed, however, even though Bright highlighted it in an 1838 publication. Indeed, Hodgkin himself did not view his contribution as particularly significant.
+In 1856, Samuel Wilks independently reported on a series of patients with the same disease that Hodgkin had previously described. Wilks, a successor to Hodgkin at Guy's Hospital, was unaware of Hodgkin's prior work on the subject. Bright informed Wilks of Hodgkin's contribution and in 1865, Wilks published a second paper, entitled "Cases of enlargement of the lymphatic glands and spleen", in which he named the illness "Hodgkin's disease" in honor of his predecessor.
+Theodor Langhans and WS Greenfield first described the microscopic characteristics of Hodgkin lymphoma in 1872 and 1878, respectively. In 1898 and 1902, respectively, Carl Sternberg and Dorothy Reed independently described the cytogenetic features of the malignant cells of Hodgkin lymphoma, now called Reed–Sternberg cells.
+Tissue specimens from Hodgkin's seven cases were preserved at Guy's Hospital. Nearly 100 years after Hodgkin's initial publication, histopathologic reexamination confirmed Hodgkin lymphoma in only three of seven of these people. The remaining cases included non-Hodgkin lymphoma, tuberculosis, and syphilis.
+Hodgkin lymphoma was one of the first cancers to be treated successfully with radiation therapy and, later, it was one of the first to be treated by combination chemotherapy.
+
+
+## Notable cases
+Paul Allen, co-founder of Microsoft was diagnosed with Hodgkin lymphoma in 1982. He later died from non-Hodgkin lymphoma, on October 15, 2018.
+Eric Berry, All-Pro strong safety for the Kansas City Chiefs of the National Football League, diagnosed in 2014.
+David Brooks, Welsh professional footballer, diagnosed in 2021 while playing for AFC Bournemouth.
+Dale Carnegie, Public Speaker and author of "How to Win Friends and Influence People" (c)1936, Born 1888, Maryville, MO, died 1955, Forrest Hills,NY.  
+Howard Carter, Egyptologist and discoverer of the Tomb of Tutankhamun, died in 1939 from Hodgkin's disease.
+Starchild Abraham Cherrix, a teenager whose refusal to undergo further conventional treatment after relapsing in 2006 resulted in a court battle and a change to Virginia laws about medical neglect.
+James Conner, running back and 2014 ACC Player of the Year for the Arizona Cardinals.
+Michael Cuccione, Canadian child actor, was diagnosed in 1994 at age 9. Treatments that rendered him cancer-free, including chemotherapy, a bone marrow transplant, and radiation, left him with permanent lung and respiratory problems and he died in 2001 just after turning 16.
+Victoria Duval, American tennis player, was diagnosed in 2014.
+Gerald Finzi, British composer, was diagnosed in 1951 and died in 1956.
+Mist Edvardsdóttir, Icelandic football player and member of the Icelandic women's national team. Diagnosed in June 2014 at the age of 23. Continued to play until becoming too ill due to chemotherapy. Made recovery in early 2015.
+Delta Goodrem, Australian singer, songwriter, and actress. She was diagnosed in July 2003 at the age of 18.
+Hank Green, one of the cofounders of the Vlogbrothers, VidCon and production company Complexly, announced that he was diagnosed with Hodgkin lymphoma in a video he released on 19 May 2023. Green would announce his entrance into remission on 25 August 2023.
+Jiří Grossmann, Czechoslovak theatre actor, poet, and composer
+Michael C. Hall (born February 1, 1971), American actor, best known for his lead role as Dexter Morgan, in Showtime's crime series Dexter. In 2010, aged 38, Hall announced he was undergoing treatment for Hodgkin lymphoma; within two years, the disease was in full remission.
+Richard Harris, Irish actor who portrayed Albus Dumbledore in the first two Harry Potter movies, died on October 25, 2002, after being diagnosed earlier that year.
+Daniel Hauser, whose mother fled with him in 2009 in order to prevent him from undergoing chemotherapy.
+Tessa James, Australian actress, was diagnosed in 2014.
+Sean Kent, American stand up comedian and actor. Was diagnosed in 2002 while writing on The Best Damn Sports Show Period. After three months of chemotherapy and one month of radiation, the cancer went into remission.
+Mario Lemieux, Hall of Fame NHL player, co-owner of the Pittsburgh Penguins and founder of the Mario Lemieux Foundation, diagnosed in 1993.
+Dinu Lipatti (1917–1950), Romanian classical pianist and composer. Diagnosed in 1947, received cortisone treatment in 1949; died from a burst abscess on his one lung.
+Jack Lisowski, English snooker player, diagnosed in 2008 at the age of 16.
+Mamta Mohandas, Indian film actress and producer, diagnosed in 2010.
+Nanni Moretti, Italian actor and director.
+Laura Packard, health care activist diagnosed in 2017, spoke at the 2020 Democratic National Convention.
+Nikola Pokrivač, Croatian soccer midfielder, diagnosed in 2015.
+Anthony Rizzo, MLB All-Star first baseman for the New York Yankees, diagnosed in May 2008 while signed as a minor league player for the Boston Red Sox.
+Dave Roberts, MLB outfielder and manager of the Los Angeles Dodgers. Diagnosed in March 2010 while he was a coach for the San Diego Padres.
+Chip Roy, Texas congressman.
+Flip Saunders, head coach of the NBA team Minnesota Timberwolves, announced in August 2015 that he was diagnosed with Hodgkin's disease. He died of the disease in October 2015.
+Arlen Specter, United States Senator from Pennsylvania (1981–2011), diagnosed in 2005. He later died from non-Hodgkin lymphoma in 2012.
+Brandon Tartikoff, American television executive, diagnosed around 1974, died in 1997.
+Bernardo Tengarrinha, Portuguese professional footballer, diagnosed in 2017 Tengarrinha died on October 30, 2021, at the age of 32. Hours later, his former teams FC Porto and Boavista FC paid tribute to him before the local derby. playing for FC Porto.
+Ethan Zohn, American professional soccer player and a winner of the Survivor reality television series. Zohn was diagnosed twice (in 2009 and 2011).
+Richard Holliday, American professional wrestler, reported to be ill with diagnosis from June 2022, completed treatment February 17, 2023
+Rick Czaplewski, Author Better Dirty Than Done, Motivational Speaker, 2009 Boston Marathon Finisher.
+
+
+## References
+
+
+## Further reading
+Jacobs CD (2010). Henry Kaplan and the Story of Hodgkin's Disease. Stanford University Press. ISBN 978-0-8047-7448-2. OCLC 648759629; combines a biography of the American radiation oncologist (1918–84) with a history of the lymphatic cancer whose treatment he helped to transform.
+
+
+## External links
+
+Hodgkin lymphoma at Curlie
+Hodgkin Lymphoma at American Cancer Society
+Hodgkin Lymphoma at the American National Cancer Institute

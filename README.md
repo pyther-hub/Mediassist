@@ -17,7 +17,6 @@ The RAG (Medical Assistant) project is designed to assist in medical information
 *   **advanced\_rag.py**: Main script for advanced functionalities of the RAG assistant.
 *   **colletedata\_wikipedia.ipynb**: Jupyter notebook for collecting medical data from Wikipedia.
 *   **common\_diseases.txt**: Text file listing common diseases for reference or data processing.
-*   **create\_kg.py**: Python script for creating the knowledge graph.
 *   **create\_knowledge\_graph.ipynb**: Jupyter notebook for creating and visualizing the knowledge graph.
 *   **graph\_documents.pkl**: Pickle file storing documents related to the knowledge graph.
 *   **kg\_helper.py**: Helper functions and utilities for managing the knowledge graph.
